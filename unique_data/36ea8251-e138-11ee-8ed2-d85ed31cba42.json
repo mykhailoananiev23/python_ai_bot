@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 et nyt, komplekst software, dit team skal bruge?",
+            "options": [
+                {
+                    "answer": "Du tager initiativ til at l\u00c3\u00a6re det og holder en uformel workshop for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du griner ved udsigten til at tackle en ny udfordring og dykker lystigt ind.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en trin-for-trin guide for at mestre softwaren effektivt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle i teamet har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tte til at l\u00c3\u00a6re softwaren.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 ferie. Hvordan planl\u00c3\u00a6gger du turen?",
+            "options": [
+                {
+                    "answer": "Du booker kun den f\u00c3\u00b8rste nat og beslutter resten undervejs.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for hver dag, inklusive backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter specifikke m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med ferien.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at din rejse har et form\u00c3\u00a5l, fx kulturel l\u00c3\u00a6ring eller frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team skal l\u00c3\u00a6re en kompleks ny software. Hvordan sikrer du, at alle er med?",
+            "options": [
+                {
+                    "answer": "Du arrangerer tr\u00c3\u00a6ningssessioner med ekspertundervisere for at sikre en dyb forst\u00c3\u00a5else af softwaren.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du opmuntrer til et 'learning by doing' milj\u00c3\u00b8, hvor alle f\u00c3\u00b8ler sig frie til at eksperimentere med softwaren.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en detaljeret uddannelsesplan, inklusive deadlines og m\u00c3\u00a5l for hvert teammedlem.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at der er tilstr\u00c3\u00a6kkelige ressourcer og support tilg\u00c3\u00a6ngelig, og at teammedlemmerne kan dele viden og tips.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

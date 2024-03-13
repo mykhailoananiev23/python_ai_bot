@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du st\u00c3\u00a5r over for en fejl du har lavet?",
+            "options": [
+                {
+                    "answer": "Med en praktisk tilgang til at rette op p\u00c3\u00a5 fejlen hurtigst muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en accept af, at fejl er en del af livet, og en l\u00c3\u00a6ringserfaring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en grundig analyse af, hvad der gik galt, for at undg\u00c3\u00a5 fremtidige fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en f\u00c3\u00b8lelse af ansvar over for dem, der er ber\u00c3\u00b8rt af fejlen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og kan ikke bestemme dig for, hvor I skal hen. Hvordan v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Du beslutter at lade din date v\u00c3\u00a6lge for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret liste over muligheder og v\u00c3\u00a6lger den med de bedste anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du ved, du kan vise dine bedste sider.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger din date om deres pr\u00c3\u00a6ferencer for at sikre, de f\u00c3\u00a5r en god oplevelse.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at du har sendt en vigtig e-mail til den forkerte person. Hvordan retter du op p\u00c3\u00a5 din fejl?",
+            "options": [
+                {
+                    "answer": "Du sender en undskyldende opf\u00c3\u00b8lgning til begge parter og l\u00c3\u00b8ser situationen med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker alle fremtidige e-mails for at sikre, at dette aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du anvender fejlen som en l\u00c3\u00a6ringserfaring for at forbedre dine kommunikationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager det fulde ansvar og s\u00c3\u00b8rger for, at den korrekte modtager f\u00c3\u00a5r de n\u00c3\u00b8dvendige informationer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

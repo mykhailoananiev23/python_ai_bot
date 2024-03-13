@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at du har haft din tr\u00c3\u00b8je p\u00c3\u00a5 vrangen hele dagen p\u00c3\u00a5 arbejdet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner af det og g\u00c3\u00b8r det til dagens joke blandt kollegerne.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig flov og beslutter dig for at tjekke dig selv ekstra grundigt i spejlet fremover.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en lektion i at v\u00c3\u00a6re mere opm\u00c3\u00a6rksom og effektiv i din morgenrutine.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor alle, du har m\u00c3\u00b8dt, selvom de sandsynligvis ikke har lagt m\u00c3\u00a6rke til det.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En klient giver negativ feedback p\u00c3\u00a5 et projekt, du f\u00c3\u00b8lte gik godt. Hvordan tackler du det?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken detaljeret for at forst\u00c3\u00a5 klientens perspektiv og forbedre fremtidigt arbejde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig skuffet men beslutter at se det som en l\u00c3\u00a6ring og ikke tage det for personligt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du arrangerer et opf\u00c3\u00b8lgningsm\u00c3\u00b8de med klienten for at diskutere feedbacken og finde en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at klientens bekymringer bliver adresseret og arbejder p\u00c3\u00a5 at genoprette tilliden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en middag, og din ret viser sig at v\u00c3\u00a6re noget helt andet end det, du bestilte. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du ser det som en mulighed for at pr\u00c3\u00b8ve noget nyt og tager det med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du er irriteret over fejlen og sikrer, at tjeneren forst\u00c3\u00a5r vigtigheden af at f\u00c3\u00a5 det rigtige m\u00c3\u00a5ltid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du vurderer situationen og beslutter, om det er v\u00c3\u00a6rd at n\u00c3\u00a6vne, alt imens du s\u00c3\u00b8ger den bedste l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er bedre at undg\u00c3\u00a5 konfrontation og accepterer m\u00c3\u00a5ltidet, selvom det ikke var, hvad du \u00c3\u00b8nskede.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge et nyt sprog at l\u00c3\u00a6re. Hvad motiverer dit valg?",
+            "options": [
+                {
+                    "answer": "Det sprog, der lyder sjovest eller mest sp\u00c3\u00a6ndende at udtale.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et sprog, der giver dig de bedste karrieremuligheder eller forretningsfordele.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et sprog, der er logisk struktureret og effektivt at l\u00c3\u00a6re med klare regler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et sprog, der hj\u00c3\u00a6lper dig med at forbinde bedre med mennesker fra en bestemt kultur.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

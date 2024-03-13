@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder en stor edderkop i dit hus. Hvad er din f\u00c3\u00b8rste reaktion?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og m\u00c3\u00a5ske endda tager et billede, f\u00c3\u00b8r du fjerner den.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00b8jeblikkeligt stresset og bruger lang tid p\u00c3\u00a5 at finde den mest humane m\u00c3\u00a5de at fjerne den p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger straks en effektiv metode til at fange og uds\u00c3\u00a6tte edderkoppen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at s\u00c3\u00b8rge for, at edderkoppen kommer sikkert ud, selvom det tager tid.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager en gave, du virkelig ikke bryder dig om. Hvordan takker du for gaven?",
+            "options": [
+                {
+                    "answer": "Du udtrykker taknemmelighed for tanken bag gaven og v\u00c3\u00a6rds\u00c3\u00a6tter gestus.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov kommentar om, hvordan gaven passer overraskende godt ind i din samling.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan inkludere gaven i dit liv p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer, hvorfor gaven m\u00c3\u00a5ske ikke var det perfekte valg, og t\u00c3\u00a6nker over, hvordan du bedre kan kommunikere dine pr\u00c3\u00a6ferencer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en aktivitet for en teambuilding dag. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "En udend\u00c3\u00b8rs eventyraktivitet, der f\u00c3\u00a5r alle til at grine og arbejde sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En workshop, hvor teamet kan l\u00c3\u00a6re nye f\u00c3\u00a6rdigheder sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En aktivitet, der kr\u00c3\u00a6ver pr\u00c3\u00a6cision og opm\u00c3\u00a6rksomhed p\u00c3\u00a5 detaljer, som et escape room.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En frivillig aktivitet, der hj\u00c3\u00a6lper samfundet og styrker teamets samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "To af dine teammedlemmer er i konflikt. Hvordan griber du ind?",
+            "options": [
+                {
+                    "answer": "Du holder et m\u00c3\u00b8de med dem for at forst\u00c3\u00a5 begge sider og fors\u00c3\u00b8ger at finde en f\u00c3\u00a6lles l\u00c3\u00b8sning.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du opfordrer til \u00c3\u00a5ben dialog og bruger konflikten som en mulighed for teamudvikling, ser det som en l\u00c3\u00a6ringschance.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen n\u00c3\u00b8je og udarbejder en strategi for at l\u00c3\u00b8se konflikten s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for, hvordan konflikten skal h\u00c3\u00a5ndteres, og sikrer, at alle fokuserer p\u00c3\u00a5 teamets samlede succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et projekt, men teknikken svigter. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bruger din charme og humor til at holde publikums opm\u00c3\u00a6rksomhed, mens du l\u00c3\u00b8ser problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Fors\u00c3\u00b8ger at rette problemet med din tekniske knowhow og forberedte backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Imponerer med din evne til at pr\u00c3\u00a6sentere uden slides, viser sande pr\u00c3\u00a6stationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Forklarer situationen og sikrer, at alle forst\u00c3\u00a5r budskabet, selv uden visuelle hj\u00c3\u00a6lpemidler.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

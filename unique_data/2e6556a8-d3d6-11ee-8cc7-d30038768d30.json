@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00e5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00f8mmer \u00e6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00e5r at bruge navne og bruger resten af dagen p\u00e5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00f8sning p\u00e5 at f\u00e5 dem til at sige deres navn.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00e5 samtalen og sikrer, at din opm\u00e6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00e5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00f8gerne du skal bruge er udl\u00e5nt. Hvad g\u00f8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00f8dvendige b\u00f8ger til n\u00e5r de bliver tilg\u00e6ngelige.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00f8rger bibliotekaren om hj\u00e6lp og f\u00f8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00e5 en road trip og farer vild. Hvad er dit n\u00e6ste skridt?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og forts\u00e6tter udforskningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger kort og GPS til minuti\u00f8st at planl\u00e6gge din vej tilbage p\u00e5 sporet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00e6tter en ny rekord for at finde tilbage til den rigtige rute.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle i bilen er okay med omvejen og informerer om den nye plan.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Midt i en vigtig opgave g\u00e5r dit computerprogram ned og taber dit arbejde. Hvad g\u00f8r du f\u00f8rst?",
+            "options": [
+                {
+                    "answer": "Du tager en pause for at samle dig og undg\u00e5r at lade frustrationen tage over.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at lede efter l\u00f8sninger for at genskabe eller gendanne dit arbejde.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00e5, hvad der gik galt, og hvordan det kan undg\u00e5s i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du kontakter IT-support for hj\u00e6lp og sikrer, at problemet bliver l\u00f8st hurtigt og effektivt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din kollega spiller h\u00f8j musik fra deres kontor. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00e5r en f\u00e6lles playliste, s\u00e5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00e6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00e6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

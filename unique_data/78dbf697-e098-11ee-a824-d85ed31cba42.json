@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en stor edderkop i dit hus. Hvad er din f\u00c3\u00b8rste reaktion?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og m\u00c3\u00a5ske endda tager et billede, f\u00c3\u00b8r du fjerner den.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00b8jeblikkeligt stresset og bruger lang tid p\u00c3\u00a5 at finde den mest humane m\u00c3\u00a5de at fjerne den p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger straks en effektiv metode til at fange og uds\u00c3\u00a6tte edderkoppen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at s\u00c3\u00b8rge for, at edderkoppen kommer sikkert ud, selvom det tager tid.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lede et nyt projekt p\u00c3\u00a5 arbejdet. Hvordan griber du opgaven an?",
+            "options": [
+                {
+                    "answer": "Med entusiasme for at pr\u00c3\u00b8ve nye tilgange og ideer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en detaljeret plan og klare kvalitetsstandarder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at opn\u00c3\u00a5 synlige resultater og succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en ansvarsfuld tilgang, der sikrer alles velbefindende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

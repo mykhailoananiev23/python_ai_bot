@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet regnbyge, n\u00c3\u00a5r du er ude at vandre?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at dit udstyr er vandt\u00c3\u00a6t og forts\u00c3\u00a6tter din tur med fornyet forsigtighed.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger lejligheden til at praktisere dine overlevelsesf\u00c3\u00a6rdigheder under d\u00c3\u00a5rlige vejrforhold.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle i gruppen er sikre og overvejer, om det er bedst at s\u00c3\u00b8ge ly.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse g\u00c3\u00a5r ned, lige som du skal til at streame din yndlingsserie. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du bruger tiden p\u00c3\u00a5 at genoptage en gammel hobby eller l\u00c3\u00a6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester forskellige fejlfindingstrin for at genetablere forbindelsen s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger en alternativ aktivitet, der ikke kr\u00c3\u00a6ver internet.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ringer til din internetudbyder for at l\u00c3\u00b8se problemet med det samme.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har bagt en kage, men den falder p\u00c3\u00a5 gulvet lige f\u00c3\u00b8r g\u00c3\u00a6sterne ankommer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og serverer kagen alligevel med en historie.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og bruger tid p\u00c3\u00a5 at lave en ny dessert, selvom det bliver sent.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du improviserer hurtigt og laver en simpel dessert med det, du har, for at vise dine evner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du beklager overfor dine g\u00c3\u00a6ster og tilbyder dem noget andet at spise, du f\u00c3\u00b8ler det er dit ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et projekt, men teknikken svigter. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bruger din charme og humor til at holde publikums opm\u00c3\u00a6rksomhed, mens du l\u00c3\u00b8ser problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Fors\u00c3\u00b8ger at rette problemet med din tekniske knowhow og forberedte backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Imponerer med din evne til at pr\u00c3\u00a6sentere uden slides, viser sande pr\u00c3\u00a6stationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Forklarer situationen og sikrer, at alle forst\u00c3\u00a5r budskabet, selv uden visuelle hj\u00c3\u00a6lpemidler.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

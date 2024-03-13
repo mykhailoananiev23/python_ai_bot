@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lave en spontan tale til en sammenkomst. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du tager det som en mulighed for at skinne og deler passioneret dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor og personlige anekdoter for at engagere og underholde publikum.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du strukturerer hurtigt dine tanker for at levere en klar og sammenh\u00c3\u00a6ngende tale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere tak og anerkendelse til v\u00c3\u00a6rterne eller \u00c3\u00a6resg\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bem\u00c3\u00a6rker, at arbejdsmilj\u00c3\u00b8et tr\u00c3\u00a6nger til et l\u00c3\u00b8ft. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r regelm\u00c3\u00a6ssige teamm\u00c3\u00b8der for at diskutere velv\u00c3\u00a6re og jobtilfredshed.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du introducerer fleksible arbejdstider eller hjemmearbejdsdage for at forbedre work-life balance.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du implementerer et system for feedback og anerkendelse for at \u00c3\u00b8ge motivationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en gennemgang af arbejdsprocesserne for at identificere og eliminere un\u00c3\u00b8dvendige stressfaktorer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r et sp\u00c3\u00b8rgsm\u00c3\u00a5l, du ikke kender svaret p\u00c3\u00a5, under en quiz aften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner og g\u00c3\u00a6tter, quizzen er trods alt bare for sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og lover at l\u00c3\u00a6se op p\u00c3\u00a5 emnet senere.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger logik og eliminering for at komme med det bedste g\u00c3\u00a6t.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r teamarbejde for at komme frem til et f\u00c3\u00a6lles g\u00c3\u00a6t.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En kollega sp\u00c3\u00b8rger om din hj\u00c3\u00a6lp til et presserende problem, lige som du skal til at g\u00c3\u00a5 hjem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper gerne, trods det at din aftenplan bliver forsinket.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig, kreativ l\u00c3\u00b8sning, s\u00c3\u00a5 du stadig kan n\u00c3\u00a5 dine egne planer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer problemet og tilbyder den mest effektive l\u00c3\u00b8sning for at spare tid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at demonstrere din ekspertise og engagement.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din chef beder alle om at komme med innovative ideer til n\u00c3\u00a6ste store projekt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00c3\u00b8rgsm\u00c3\u00a5lene er et, du ikke kender svaret p\u00c3\u00a5. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00c3\u00a6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00c3\u00b8rgsm\u00c3\u00a5let for senere at s\u00c3\u00b8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00c3\u00b8je de mulige svar og v\u00c3\u00a6lger det, der virker mest sandsynligt baseret p\u00c3\u00a5 din viden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at arbejde sammen med holdet for at komme med det bedste g\u00c3\u00a6t, v\u00c3\u00a6rds\u00c3\u00a6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lave en spontan tale til en sammenkomst. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du tager det som en mulighed for at skinne og deler passioneret dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor og personlige anekdoter for at engagere og underholde publikum.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du strukturerer hurtigt dine tanker for at levere en klar og sammenh\u00c3\u00a6ngende tale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere tak og anerkendelse til v\u00c3\u00a6rterne eller \u00c3\u00a6resg\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager blandet feedback p\u00c3\u00a5 din pr\u00c3\u00a6sentation fra teamet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du kan forbedre dig til n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det ikke personligt og bruger feedbacken som en mulighed for at l\u00c3\u00a6re og vokse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller opf\u00c3\u00b8lgende sp\u00c3\u00b8rgsm\u00c3\u00a5l for at f\u00c3\u00a5 klarhed over feedbacken og lave en handlingsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle stemmer er h\u00c3\u00b8rt og forst\u00c3\u00a5r vigtigheden af teamets input for at forbedre samarbejdet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00c3\u00a6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker, at det er fedt, og skriver din yndlingssang ned p\u00c3\u00a5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00c3\u00b8kkenet for at undg\u00c3\u00a5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00c3\u00b8vet hjemmefra, og du er fast besluttet p\u00c3\u00a5 at give publikum en top-pr\u00c3\u00a6station.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der passer bedst til stemningen og v\u00c3\u00a6lger noget, som alle kan synge med p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

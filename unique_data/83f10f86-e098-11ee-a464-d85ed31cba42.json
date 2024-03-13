@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan foretr\u00c3\u00a6kker du at tilbringe en l\u00c3\u00b8rdag aften?",
+            "options": [
+                {
+                    "answer": "Udforsker nye steder og oplevelser i byen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger en hyggelig aften derhjemme med velvalgte aktiviteter.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Deltager i en aktivitet eller konkurrence, hvor du kan udm\u00c3\u00a6rke dig.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en meningsfuld aktivitet, fx frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En afdeling, du sj\u00c3\u00a6ldent arbejder med, beder om din hj\u00c3\u00a6lp til et presserende problem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer problemet n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du bedst kan bidrage med din ekspertise.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du hopper ind med et smil, klar til at hj\u00c3\u00a6lpe og l\u00c3\u00a6re noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at vise dine f\u00c3\u00a6rdigheder og straks begynder at udarbejde en l\u00c3\u00b8sningsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at forst\u00c3\u00a5 deres behov fuldt ud og koordinerer med dit team for at sikre, at hj\u00c3\u00a6lpen er velorganiseret.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har bagt en kage, men den falder p\u00c3\u00a5 gulvet lige f\u00c3\u00b8r g\u00c3\u00a6sterne ankommer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og serverer kagen alligevel med en historie.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og bruger tid p\u00c3\u00a5 at lave en ny dessert, selvom det bliver sent.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du improviserer hurtigt og laver en simpel dessert med det, du har, for at vise dine evner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du beklager overfor dine g\u00c3\u00a6ster og tilbyder dem noget andet at spise, du f\u00c3\u00b8ler det er dit ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 ferie. Hvordan planl\u00c3\u00a6gger du turen?",
+            "options": [
+                {
+                    "answer": "Du booker kun den f\u00c3\u00b8rste nat og beslutter resten undervejs.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for hver dag, inklusive backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter specifikke m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med ferien.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at din rejse har et form\u00c3\u00a5l, fx kulturel l\u00c3\u00a6ring eller frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

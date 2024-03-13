@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at du har sendt en vigtig e-mail til den forkerte person. Hvordan retter du op p\u00c3\u00a5 din fejl?",
+            "options": [
+                {
+                    "answer": "Du sender en undskyldende opf\u00c3\u00b8lgning til begge parter og l\u00c3\u00b8ser situationen med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker alle fremtidige e-mails for at sikre, at dette aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du anvender fejlen som en l\u00c3\u00a6ringserfaring for at forbedre dine kommunikationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager det fulde ansvar og s\u00c3\u00b8rger for, at den korrekte modtager f\u00c3\u00a5r de n\u00c3\u00b8dvendige informationer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Der bliver annonceret en udkl\u00c3\u00a6dningsdag p\u00c3\u00a5 arbejde. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du finder det mest originale og humoristiske kostume for at vinde konkurrencen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et kostume, der er let at samle, og som f\u00c3\u00a5r dine kolleger til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger dit kostume ned til mindste detalje for at sikre autenticitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et inkluderende tema, der opfordrer til teamwork og samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "Sp\u00c3\u00b8rgsm\u00c3\u00a5l": "Din bedste ven laver en d\u00c3\u00a5rlig joke med dig. Hvordan reagerer du?",
+            "muligheder": [
+                {
+                    "svar": "Du griner og begynder at planl\u00c3\u00a6gge din h\u00c3\u00a6vn.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "svar": "Du analyserer vittigheden for at finde ud af, hvordan du kan forbedre den n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "svar": "Du roser din ven for hans kreativitet, men lover at sl\u00c3\u00a5 dobbelt s\u00c3\u00a5 h\u00c3\u00a5rdt igen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "svar": "Du minder din ven om vigtigheden af at tage hensyn til andres f\u00c3\u00b8lelser, f\u00c3\u00b8r du laver en joke.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan h\u00c3\u00a5ndterer du en uenighed med en n\u00c3\u00a6r ven?",
+            "options": [
+                {
+                    "answer": "Ved at diskutere sagen \u00c3\u00a5bent og \u00c3\u00a6rligt for at finde en f\u00c3\u00a6lles forst\u00c3\u00a5else.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en let og humoristisk tilgang for at undg\u00c3\u00a5, at stemningen bliver for alvorlig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at forberede dine argumenter grundigt for at sikre en rationel diskussion.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at vinde diskussionen eller overbevise din ven om dit synspunkt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en middag, og din ret viser sig at v\u00c3\u00a6re noget helt andet end det, du bestilte. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du ser det som en mulighed for at pr\u00c3\u00b8ve noget nyt og tager det med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du er irriteret over fejlen og sikrer, at tjeneren forst\u00c3\u00a5r vigtigheden af at f\u00c3\u00a5 det rigtige m\u00c3\u00a5ltid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du vurderer situationen og beslutter, om det er v\u00c3\u00a6rd at n\u00c3\u00a6vne, alt imens du s\u00c3\u00b8ger den bedste l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er bedre at undg\u00c3\u00a5 konfrontation og accepterer m\u00c3\u00a5ltidet, selvom det ikke var, hvad du \u00c3\u00b8nskede.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

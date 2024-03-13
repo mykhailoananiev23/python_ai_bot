@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef annoncerer en overraskende teamudflugt for at booste moralen. Hvad h\u00c3\u00a5ber du, det bliver?",
+            "options": [
+                {
+                    "answer": "En aktivitet, der fremmer teamwork og samarbejde, s\u00c3\u00a5 I kan styrke jeres relationer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "En kreativ og sjov aktivitet, der giver mulighed for at t\u00c3\u00a6nke ud af boksen og slippe dagligdagens stress.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En udfordrende aktivitet, der tester jeres evner og hj\u00c3\u00a6lper med at identificere st\u00c3\u00a6rke sider i teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En velorganiseret og indholdsrig aktivitet, der tilf\u00c3\u00b8jer v\u00c3\u00a6rdi til jeres professionelle udvikling.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

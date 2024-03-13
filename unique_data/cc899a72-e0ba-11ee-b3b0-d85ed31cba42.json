@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder ud af, at der har v\u00c3\u00a6ret en fejl i en opgave, du har afleveret p\u00c3\u00a5 arbejdet. Din chef har ikke bem\u00c3\u00a6rket det... endnu. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du beder om et m\u00c3\u00b8de med din chef for at forklare fejlen og hvordan du vil rette den.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du krydser fingre og h\u00c3\u00a5ber det bedste, m\u00c3\u00a5ske opdager de det aldrig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at arbejde p\u00c3\u00a5 en l\u00c3\u00b8sning, s\u00c3\u00a5 du er forberedt, hvis nogen bem\u00c3\u00a6rker det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bliver en smule nerv\u00c3\u00b8s og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film at se. Hvad g\u00c3\u00a5r du efter?",
+            "options": [
+                {
+                    "answer": "Noget let og underholdende, der f\u00c3\u00a5r dig til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En film med h\u00c3\u00b8je anmeldelser og kritikerroste pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En inspirerende historie om at overkomme udfordringer.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En dokumentarfilm, der \u00c3\u00b8ger din viden om et vigtigt emne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet regnbyge, n\u00c3\u00a5r du er ude at vandre?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at dit udstyr er vandt\u00c3\u00a6t og forts\u00c3\u00a6tter din tur med fornyet forsigtighed.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger lejligheden til at praktisere dine overlevelsesf\u00c3\u00a6rdigheder under d\u00c3\u00a5rlige vejrforhold.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle i gruppen er sikre og overvejer, om det er bedst at s\u00c3\u00b8ge ly.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En kollega sp\u00c3\u00b8rger om din hj\u00c3\u00a6lp til et presserende problem, lige som du skal til at g\u00c3\u00a5 hjem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper gerne, trods det at din aftenplan bliver forsinket.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig, kreativ l\u00c3\u00b8sning, s\u00c3\u00a5 du stadig kan n\u00c3\u00a5 dine egne planer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer problemet og tilbyder den mest effektive l\u00c3\u00b8sning for at spare tid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at demonstrere din ekspertise og engagement.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

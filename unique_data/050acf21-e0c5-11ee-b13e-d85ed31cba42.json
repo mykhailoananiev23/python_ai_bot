@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et projekt, men teknikken svigter. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bruger din charme og humor til at holde publikums opm\u00c3\u00a6rksomhed, mens du l\u00c3\u00b8ser problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Fors\u00c3\u00b8ger at rette problemet med din tekniske knowhow og forberedte backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Imponerer med din evne til at pr\u00c3\u00a6sentere uden slides, viser sande pr\u00c3\u00a6stationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Forklarer situationen og sikrer, at alle forst\u00c3\u00a5r budskabet, selv uden visuelle hj\u00c3\u00a6lpemidler.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har en fridag uden planer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Tager tingene, som de kommer, og nyder spontane aktiviteter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en hobby eller et projekt, der kr\u00c3\u00a6ver din fulde opm\u00c3\u00a6rksomhed.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter personlige m\u00c3\u00a5l for dagen for at maksimere din produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger aktiviteter, der ogs\u00c3\u00a5 kan gavne andre, som at hj\u00c3\u00a6lpe en ven eller familie.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har mulighed for at udvide dit professionelle netv\u00c3\u00a6rk. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du planl\u00c3\u00a6gger at deltage i brancherelaterede events og seminarer for at m\u00c3\u00b8de nye mennesker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager en afslappet tilgang og ser hvilke muligheder, der naturligt opst\u00c3\u00a5r gennem eksisterende kontakter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du opretter en detaljeret plan for at forbinde med specifikke personer via LinkedIn og andre professionelle platforme.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at styrke relationerne inden for dit nuv\u00c3\u00a6rende netv\u00c3\u00a6rk for at bygge videre p\u00c3\u00a5 tillid og loyalitet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er i en gruppediskussion, og samtalen tager en negativ drejning. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at vende stemningen med humor og positive kommentarer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer argumenterne og pr\u00c3\u00a6senterer en logisk l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager f\u00c3\u00b8ringen for at styre samtalen tilbage p\u00c3\u00a5 rette spor mod en produktiv dialog.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder gruppen om deres f\u00c3\u00a6lles m\u00c3\u00a5l og v\u00c3\u00a6rdier for at genetablere harmoni.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en vinsmagning, og en vin falder ikke i din smag. Hvordan udtrykker du din mening?",
+            "options": [
+                {
+                    "answer": "Du siger muntert, at alle har forskellig smag, og dette bare ikke var din kop te.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du giver en velovervejet kritik af vinen, baseret p\u00c3\u00a5 det, du ved om vinens karakteristika.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du holder din mening for dig selv for ikke at virke uh\u00c3\u00b8flig over for v\u00c3\u00a6rten eller de andre g\u00c3\u00a6ster.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer n\u00c3\u00b8je, hvad det er ved vinen, du ikke bryder dig om, for at give en konstruktiv feedback.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din favorit caf\u00c3\u00a9 l\u00c3\u00b8ber t\u00c3\u00b8r for din yndlingskage. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det som en chance for at pr\u00c3\u00b8ve noget nyt og m\u00c3\u00a5ske finde en ny favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r caf\u00c3\u00a9en at give besked, n\u00c3\u00a5r kagen er tilbage, og n\u00c3\u00b8jes med en anden snack.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer de andre muligheder n\u00c3\u00b8je for at finde noget, der kan m\u00c3\u00a5le sig med din favorit.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at udforske og bed\u00c3\u00b8mme caf\u00c3\u00a9ens \u00c3\u00b8vrige udvalg.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

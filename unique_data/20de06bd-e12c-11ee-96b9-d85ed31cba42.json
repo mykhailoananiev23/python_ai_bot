@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din indbakke eksploderer med uops\u00c3\u00a6ttelige emails p\u00c3\u00a5 en travl dag. Hvordan prioriterer du?",
+            "options": [
+                {
+                    "answer": "Du sorterer emails efter vigtighed og deadline, s\u00c3\u00a5 du kan h\u00c3\u00a5ndtere dem i en logisk r\u00c3\u00a6kkef\u00c3\u00b8lge.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter fra toppen \u00e2\u20ac\u201c du f\u00c3\u00a5r klaret det, et skridt ad gangen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du identificerer de opgaver, der direkte p\u00c3\u00a5virker dine m\u00c3\u00a5l, og fokuserer p\u00c3\u00a5 dem f\u00c3\u00b8rst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du svarer hurtigt p\u00c3\u00a5 de nemmeste emails for at reducere antallet og fokuserer derefter p\u00c3\u00a5 de mere kr\u00c3\u00a6vende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver spurgt om at deltage i et spontant talentshow. Hvad er din optr\u00c3\u00a6den?",
+            "options": [
+                {
+                    "answer": "En improviseret stand-up rutine, der f\u00c3\u00a5r alle til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En velovervejet recitation af dit yndlingsdigt eller -monolog.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En energisk dans eller sang, som du ved, vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjertevarm fort\u00c3\u00a6lling eller sang, der bringer folk sammen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din favorit caf\u00c3\u00a9 l\u00c3\u00b8ber t\u00c3\u00b8r for din yndlingskage. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det som en chance for at pr\u00c3\u00b8ve noget nyt og m\u00c3\u00a5ske finde en ny favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r caf\u00c3\u00a9en at give besked, n\u00c3\u00a5r kagen er tilbage, og n\u00c3\u00b8jes med en anden snack.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer de andre muligheder n\u00c3\u00b8je for at finde noget, der kan m\u00c3\u00a5le sig med din favorit.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at udforske og bed\u00c3\u00b8mme caf\u00c3\u00a9ens \u00c3\u00b8vrige udvalg.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager en gave, du virkelig ikke bryder dig om. Hvordan takker du for gaven?",
+            "options": [
+                {
+                    "answer": "Du udtrykker taknemmelighed for tanken bag gaven og v\u00c3\u00a6rds\u00c3\u00a6tter gestus.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov kommentar om, hvordan gaven passer overraskende godt ind i din samling.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan inkludere gaven i dit liv p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer, hvorfor gaven m\u00c3\u00a5ske ikke var det perfekte valg, og t\u00c3\u00a6nker over, hvordan du bedre kan kommunikere dine pr\u00c3\u00a6ferencer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2362 @@
+{
+  "questions": [
+      {
+          "question": "Du finder ud af, at der har været en fejl i en opgave, du har afleveret på arbejdet. Din chef har ikke bemærket det... endnu. Hvordan håndterer du situationen?",
+          "options": [
+              {
+                  "answer": "Du beder om et møde med din chef for at forklare fejlen og hvordan du vil rette den.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du krydser fingre og håber det bedste, måske opdager de det aldrig.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du begynder straks at arbejde på en løsning, så du er forberedt, hvis nogen bemærker det.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du bliver en smule nervøs og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er på café med dine venner, og en tjener spilder ved et uheld kaffe på din nye hvide skjorte. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du griner det af og siger, at sådan er livet, skjorten kan vaskes.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caféen betaler for rensningen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tager det roligt og spørger tjeneren, hvordan I sammen kan løse situationen på bedste vis.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du føler dig en smule generet, men siger ikke noget og beslutter dig for at undgå konfrontation.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er til fest, og en karaoke-maskine bliver tændt. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du tænker, at det er fedt, og skriver din yndlingssang ned på listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du smutter diskret ud i køkkenet for at undgå hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du tilmelder dig straks med en sang, du har øvet hjemmefra, og du er fast besluttet på at give publikum en top-præstation.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du tænker på, hvilken sang der passer bedst til stemningen og vælger noget, som alle kan synge med på.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er på biblioteket for at finde materiale til et projekt, men det virker som om alle bøgerne du skal bruge er udlånt. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du tjekker systematisk online databaser og reserverer de nødvendige bøger til når de bliver tilgængelige.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du spørger bibliotekaren om hjælp og følger deres anbefalinger for at finde lignende materiale.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din ven har glemt sin pung på en café, og du opdager det først, da I er kommet hjem. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du foreslår straks, at I kører tilbage sammen for at hente den, idet du ser det som en lille eventyr.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du hjælper din ven med at ringe til caféen og arrangerer, hvordan pungen kan blive hentet sikkert.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du minder din ven om vigtigheden af at være mere opmærksom og organiseret i fremtiden.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tager initiativ til at løse problemet ved hurtigt at skitsere en plan for, hvordan I bedst kan hente pungen.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du deltager i en quiz, og et af spørgsmålene er et, du ikke kender svaret på. Hvordan håndterer du det?",
+          "options": [
+              {
+                  "answer": "Du gætter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer spørgsmålet for senere at søge mere information.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du overvejer nøje de mulige svar og vælger det, der virker mest sandsynligt baseret på din viden.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du foreslår at arbejde sammen med holdet for at komme med det bedste gæt, værdsætter samarbejdet over konkurrencen.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du opdager en fejl i en rapport, der allerede er sendt til din chef. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du indrømmer fejlen over for din chef og foreslår en løsning, viser ansvarlighed.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du bliver ærgerlig over fejlen og bruger ekstra tid på at sikre, at det ikke sker igen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en læring og er hurtig til at rette fejlen, sikrer at alt er korrekt fremadrettet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du tænker 'pyt' og beslutter dig for at tage det op med chefen, men er ikke alt for bekymret.",
+                  "type": "Pyt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er til en vinsmagning, og en vin falder ikke i din smag. Hvordan udtrykker du din mening?",
+          "options": [
+              {
+                  "answer": "Du siger muntert, at alle har forskellig smag, og dette bare ikke var din kop te.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du giver en velovervejet kritik af vinen, baseret på det, du ved om vinens karakteristika.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du holder din mening for dig selv for ikke at virke uhøflig over for værten eller de andre gæster.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du analyserer nøje, hvad det er ved vinen, du ikke bryder dig om, for at give en konstruktiv feedback.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal vælge en ny hobby. Hvad vælger du?",
+          "options": [
+              {
+                  "answer": "Noget kreativt og nyt, som du aldrig har prøvet før.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "En hobby, hvor du kan fordybe dig i detaljerne og stræbe efter at blive perfekt.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "En konkurrencepræget sport, hvor du kan måle dine resultater.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Noget meningsfuldt, der kan gavne andre eller miljøet.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Bestiller noget helt nyt for at prøve noget anderledes.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Analyserer den nye menu nøje for at finde den perfekte ret.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Spørger tjeneren om anbefalinger for at træffe den bedste beslutning.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Vælger noget, der ser sundt og ernæringsrigtigt ud.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal vælge en film at se. Hvad går du efter?",
+          "options": [
+              {
+                  "answer": "Noget let og underholdende, der får dig til at grine.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "En film med høje anmeldelser og kritikerroste præstationer.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "En inspirerende historie om at overkomme udfordringer.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "En dokumentarfilm, der øger din viden om et vigtigt emne.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan organiserer du dit skrivebord?",
+          "options": [
+              {
+                  "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Alt har sin plads, og du bruger tid på at sikre, at alt er perfekt organiseret.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "En kollega beder om din hjælp til et projekt i sidste øjeblik. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du siger ja og tænker, at det kunne være sjovt at prøve noget nyt.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du stiller klare krav til kvaliteten af arbejdet, før du accepterer.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at vise dine evner og siger ja.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du accepterer, fordi du føler det er din pligt at hjælpe.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal på ferie. Hvordan planlægger du turen?",
+          "options": [
+              {
+                  "answer": "Du booker kun den første nat og beslutter resten undervejs.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du laver en detaljeret plan for hver dag, inklusive backup-planer.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sætter specifikke mål for, hvad du vil opnå med ferien.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du sørger for, at din rejse har et formål, fx kulturel læring eller frivilligt arbejde.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du modtager konstruktiv kritik på dit arbejde. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Tager det med et smil og ser det som en chance for at lære.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Analyserer feedbacken grundigt for at forbedre dig til næste gang.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Bruger feedbacken som motivation for at præstere bedre.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Tænker over, hvordan du kan anvende feedbacken til at hjælpe teamet.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du på en uventet fridag?",
+          "options": [
+              {
+                  "answer": "Tager ud på et spontant eventyr eller starter et nyt projekt.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Bruger dagen på at organisere eller forbedre noget i dit hjem.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Sætter dig et personligt mål for dagen og arbejder på at opnå det.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Tilbringer dagen med at gøre noget nyttigt for andre.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er på arbejde, og der opstår en akut krise. Hvordan håndterer du det?",
+          "options": [
+              {
+                  "answer": "Beholder roen og finder en kreativ løsning på problemet.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Analyserer situationen nøje for at finde den mest effektive løsning.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Tager straks kontrol og leder teamet mod en løsning.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Sikrer, at alle følger nødprocedurer og holder hovedet koldt.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan foretrækker du at tilbringe en lørdag aften?",
+          "options": [
+              {
+                  "answer": "Udforsker nye steder og oplevelser i byen.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Planlægger en hyggelig aften derhjemme med velvalgte aktiviteter.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Deltager i en aktivitet eller konkurrence, hvor du kan udmærke dig.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Bruger tiden på en meningsfuld aktivitet, fx frivilligt arbejde.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du har bagt en kage, men den falder på gulvet lige før gæsterne ankommer. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du griner af situationen og serverer kagen alligevel med en historie.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver irriteret på dig selv og bruger tid på at lave en ny dessert, selvom det bliver sent.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du improviserer hurtigt og laver en simpel dessert med det, du har, for at vise dine evner.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du beklager overfor dine gæster og tilbyder dem noget andet at spise, du føler det er dit ansvar.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du opdager, at du har haft din trøje på vrangen hele dagen på arbejdet. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du griner af det og gør det til dagens joke blandt kollegerne.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du føler dig flov og beslutter dig for at tjekke dig selv ekstra grundigt i spejlet fremover.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tager det som en lektion i at være mere opmærksom og effektiv i din morgenrutine.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du undskylder overfor alle, du har mødt, selvom de sandsynligvis ikke har lagt mærke til det.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din nabo starter en meget høj og støjende fest midt på en hverdagsaften. Hvordan håndterer du det?",
+          "options": [
+              {
+                  "answer": "Du tænker 'pyt' og beslutter dig for at join'e festen og have det sjovt.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver irriteret og bruger aftenen på at formulere en klagebrev med alle regelbrud.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at arbejde på din evne til at koncentrere dig under distraktioner.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du føler det er din pligt at gå over og bede dem om at dæmpe sig af hensyn til nabolaget.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal holde en præsentation, men glemmer pludselig dine noter derhjemme. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du improviserer med et smil og håber på det bedste.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver nervøs og bruger hvert et pausemoment til at genkalde din forberedelse.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du fokuserer på din viden om emnet og bruger det som en chance for at skinne igennem.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du undskylder overfor dit publikum og gør dit bedste under omstændighederne.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fortæller du dem det?",
+          "options": [
+              {
+                  "answer": "Du laver sjov med det og foreslår en kreativ måde at rette fejlen på.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du føler dig ansvarlig for at hjælpe med at finde en løsning og tilbyder din assistance.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du bruger situationen som en øvelse i diplomati og kommunikation for at minimere skaden.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du sikrer dig, at de ved, du fortæller dem det af omsorg og tilbyder din hjælp til at informere gæsterne.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du vågner op og opdager, at du ved et uheld har sovet over dig og er sent på den til et vigtigt møde. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du tager det med ro, klæder dig hurtigt og laver en sjov bemærkning om det, når du ankommer.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver super stresset, klæder dig i rekordfart og lover dig selv, at det aldrig sker igen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du skynder dig og fokuserer på at minimere forsinkelsen og dens impact på mødet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du føler dig skyldig, sender en hurtig undskyldning til mødedeltagerne og ankommer så hurtigt som muligt.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er i biografen og opdager, at personen foran dig bruger deres telefon med fuld lysstyrke. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du ignorerer det og koncentrerer dig om filmen. Det ødelægger ikke din oplevelse.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver irriteret og overvejer at sige noget, men beslutter at det er vigtigere at fokusere på filmen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du finder en diskret måde at få dem til at forstå, at de forstyrrer, uden at skabe konflikt.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du føler det er dit ansvar at sige noget, både for din og andres skyld, og gør det høfligt.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du finder en stor edderkop i dit hus. Hvad er din første reaktion?",
+          "options": [
+              {
+                  "answer": "Du griner af situationen og måske endda tager et billede, før du fjerner den.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver øjeblikkeligt stresset og bruger lang tid på at finde den mest humane måde at fjerne den på.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en udfordring og bruger straks en effektiv metode til at fange og udsætte edderkoppen.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du føler det er din pligt at sørge for, at edderkoppen kommer sikkert ud, selvom det tager tid.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din ven spørger dig om at deltage i et karaoke-show. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du siger ja med det samme og tænker på, hvilken sang der vil være mest sjov at optræde med.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver nervøs ved tanken og bruger tid på at øve dig, så du kan præstere dit absolut bedste.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at overgå dig selv og vælger en sang, der vil imponere publikum.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du er ikke vild med idéen, men accepterer, fordi du ikke vil skuffe din ven.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er til en middag, og din ret viser sig at være noget helt andet end det, du bestilte. Hvordan håndterer du det?",
+          "options": [
+              {
+                  "answer": "Du ser det som en mulighed for at prøve noget nyt og tager det med et smil.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du er irriteret over fejlen og sikrer, at tjeneren forstår vigtigheden af at få det rigtige måltid.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du vurderer situationen og beslutter, om det er værd at nævne, alt imens du søger den bedste løsning.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du føler det er bedre at undgå konfrontation og accepterer måltidet, selvom det ikke var, hvad du ønskede.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforstået temaet. Hvordan håndterer du det?",
+          "options": [
+              {"answer": "Du griner af dig selv og blander dig med gæsterne, tema eller ej.", "type": "Pyt-Preben"},
+              {"answer": "Du føler dig utilpas og overvejer, om du kan ændre dit outfit med det, du har i bilen.", "type": "Perfektionist-Preben"},
+              {"answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.", "type": "Præstations-Preben"},
+              {"answer": "Du undskylder overfor værten og forsøger at blende ind så godt som muligt.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Din computer crasher midt i et vigtigt arbejde. Hvad er din første handling?",
+          "options": [
+              {"answer": "Du tager en dyb indånding og starter en fejlfinding med et smil.", "type": "Pyt-Preben"},
+              {"answer": "Du bliver frustreret og bruger tid på at gennemgå alle trin for at undgå fremtidige crashes.", "type": "Perfektionist-Preben"},
+              {"answer": "Du fokuserer på at løse problemet hurtigst muligt for at minimere tidstab.", "type": "Præstations-Preben"},
+              {"answer": "Du sikrer, at du har backup af alle filer og lærer af situationen til næste gang.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du skal vælge en film for aftenen med venner, men ingen kan blive enige. Hvordan beslutter du?",
+          "options": [
+              {"answer": "Du foreslår at stemme for at gøre det sjovt og demokratisk.", "type": "Pyt-Preben"},
+              {"answer": "Du analyserer hver vens præferencer for at finde den perfekte film alle vil nyde.", "type": "Perfektionist-Preben"},
+              {"answer": "Du foreslår en film, du ved, vil imponere og underholde alle.", "type": "Præstations-Preben"},
+              {"answer": "Du foreslår et kompromis, hvor I skiftes til at vælge filmen hver gang.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du er på en road trip og farer vild. Hvad er dit næste skridt?",
+          "options": [
+              {"answer": "Du ser det som en del af eventyret og fortsætter udforskningen.", "type": "Pyt-Preben"},
+              {"answer": "Du bruger kort og GPS til minutiøst at planlægge din vej tilbage på sporet.", "type": "Perfektionist-Preben"},
+              {"answer": "Du sætter en ny rekord for at finde tilbage til den rigtige rute.", "type": "Præstations-Preben"},
+              {"answer": "Du sikrer, at alle i bilen er okay med omvejen og informerer om den nye plan.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du skal holde en tale ved en vens bryllup, men mister din noter. Hvordan improviserer du?",
+          "options": [
+              {"answer": "Du fortæller sjove anekdoter og taler fra hjertet.", "type": "Pyt-Preben"},
+              {"answer": "Du forsøger at rekonstruere talen fra hukommelsen, så godt du kan.", "type": "Perfektionist-Preben"},
+              {"answer": "Du fokuserer på at levere en mindeværdig og overbevisende tale uden noter.", "type": "Præstations-Preben"},
+              {"answer": "Du undskylder for noternes fravær og taler ærligt om din vens gode kvaliteter.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du får et spørgsmål, du ikke kender svaret på, under en quiz aften. Hvordan håndterer du det?",
+          "options": [
+              {"answer": "Du griner og gætter, quizzen er trods alt bare for sjov.", "type": "Pyt-Preben"},
+              {"answer": "Du bliver irriteret på dig selv og lover at læse op på emnet senere.", "type": "Perfektionist-Preben"},
+              {"answer": "Du bruger logik og eliminering for at komme med det bedste gæt.", "type": "Præstations-Preben"},
+              {"answer": "Du foreslår teamarbejde for at komme frem til et fælles gæt.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Din nabo klager over, at din musik er for høj. Hvordan reagerer du?",
+          "options": [
+              {"answer": "Du skruer ned og inviterer dem over til en dansefest næste gang.", "type": "Pyt-Preben"},
+              {"answer": "Du beklager og skaber et lydniveau-diagram for at undgå fremtidige klager.", "type": "Perfektionist-Preben"},
+              {"answer": "Du ser det som en chance for at optimere dit hjemmeunderholdningssystem.", "type": "Præstations-Preben"},
+              {"answer": "Du respekterer deres ønske og forsøger at finde en god balance for fremtiden.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du er på camping og glemmer tændstikkerne til at tænde bålet. Hvad gør du?",
+          "options": [
+              {"answer": "Du holder humøret højt og finder alternative måder at holde varmen på.", "type": "Pyt-Preben"},
+              {"answer": "Du bruger timer på at forsøge at starte et bål med naturlige metoder.", "type": "Perfektionist-Preben"},
+              {"answer": "Du tager det som en udfordring og bruger din viden til at løse problemet.", "type": "Præstations-Preben"},
+              {"answer": "Du sørger for, at alle er okay og deler ekstra tæpper ud.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du skal på en første date og kan ikke bestemme dig for, hvor I skal hen. Hvordan vælger du?",
+          "options": [
+              {"answer": "Du beslutter at lade din date vælge for at gøre aftenen mere spændende.", "type": "Pyt-Preben"},
+              {"answer": "Du laver en detaljeret liste over muligheder og vælger den med de bedste anmeldelser.", "type": "Perfektionist-Preben"},
+              {"answer": "Du vælger et sted, hvor du ved, du kan vise dine bedste sider.", "type": "Præstations-Preben"},
+              {"answer": "Du spørger din date om deres præferencer for at sikre, de får en god oplevelse.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du finder ud af, at du ved et uheld har sendt en pinlig e-mail til en forkert modtager. Hvordan retter du op på fejlen?",
+          "options": [
+              {"answer": "Du sender en opfølgende e-mail med en humoristisk undskyldning.", "type": "Pyt-Preben"},
+              {"answer": "Du analyserer situationen og udarbejder en strategi for at undgå lignende fejl.", "type": "Perfektionist-Preben"},
+              {"answer": "Du tager det som en læringsmulighed for at forbedre din e-mail-etikette.", "type": "Præstations-Preben"},
+              {"answer": "Du føler et dybt ansvar for at forklare og undskylde overfor den forkerte modtager.", "type": "Pligt-Preben"}
+          ]
+      },
+      {
+          "question": "Du skal give en uventet præsentation på arbejde. Hvordan forbereder du dig?",
+          "options": [
+              {
+                  "answer": "Du improviserer og stoler på din evne til at tale under pres.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bruger hvert ledigt minut til at forberede og organisere dine tanker.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du fokuserer på de vigtigste pointer for at sikre klarhed og præcision.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sørger for at inkludere information, der er relevant og værdifuld for dit publikum.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Dit fly er forsinket med flere timer. Hvordan fordriver du tiden?",
+          "options": [
+              {
+                  "answer": "Du udnytter tiden til at arbejde og være produktiv.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du slapper af og ser det som en god mulighed for at observere mennesker eller læse en bog.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du tjekker løbende for opdateringer og planlægger dine næste skridt nøje.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tilbyder din hjælp til andre rejsende, der måske er mere påvirket af forsinkelsen.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du opdager en fejl i en vens vigtige dokument, før de sender det. Hvordan fortæller du dem det?",
+          "options": [
+              {
+                  "answer": "Du påpeger fejlen direkte, men med en hjælpsom og konstruktiv tilgang.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du laver en sjov bemærkning for at lette stemningen, før du hjælper med at rette fejlen.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du gennemgår dokumentet grundigt for at sikre, at alt andet er i orden.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du foreslår en hurtig gennemgang sammen for at optimere indholdet.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal på en første date og er nervøs. Hvad gør du for at berolige dig selv?",
+          "options": [
+              {
+                  "answer": "Du minder dig selv om, at det værste, der kan ske, er en dårlig date, hvilket ikke er verdens ende.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du forbereder nogle samtaleemner på forhånd for at sikre, at daten går glat.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvværd.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sørger for at ankomme tidligt og tjekker stedet ud, så du føler dig mere komfortabel.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal vælge en gave til en person, der har alt. Hvad vælger du?",
+          "options": [
+              {
+                  "answer": "En oplevelsesgave, der skaber minder fremfor at tilføje flere ting.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "En hjemmelavet gave, der viser personlig omtanke og kreativitet.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "En nøje udvalgt bog, der passer til personens interesser og smag.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "En høj kvalitetsvare, som du har forsket i at være den bedste indenfor sit område.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er i en gruppediskussion, og samtalen tager en negativ drejning. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du forsøger at vende stemningen med humor og positive kommentarer.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du analyserer argumenterne og præsenterer en logisk løsning på problemet.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tager føringen for at styre samtalen tilbage på rette spor mod en produktiv dialog.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du minder gruppen om deres fælles mål og værdier for at genetablere harmoni.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din yndlingsserie slutter med en skuffende finale. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du starter en diskussion på sociale medier for at dele din mening og høre andres perspektiver.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du trækker på skuldrene og beslutter dig for at finde en ny serie at nyde.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du skriver en detaljeret analyse af, hvad du syntes var galt, og hvordan det kunne være gjort bedre.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du søger efter fan-teorier og alternative afslutninger online for at finde trøst.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal planlægge en vens fødselsdagsfest, men har et begrænset budget. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du finder kreative DIY-dekorationer og planlægger hjemmelavede snacks.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du prioriterer udgifterne og bruger pengene, hvor de har størst effekt.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du laver en detaljeret budgetplan for at sikre, at du får mest muligt ud af hvert øre.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du fokuserer på at skabe en varm og indbydende atmosfære, der reflekterer fødselarens personlighed.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du bliver bedt om at lave en spontan tale til en sammenkomst. Hvad er din strategi?",
+          "options": [
+              {
+                  "answer": "Du tager det som en mulighed for at skinne og deler passioneret dine tanker.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du bruger humor og personlige anekdoter for at engagere og underholde publikum.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du strukturerer hurtigt dine tanker for at levere en klar og sammenhængende tale.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sørger for at inkludere tak og anerkendelse til værterne eller æresgæsterne.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal vælge en aktivitet for en teambuilding dag. Hvad foreslår du?",
+          "options": [
+              {
+                  "answer": "En udendørs eventyraktivitet, der får alle til at grine og arbejde sammen.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "En workshop, hvor teamet kan lære nye færdigheder sammen.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "En aktivitet, der kræver præcision og opmærksomhed på detaljer, som et escape room.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "En frivillig aktivitet, der hjælper samfundet og styrker teamets samarbejde.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan håndterer du situationen?",
+          "options": [
+              {
+                  "answer": "Du indrømmer ærligt og med humor, at navnet er smuttet for dig.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du undgår at bruge navne og bruger resten af dagen på at finde ud af det igen diskret.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du skifter emne og beslutter dig for at finde en kreativ løsning på at få dem til at sige deres navn.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du fokuserer på samtalen og sikrer, at din opmærksomhed viser din respekt, navn eller ej.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din ven inviterer dig til at deltage i en ny hobby, som du synes lyder kedelig. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du giver det en chance, tænk hvis det viser sig at være sjovt!",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du laver research for at finde noget interessant ved hobbyen, før du beslutter dig.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du siger ja med det mål at blive god til hobbyen, selvom den ikke umiddelbart tiltaler dig.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du accepterer invitationen, fordi det er vigtigt at tilbringe tid med din ven.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du opdager, at du har sendt en vigtig e-mail til den forkerte person. Hvordan retter du op på din fejl?",
+          "options": [
+              {
+                  "answer": "Du sender en undskyldende opfølgning til begge parter og løser situationen med et smil.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du dobbelttjekker alle fremtidige e-mails for at sikre, at dette aldrig sker igen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du anvender fejlen som en læringserfaring for at forbedre dine kommunikationsevner.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du tager det fulde ansvar og sørger for, at den korrekte modtager får de nødvendige informationer.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er på en restaurant og din bestilling kommer ud forkert. Hvordan håndterer du det?",
+          "options": [
+              {
+                  "answer": "Du accepterer retten som en ny oplevelse, måske ender det med at blive din nye favorit.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du beder høfligt om at få den ret, du oprindeligt bestilte, med en undskyldning for forvirringen.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du analyserer, om det er værd at klage, afhængigt af rettens kvalitet og din sult.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du insisterer på at få det, du betalte for, og bruger hændelsen som feedback til restauranten.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal vælge en film til film aften, men har svært ved at beslutte. Hvordan træffer du dit valg?",
+          "options": [
+              {
+                  "answer": "Du vælger noget, du ved, alle kan lide, selvom det er en film, du har set før.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du vælger en film tilfældigt for at gøre aftenen mere spændende og uforudsigelig.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du foretager en hurtig undersøgelse for at finde en film, der opfylder alle kriterier for en god aften.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du bruger tid på at læse anmeldelser for at vælge den bedst anmeldte film.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er til en konference og bliver spurgt om din mening om et emne, du intet ved om. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du indrømmer ærligt, at du ikke er bekendt med emnet, men er ivrig efter at lære.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du bruger en generel viden for at formulere et sikkert svar og skifter hurtigt emne.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du laver en vittighed om situationen og siger, du vil se frem til at google det senere.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du udtrykker en interesse for at høre andres meninger, før du bidrager med dine egne tanker.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din internetforbindelse går ned, lige som du skal til at streame din yndlingsserie. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du bruger tiden på at genoptage en gammel hobby eller læse en bog.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du tester forskellige fejlfindingstrin for at genetablere forbindelsen så hurtigt som muligt.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du planlægger en alternativ aktivitet, der ikke kræver internet.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du ringer til din internetudbyder for at løse problemet med det samme.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du modtager en gave, du virkelig ikke bryder dig om. Hvordan takker du for gaven?",
+          "options": [
+              {
+                  "answer": "Du udtrykker taknemmelighed for tanken bag gaven og værdsætter gestus.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du laver en sjov kommentar om, hvordan gaven passer overraskende godt ind i din samling.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du overvejer, hvordan du kan inkludere gaven i dit liv på en kreativ måde.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du analyserer, hvorfor gaven måske ikke var det perfekte valg, og tænker over, hvordan du bedre kan kommunikere dine præferencer.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er blevet tildelt et gruppearbejde med nogen, du ikke kommer godt ud af det med. Hvordan nærmer du dig opgaven?",
+          "options": [
+              {
+                  "answer": "Du fokuserer på opgavens mål og forsøger at finde fælles grund.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du ser det som en udfordring for dine diplomatiske færdigheder og arbejder for en harmonisk løsning.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du bruger humor til at lette stemningen og opbygge en bedre arbejdsrelation.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du planlægger møder nøje for at sikre, at arbejdet bliver gjort effektivt og uden konflikter.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du har fortrudt en impulsiv beslutning. Hvordan håndterer du dine følelser?",
+          "options": [
+              {
+                  "answer": "Du minder dig selv om, at fejl er en del af læringen, og ser fremad.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du analyserer situationen for at forstå, hvad der gik galt, og hvordan du kan undgå lignende fejl.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du udvikler en plan for, hvordan du kan rette op på situationen eller forbedre den.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du søger råd og støtte fra venner eller familie for at få perspektiv på situationen.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du, når du hører din yndlingssang spille i supermarkedet?",
+          "options": [
+              {
+                  "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdegående, mens du handler.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du bruger sangen som motivation til at gennemføre din shopping hurtigere og mere effektivt.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du overvejer, hvordan sangen påvirker stemningen for de andre kunder i butikken.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er sent på den og kan kun fange bussen, hvis du løber. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du løber uden tøven, selvom det betyder at ankomme forpustet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du vurderer, om det virkelig er værd at løbe, eller om det er bedre at vente på den næste bus.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du laver en hurtig beregning af, hvor meget forsinkelsen vil påvirke resten af din dag.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du føler dig ansvarlig over for din tidsplan og beslutter dig hurtigt for at løbe.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "Spørgsmål": "Din bedste ven laver en dårlig joke med dig. Hvordan reagerer du?",
+          "muligheder": [
+              {
+                  "svar": "Du griner og begynder at planlægge din hævn.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "svar": "Du analyserer vittigheden for at finde ud af, hvordan du kan forbedre den næste gang.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "svar": "Du roser din ven for hans kreativitet, men lover at slå dobbelt så hårdt igen.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "svar": "Du minder din ven om vigtigheden af at tage hensyn til andres følelser, før du laver en joke.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal improvisere en middag for uventede gæster. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du finder på en ny opskrift med det, du har, og håber på det bedste.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du sammensætter en menu, der maksimerer ingrediensernes potentiale.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sætter en tidsgrænse for at udfordre dig selv til at lave noget imponerende hurtigt.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du fokuserer på at skabe en hyggelig og indbydende atmosfære, uanset maden.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du opdager en sjælden fugl på din gåtur. Hvordan dokumenterer du øjeblikket?",
+          "options": [
+              {
+                  "answer": "Du tager en hurtig selfie med fuglen i baggrunden og deler den på sociale medier.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du observerer fuglen nøje og noterer detaljer for senere at slå den op.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du bruger din viden om fotografering til at tage det perfekte billede.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du nyder øjeblikket i stilhed og beslutter måske at fortælle om det senere.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du, når du ser en film med en uforudsigelig slutning?",
+          "options": [
+              {
+                  "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du analyserer alle ledetråde for at se, om slutningen giver mening.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du overvejer, hvordan forskellige slutninger kunne have påvirket filmens budskab.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du finder en fejl i en app, du bruger dagligt. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du rapporterer fejlen detaljeret for at hjælpe med at forbedre appen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du griner af det og finder en midlertidig løsning eller workaround.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du overvejer, om fejlen kan udnyttes til din fordel, inden du rapporterer den.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du sørger for at dele din opdagelse med venner, så de også er opmærksomme.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du er på et møde og har virkelig brug for at nyse. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du holder det tilbage så diskret som muligt for ikke at forstyrre.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du lader naturen gå sin gang og siger pænt undskyld bagefter.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bruger en teknik, du har lært til at stoppe nysen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en udfordring at nyse så lydløst som muligt.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal lave en præsentation, men alle dine noter er på en anden computer. Hvordan improviserer du?",
+          "options": [
+              {
+                  "answer": "Du bruger din viden og charme til at levere præsentationen uden noter.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du fokuserer på de nøglepunkter, du husker, og holder præsentationen struktureret.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan vælger du navnet?",
+          "options": [
+              {
+                  "answer": "Du vælger et navn, der reflekterer formålet og betydningen på en kreativ måde.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du vælger et sjovt og mindeværdigt navn, der får folk til at smile.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du analyserer navnets potentielle indvirkning og vælger et, der bedst repræsenterer opfindelsens værdi.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du overvejer navnets betydning for samfundet og vælger et, der inspirerer andre.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er gået i stykker lige inden. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Du binder en sjov historie om din sko ind i talen og fortsætter med selvtillid.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du undskylder diskret for din påklædning og fokuserer på at levere en kraftfuld tale.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du analyserer situationen hurtigt og finder en måde at skjule skadet sko på.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en udfordring og bruger situationen til at styrke din præsentation.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din favorit café løber tør for din yndlingskage. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du tager det som en chance for at prøve noget nyt og måske finde en ny favorit.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du foreslår caféen at give besked, når kagen er tilbage, og nøjes med en anden snack.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du analyserer de andre muligheder nøje for at finde noget, der kan måle sig med din favorit.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at udforske og bedømme caféens øvrige udvalg.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du bliver spurgt om at deltage i et spontant talentshow. Hvad er din optræden?",
+          "options": [
+              {
+                  "answer": "En improviseret stand-up rutine, der får alle til at grine.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "En velovervejet recitation af dit yndlingsdigt eller -monolog.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "En energisk dans eller sang, som du ved, vil imponere publikum.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "En hjertevarm fortælling eller sang, der bringer folk sammen.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal vælge et nyt sprog at lære. Hvad motiverer dit valg?",
+          "options": [
+              {
+                  "answer": "Det sprog, der lyder sjovest eller mest spændende at udtale.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Et sprog, der giver dig de bedste karrieremuligheder eller forretningsfordele.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Et sprog, der er logisk struktureret og effektivt at lære med klare regler.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Et sprog, der hjælper dig med at forbinde bedre med mennesker fra en bestemt kultur.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du, når du er den første til at ankomme til en fest?",
+          "options": [
+              {
+                  "answer": "Du hjælper værten med forberedelserne og nyder den rolige tid før stormen.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du bruger tiden til at tage nogle sjove selfies eller udforske feststedet.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du overvejer, hvordan du kan bruge situationen til at netværke eller forberede en indgang.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du dobbelttjekker adressen og tiden for at sikre, at du ikke har gjort en fejl.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du på en uventet regnbyge, når du er ude at vandre?",
+          "options": [
+              {
+                  "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du sikrer, at dit udstyr er vandtæt og fortsætter din tur med fornyet forsigtighed.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du bruger lejligheden til at praktisere dine overlevelsesfærdigheder under dårlige vejrforhold.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sørger for, at alle i gruppen er sikre og overvejer, om det er bedst at søge ly.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal planlægge din næste ferie. Hvordan beslutter du, hvor du skal hen?",
+          "options": [
+              {
+                  "answer": "Du laver en liste over steder og vælger tilfældigt for et element af overraskelse.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du vælger et sted, hvor du kan tage på eventyr og måske slå nogle personlige rekorder.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du overvejer steder, der giver mening for dig og dine nærmeste, måske med en kulturel eller lærerig værdi.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du, når du finder en fejl i et produkt, du lige har købt?",
+          "options": [
+              {
+                  "answer": "Du kontakter straks producenten eller forhandleren for at rapportere fejlen og anmode om en erstatning.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tager det med godt humør og ser, om du kan løse problemet selv.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du undersøger, hvordan fejlen kunne påvirke produktets ydeevne og overvejer dine muligheder.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du læser returpolitikken grundigt for at sikre, at du kan returnere produktet uden problemer.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din internetforbindelse er langsom på en travl dag. Hvordan håndterer du frustrationen?",
+          "options": [
+              {
+                  "answer": "Du tager en pause og bruger tiden til at slappe af eller lave noget offline.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du tester og fejlfinder din internetforbindelse for at identificere og løse problemet.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du prioriterer dine opgaver for at fokusere på dem, der kræver mindst internetbrug.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du informerer dit team eller dine kontakter om forsinkelsen og arbejder så effektivt som muligt.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal købe en gave til en, der ikke ønsker sig noget. Hvad er din strategi?",
+          "options": [
+              {
+                  "answer": "Du finder en personlig gave, der afspejler din forståelse og omsorg for personen.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du køber noget sjovt og unikt, der kan bringe et smil frem.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du investerer tid i at finde en gave, der er både praktisk og smuk.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du vælger en gave, der udfordrer eller inspirerer personen til at prøve noget nyt.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal lede et nyt projekt på arbejdet. Hvordan griber du opgaven an?",
+          "options": [
+              {
+                  "answer": "Med entusiasme for at prøve nye tilgange og ideer.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Med en detaljeret plan og klare kvalitetsstandarder.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Med fokus på at opnå synlige resultater og succes.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Med en ansvarsfuld tilgang, der sikrer alles velbefindende.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan håndterer du feedback på dit arbejde?",
+          "options": [
+              {
+                  "answer": "Ser det som en mulighed for at lære og vokse.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Tager det ikke for personligt og fokuserer på det positive.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Analyserer det nøje for at forbedre dine fremtidige præstationer.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Sørger for at forstå konteksten for bedre at kunne opfylde forventningerne.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan føler du omkring spontane planer?",
+          "options": [
+              {
+                  "answer": "Begejstret for nye oplevelser uden forudgående planlægning.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Foretrækker at have tid til at forberede og planlægge detaljerne.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Åben, hvis det bidrager til personlige eller professionelle mål.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Bekymret for, hvordan det påvirker andre planer eller forpligtelser.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du, når du står over for en fejl du har lavet?",
+          "options": [
+              {
+                  "answer": "Med en praktisk tilgang til at rette op på fejlen hurtigst muligt.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Med en accept af, at fejl er en del af livet, og en læringserfaring.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Med en grundig analyse af, hvad der gik galt, for at undgå fremtidige fejl.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Med en følelse af ansvar over for dem, der er berørt af fejlen.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan beslutter du, hvilken bog du skal læse næste gang?",
+          "options": [
+              {
+                  "answer": "Ud fra en anbefaling fra en ven, der kender din smag.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Ved at vælge noget, der lyder sjovt eller anderledes.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Efter grundig forskning og læsning af anmeldelser.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Baseret på hvad der vil udvide din viden eller færdigheder mest.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan forbereder du dig til en vigtig præsentation?",
+          "options": [
+              {
+                  "answer": "Ved at øve dig flere gange og finpudse hver detalje.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Med en afslappet tilgang, stoler på din evne til at formidle budskabet.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Ved at sætte klare mål for, hvad du vil opnå med præsentationen.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Ved at sikre, at indholdet er relevant og værdifuldt for dit publikum.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du på en ny trend?",
+          "options": [
+              {
+                  "answer": "Med nysgerrighed og en vilje til at prøve den af, hvis den virker sjov.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Ved at evaluere dens langsigtede værdi og effektivitet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Med skepsis, indtil du har analyseret alle fordele og ulemper.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Ved at overveje, hvordan den påvirker andre og om den fremmer fællesskab.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan håndterer du en uenighed med en nær ven?",
+          "options": [
+              {
+                  "answer": "Ved at diskutere sagen åbent og ærligt for at finde en fælles forståelse.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Med en let og humoristisk tilgang for at undgå, at stemningen bliver for alvorlig.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Ved at forberede dine argumenter grundigt for at sikre en rationel diskussion.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Med fokus på at vinde diskussionen eller overbevise din ven om dit synspunkt.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan prioriterer du dine opgaver på en travl dag?",
+          "options": [
+              {
+                  "answer": "Ved at tackle de mest udfordrende opgaver først for at få momentum.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Ved at vælge opgaver, der giver mest mening og tilfredsstillelse at fuldføre.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Ved at lave en detaljeret to-do liste og følge den nøje.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du har en fridag uden planer. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Tager tingene, som de kommer, og nyder spontane aktiviteter.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Bruger tiden på en hobby eller et projekt, der kræver din fulde opmærksomhed.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Sætter personlige mål for dagen for at maksimere din produktivitet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Planlægger aktiviteter, der også kan gavne andre, som at hjælpe en ven eller familie.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din chef beder dig om at organisere et teambuilding-event. Hvad er dit første skridt?",
+          "options": [
+              {
+                  "answer": "Finde en aktivitet, der får alle til at grine og samarbejde, måske med kostumer.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Lave en detaljeret plan og tidsplan for at sikre, at eventet bliver en succes.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Vælge en konkurrencepræget aktivitet, hvor teamet kan vise deres færdigheder.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Sørge for, at aktiviteten er inkluderende og styrker teamets samhørighed.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du finder ud af, at kaffemaskinen er i stykker på en mandag morgen. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Laver en sjov besked og hænger den på maskinen, mens du finder en løsning.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Starter en omfattende fejlsøgning for at rette op på problemet hurtigst muligt.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Organiserer en hurtig kaffekørsel til den nærmeste café for teamet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Informerer om problemet og foreslår alternative koffeinkilder.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din kollega spiller høj musik fra deres kontor. Hvordan håndterer du det?",
+          "options": [
+              {
+                  "answer": "Du foreslår en fælles playliste, så alle kan bidrage med sange.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du udarbejder en præcis e-mail om kontorets lydpolitik.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du skal præsentere et projekt, men teknikken svigter. Hvad gør du?",
+          "options": [
+              {
+                  "answer": "Bruger din charme og humor til at holde publikums opmærksomhed, mens du løser problemet.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Forsøger at rette problemet med din tekniske knowhow og forberedte backup-planer.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Imponerer med din evne til at præsentere uden slides, viser sande præstationsevner.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Forklarer situationen og sikrer, at alle forstår budskabet, selv uden visuelle hjælpemidler.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du hører et rygte om, at der vil være en overraskelseskontrol af arbejdsstationernes orden. Hvordan forbereder du dig?",
+          "options": [
+              {
+                  "answer": "Du organiserer en sjov oprydningskonkurrence blandt dine kolleger.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du skaber en tjekliste for at sikre, at din arbejdsstation opfylder alle krav.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at optimere din arbejdsplads for maksimal effektivitet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du minder dine kolleger om rygtet og tilbyder at hjælpe dem med at rydde op.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Hvordan reagerer du på et nyt, komplekst software, dit team skal bruge?",
+          "options": [
+              {
+                  "answer": "Du tager initiativ til at lære det og holder en uformel workshop for teamet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du griner ved udsigten til at tackle en ny udfordring og dykker lystigt ind.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du udarbejder en trin-for-trin guide for at mestre softwaren effektivt.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sikrer, at alle i teamet har de nødvendige ressourcer og støtte til at lære softwaren.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "En kollega spørger om din hjælp til et presserende problem, lige som du skal til at gå hjem. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du hjælper gerne, trods det at din aftenplan bliver forsinket.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du foreslår en hurtig, kreativ løsning, så du stadig kan nå dine egne planer.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du analyserer problemet og tilbyder den mest effektive løsning for at spare tid.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at demonstrere din ekspertise og engagement.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Der bliver annonceret en udklædningsdag på arbejde. Hvad er din strategi?",
+          "options": [
+              {
+                  "answer": "Du finder det mest originale og humoristiske kostume for at vinde konkurrencen.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du vælger et kostume, der er let at samle, og som får dine kolleger til at grine.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du planlægger dit kostume ned til mindste detalje for at sikre autenticitet.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du vælger et inkluderende tema, der opfordrer til teamwork og samarbejde.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Dit team møder en uventet deadline. Hvordan motiverer du dem?",
+          "options": [
+              {
+                  "answer": "Med en inspirerende tale om teamets styrke og tidligere succeser.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Ved at foreslå en team-pause med snacks og musik for at højne moralen.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Ved at uddelegere opgaver baseret på hver persons styrker og effektivitetsniveau.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Ved at minde dem om vigtigheden af deres arbejde og det fælles mål.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du opdager, at en kollega tager æren for dit arbejde. Hvordan konfronterer du dem?",
+          "options": [
+              {
+                  "answer": "Du tager en direkte samtale med kollegaen for at klarlægge misforståelser.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du laver en humoristisk bemærkning næste gang I er i gruppe for at lette stemningen.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du beslutter at arbejde endnu hårdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Et nyt projekt er landet på dit bord med en meget stram deadline. Hvordan tackler du opgaven?",
+          "options": [
+              {
+                  "answer": "Du uddelegerer opgaver for at sikre, at projektet bliver færdigt til tiden, uden at gå på kompromis med kvaliteten.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du tager et dybt åndedrag og begynder at planlægge din tilgang, så du kan møde deadline med det bedst mulige resultat.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du ser det som en mulighed for at vise din evne til at arbejde under pres og begynder straks at arbejde hårdt.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du tilpasser dig situationen med en positiv holdning og ser det som en udfordring, der kan overvindes med kreativitet.",
+                  "type": "Pyt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du modtager blandet feedback på din præsentation fra teamet. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du analyserer feedbacken nøje for at forstå, hvordan du kan forbedre dig til næste gang.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du tager det ikke personligt og bruger feedbacken som en mulighed for at lære og vokse.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du stiller opfølgende spørgsmål for at få klarhed over feedbacken og lave en handlingsplan.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du sikrer, at alle stemmer er hørt og forstår vigtigheden af teamets input for at forbedre samarbejdet.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din chef annoncerer en overraskende teamudflugt for at booste moralen. Hvad håber du, det bliver?",
+          "options": [
+              {
+                  "answer": "En aktivitet, der fremmer teamwork og samarbejde, så I kan styrke jeres relationer.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "En kreativ og sjov aktivitet, der giver mulighed for at tænke ud af boksen og slippe dagligdagens stress.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "En udfordrende aktivitet, der tester jeres evner og hjælper med at identificere stærke sider i teamet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "En velorganiseret og indholdsrig aktivitet, der tilføjer værdi til jeres professionelle udvikling.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Midt i en vigtig opgave går dit computerprogram ned og taber dit arbejde. Hvad gør du først?",
+          "options": [
+              {
+                  "answer": "Du tager en pause for at samle dig og undgår at lade frustrationen tage over.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du begynder straks at lede efter løsninger for at genskabe eller gendanne dit arbejde.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du analyserer situationen for at forstå, hvad der gik galt, og hvordan det kan undgås i fremtiden.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du kontakter IT-support for hjælp og sikrer, at problemet bliver løst hurtigt og effektivt.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Til din årlige evaluering får du at vide, at du kan vælge et område at udvikle. Hvad vælger du?",
+          "options": [
+              {
+                  "answer": "Et område, hvor du føler, at du kan bidrage mere effektivt til teamets succes.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Et område, der udfordrer dig og skubber dine grænser for personlig og professionel vækst.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Et område, der kan forbedre din evne til at udføre dit arbejde med større præcision og detalje.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Et område, der giver dig mulighed for at udforske nye ideer og tilgange til dit arbejde.",
+                  "type": "Pyt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du får mulighed for at omdesigne dit arbejdsområde. Hvordan ser dit nye setup ud?",
+          "options": [
+              {
+                  "answer": "Et åbent og fleksibelt layout, der fremmer kreativitet og samarbejde.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Et organiseret og effektivt setup med fokus på ergonomi og produktivitet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Et struktureret og funktionelt rum, hvor alt har sin plads for maksimal effektivitet.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Et roligt og behageligt miljø, der understøtter koncentration og dedikation.",
+                  "type": "Pligt-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du bliver bedt om at lede et møde i sidste øjeblik. Hvordan forbereder du dig?",
+          "options": [
+              {
+                  "answer": "Du improviserer og stoler på din evne til at lede mødet uden forberedelse, ser det som en spændende udfordring.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du bruger de få minutter, du har, på hurtigt at skitsere de vigtigste punkter og mål for mødet.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du forsøger at få et overblik over dagsordenen og forbereder nogle nøglepunkter for at sikre, at mødet forløber glat.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du bliver nervøs ved tanken om ikke at være forberedt, men forsøger at samle alle tilgængelige informationer for at kunne lede mødet effektivt.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "To af dine teammedlemmer er i konflikt. Hvordan griber du ind?",
+          "options": [
+              {
+                  "answer": "Du holder et møde med dem for at forstå begge sider og forsøger at finde en fælles løsning.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du opfordrer til åben dialog og bruger konflikten som en mulighed for teamudvikling, ser det som en læringschance.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du analyserer situationen nøje og udarbejder en strategi for at løse konflikten så effektivt som muligt.",
+                  "type": "Perfektionist-Preben"
+              },
+              {
+                  "answer": "Du sætter klare mål for, hvordan konflikten skal håndteres, og sikrer, at alle fokuserer på teamets samlede succes.",
+                  "type": "Præstations-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Din chef beder alle om at komme med innovative ideer til næste store projekt. Hvordan reagerer du?",
+          "options": [
+              {
+                  "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "En vigtig deadline nærmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+          "options": [
+              {
+                  "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                  "type": "Pyt-Preben"
+              },
+              {
+                  "answer": "Du organiserer en ekstra indsatsdag med klare mål og roller for at sikre, at I når i mål.",
+                  "type": "Præstations-Preben"
+              },
+              {
+                  "answer": "Du sikrer, at alle har de nødvendige ressourcer og støtter dem i at overkomme eventuelle hindringer.",
+                  "type": "Pligt-Preben"
+              },
+              {
+                  "answer": "Du laver en detaljeret plan for, hvad der skal gøres, og sikrer, at alle forstår deres ansvar og deadlines.",
+                  "type": "Perfektionist-Preben"
+              }
+          ]
+      },
+      {
+          "question": "Du tilbydes en mulighed for karriereudvikling, der kræver flytning. Hvordan beslutter du dig?",
+          "options": [
+            {
+              "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du tager en hurtig beslutning baseret på din mavefornemmelse – eventyr venter!",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du planlægger et møde med din mentor for at diskutere, hvordan dette skridt vil påvirke din karriere på lang sigt.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du overvejer, hvordan flytningen vil påvirke din familie og kollegaer, før du træffer en beslutning.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "En klient giver negativ feedback på et projekt, du følte gik godt. Hvordan tackler du det?",
+          "options": [
+            {
+              "answer": "Du analyserer feedbacken detaljeret for at forstå klientens perspektiv og forbedre fremtidigt arbejde.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du føler dig skuffet men beslutter at se det som en læring og ikke tage det for personligt.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du arrangerer et opfølgningsmøde med klienten for at diskutere feedbacken og finde en løsning.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du sikrer, at klientens bekymringer bliver adresseret og arbejder på at genoprette tilliden.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Din indbakke eksploderer med uopsættelige emails på en travl dag. Hvordan prioriterer du?",
+          "options": [
+            {
+              "answer": "Du sorterer emails efter vigtighed og deadline, så du kan håndtere dem i en logisk rækkefølge.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du tager en dyb indånding og starter fra toppen – du får klaret det, et skridt ad gangen.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du identificerer de opgaver, der direkte påvirker dine mål, og fokuserer på dem først.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du svarer hurtigt på de nemmeste emails for at reducere antallet og fokuserer derefter på de mere krævende.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Det er din tur til at planlægge næste team building aktivitet. Hvad kommer du op med?",
+          "options": [
+            {
+              "answer": "En detaljeret orienteringsløb, der kræver teamwork og problemløsning.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "En konkurrencebaseret aktivitet, hvor teams kæmper om at vinde præmier.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "En afdeling, du sjældent arbejder med, beder om din hjælp til et presserende problem. Hvordan reagerer du?",
+          "options": [
+            {
+              "answer": "Du analyserer problemet nøje for at forstå, hvordan du bedst kan bidrage med din ekspertise.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du hopper ind med et smil, klar til at hjælpe og lære noget nyt.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du ser det som en chance for at vise dine færdigheder og straks begynder at udarbejde en løsningsplan.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du sørger for at forstå deres behov fuldt ud og koordinerer med dit team for at sikre, at hjælpen er velorganiseret.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Du har mulighed for at udvide dit professionelle netværk. Hvad er din strategi?",
+          "options": [
+            {
+              "answer": "Du planlægger at deltage i brancherelaterede events og seminarer for at møde nye mennesker.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du tager en afslappet tilgang og ser hvilke muligheder, der naturligt opstår gennem eksisterende kontakter.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du opretter en detaljeret plan for at forbinde med specifikke personer via LinkedIn og andre professionelle platforme.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du fokuserer på at styrke relationerne inden for dit nuværende netværk for at bygge videre på tillid og loyalitet.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Dit team skal lære en kompleks ny software. Hvordan sikrer du, at alle er med?",
+          "options": [
+            {
+              "answer": "Du arrangerer træningssessioner med ekspertundervisere for at sikre en dyb forståelse af softwaren.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du opmuntrer til et 'learning by doing' miljø, hvor alle føler sig frie til at eksperimentere med softwaren.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du udarbejder en detaljeret uddannelsesplan, inklusive deadlines og mål for hvert teammedlem.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du sikrer, at der er tilstrækkelige ressourcer og support tilgængelig, og at teammedlemmerne kan dele viden og tips.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Du skal præsentere et forslag for en ny vigtig klient. Hvordan forbereder du præsentationen?",
+          "options": [
+            {
+              "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag nøje.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du fokuserer på at gøre præsentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du sætter klare mål for præsentationen og øver flere gange for at sikre, at budskabet er klart og overbevisende.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er dækket og præsentationen er fejlfri.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Du bemærker, at arbejdsmiljøet trænger til et løft. Hvad foreslår du?",
+          "options": [
+            {
+              "answer": "Du foreslår regelmæssige teammøder for at diskutere velvære og jobtilfredshed.",
+              "type": "Pligt-Preben"
+            },
+            {
+              "answer": "Du introducerer fleksible arbejdstider eller hjemmearbejdsdage for at forbedre work-life balance.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du implementerer et system for feedback og anerkendelse for at øge motivationen.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du foreslår en gennemgang af arbejdsprocesserne for at identificere og eliminere unødvendige stressfaktorer.",
+              "type": "Perfektionist-Preben"
+            }
+          ]
+        },
+        {
+          "question": "Det er tid til at sætte personlige mål på arbejdet for det kommende år. Hvad fokuserer du på?",
+          "options": [
+            {
+              "answer": "Du sætter mål, der udfordrer dig til at forbedre dine færdigheder og bidrage mere til teamets succes.",
+              "type": "Præstations-Preben"
+            },
+            {
+              "answer": "Du fokuserer på mål, der giver dig mulighed for at udforske nye områder og være kreativ i dit arbejde.",
+              "type": "Pyt-Preben"
+            },
+            {
+              "answer": "Du udvikler mål, der afspejler din ambition om at opnå perfektion og ekspertise inden for dit felt.",
+              "type": "Perfektionist-Preben"
+            },
+            {
+              "answer": "Du vælger mål, der styrker dit samarbejde med kollegaer og bidrager til et positivt arbejdsmiljø.",
+              "type": "Pligt-Preben"
+            }
+          ]
+        }
+  ]
+}

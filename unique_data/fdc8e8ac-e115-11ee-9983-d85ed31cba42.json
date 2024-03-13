@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din nabo klager over, at din musik er for h\u00c3\u00b8j. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du skruer ned og inviterer dem over til en dansefest n\u00c3\u00a6ste gang.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beklager og skaber et lydniveau-diagram for at undg\u00c3\u00a5 fremtidige klager.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at optimere dit hjemmeunderholdningssystem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du respekterer deres \u00c3\u00b8nske og fors\u00c3\u00b8ger at finde en god balance for fremtiden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal give en uventet pr\u00c3\u00a6sentation p\u00c3\u00a5 arbejde. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at tale under pres.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger hvert ledigt minut til at forberede og organisere dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de vigtigste pointer for at sikre klarhed og pr\u00c3\u00a6cision.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere information, der er relevant og v\u00c3\u00a6rdifuld for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00c3\u00b8rgsm\u00c3\u00a5lene er et, du ikke kender svaret p\u00c3\u00a5. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00c3\u00a6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00c3\u00b8rgsm\u00c3\u00a5let for senere at s\u00c3\u00b8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00c3\u00b8je de mulige svar og v\u00c3\u00a6lger det, der virker mest sandsynligt baseret p\u00c3\u00a5 din viden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at arbejde sammen med holdet for at komme med det bedste g\u00c3\u00a6t, v\u00c3\u00a6rds\u00c3\u00a6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du finder en fejl i et produkt, du lige har k\u00c3\u00b8bt?",
+            "options": [
+                {
+                    "answer": "Du kontakter straks producenten eller forhandleren for at rapportere fejlen og anmode om en erstatning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det med godt hum\u00c3\u00b8r og ser, om du kan l\u00c3\u00b8se problemet selv.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du unders\u00c3\u00b8ger, hvordan fejlen kunne p\u00c3\u00a5virke produktets ydeevne og overvejer dine muligheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du l\u00c3\u00a6ser returpolitikken grundigt for at sikre, at du kan returnere produktet uden problemer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

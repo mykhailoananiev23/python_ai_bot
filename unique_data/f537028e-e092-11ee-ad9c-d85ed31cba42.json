@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00c3\u00a6gge en vens f\u00c3\u00b8dselsdagsfest, men har et begr\u00c3\u00a6nset budget. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder kreative DIY-dekorationer og planl\u00c3\u00a6gger hjemmelavede snacks.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du prioriterer udgifterne og bruger pengene, hvor de har st\u00c3\u00b8rst effekt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret budgetplan for at sikre, at du f\u00c3\u00a5r mest muligt ud af hvert \u00c3\u00b8re.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en varm og indbydende atmosf\u00c3\u00a6re, der reflekterer f\u00c3\u00b8dselarens personlighed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et projekt, men teknikken svigter. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bruger din charme og humor til at holde publikums opm\u00c3\u00a6rksomhed, mens du l\u00c3\u00b8ser problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Fors\u00c3\u00b8ger at rette problemet med din tekniske knowhow og forberedte backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Imponerer med din evne til at pr\u00c3\u00a6sentere uden slides, viser sande pr\u00c3\u00a6stationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Forklarer situationen og sikrer, at alle forst\u00c3\u00a5r budskabet, selv uden visuelle hj\u00c3\u00a6lpemidler.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00c3\u00b8rgsm\u00c3\u00a5lene er et, du ikke kender svaret p\u00c3\u00a5. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00c3\u00a6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00c3\u00b8rgsm\u00c3\u00a5let for senere at s\u00c3\u00b8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00c3\u00b8je de mulige svar og v\u00c3\u00a6lger det, der virker mest sandsynligt baseret p\u00c3\u00a5 din viden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at arbejde sammen med holdet for at komme med det bedste g\u00c3\u00a6t, v\u00c3\u00a6rds\u00c3\u00a6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

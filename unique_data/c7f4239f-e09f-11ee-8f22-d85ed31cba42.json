@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til en vinsmagning, og en vin falder ikke i din smag. Hvordan udtrykker du din mening?",
+            "options": [
+                {
+                    "answer": "Du siger muntert, at alle har forskellig smag, og dette bare ikke var din kop te.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du giver en velovervejet kritik af vinen, baseret p\u00c3\u00a5 det, du ved om vinens karakteristika.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du holder din mening for dig selv for ikke at virke uh\u00c3\u00b8flig over for v\u00c3\u00a6rten eller de andre g\u00c3\u00a6ster.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer n\u00c3\u00b8je, hvad det er ved vinen, du ikke bryder dig om, for at give en konstruktiv feedback.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00c3\u00a6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker, at det er fedt, og skriver din yndlingssang ned p\u00c3\u00a5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00c3\u00b8kkenet for at undg\u00c3\u00a5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00c3\u00b8vet hjemmefra, og du er fast besluttet p\u00c3\u00a5 at give publikum en top-pr\u00c3\u00a6station.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der passer bedst til stemningen og v\u00c3\u00a6lger noget, som alle kan synge med p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan h\u00c3\u00a5ndterer du en uenighed med en n\u00c3\u00a6r ven?",
+            "options": [
+                {
+                    "answer": "Ved at diskutere sagen \u00c3\u00a5bent og \u00c3\u00a6rligt for at finde en f\u00c3\u00a6lles forst\u00c3\u00a5else.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en let og humoristisk tilgang for at undg\u00c3\u00a5, at stemningen bliver for alvorlig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at forberede dine argumenter grundigt for at sikre en rationel diskussion.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at vinde diskussionen eller overbevise din ven om dit synspunkt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

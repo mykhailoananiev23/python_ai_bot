@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at du ved et uheld har sendt en pinlig e-mail til en forkert modtager. Hvordan retter du op p\u00c3\u00a5 fejlen?",
+            "options": [
+                {
+                    "answer": "Du sender en opf\u00c3\u00b8lgende e-mail med en humoristisk undskyldning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen og udarbejder en strategi for at undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en l\u00c3\u00a6ringsmulighed for at forbedre din e-mail-etikette.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler et dybt ansvar for at forklare og undskylde overfor den forkerte modtager.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

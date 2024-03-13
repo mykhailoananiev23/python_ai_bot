@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Det er tid til at s\u00c3\u00a6tte personlige m\u00c3\u00a5l p\u00c3\u00a5 arbejdet for det kommende \u00c3\u00a5r. Hvad fokuserer du p\u00c3\u00a5?",
+            "options": [
+                {
+                    "answer": "Du s\u00c3\u00a6tter m\u00c3\u00a5l, der udfordrer dig til at forbedre dine f\u00c3\u00a6rdigheder og bidrage mere til teamets succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 m\u00c3\u00a5l, der giver dig mulighed for at udforske nye omr\u00c3\u00a5der og v\u00c3\u00a6re kreativ i dit arbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udvikler m\u00c3\u00a5l, der afspejler din ambition om at opn\u00c3\u00a5 perfektion og ekspertise inden for dit felt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger m\u00c3\u00a5l, der styrker dit samarbejde med kollegaer og bidrager til et positivt arbejdsmilj\u00c3\u00b8.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og er nerv\u00c3\u00b8s. Hvad g\u00c3\u00b8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00c3\u00a6rste, der kan ske, er en d\u00c3\u00a5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00c3\u00a5 forh\u00c3\u00a5nd for at sikre, at daten g\u00c3\u00a5r glat.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00c3\u00a6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at ankomme tidligt og tjekker stedet ud, s\u00c3\u00a5 du f\u00c3\u00b8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er i en gruppediskussion, og samtalen tager en negativ drejning. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at vende stemningen med humor og positive kommentarer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer argumenterne og pr\u00c3\u00a6senterer en logisk l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager f\u00c3\u00b8ringen for at styre samtalen tilbage p\u00c3\u00a5 rette spor mod en produktiv dialog.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder gruppen om deres f\u00c3\u00a6lles m\u00c3\u00a5l og v\u00c3\u00a6rdier for at genetablere harmoni.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

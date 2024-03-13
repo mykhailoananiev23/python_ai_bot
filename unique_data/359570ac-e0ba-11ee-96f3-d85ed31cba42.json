@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film at se. Hvad g\u00c3\u00a5r du efter?",
+            "options": [
+                {
+                    "answer": "Noget let og underholdende, der f\u00c3\u00a5r dig til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En film med h\u00c3\u00b8je anmeldelser og kritikerroste pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En inspirerende historie om at overkomme udfordringer.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En dokumentarfilm, der \u00c3\u00b8ger din viden om et vigtigt emne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og kan ikke bestemme dig for, hvor I skal hen. Hvordan v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Du beslutter at lade din date v\u00c3\u00a6lge for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret liste over muligheder og v\u00c3\u00a6lger den med de bedste anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du ved, du kan vise dine bedste sider.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger din date om deres pr\u00c3\u00a6ferencer for at sikre, de f\u00c3\u00a5r en god oplevelse.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder dig om at organisere et teambuilding-event. Hvad er dit f\u00c3\u00b8rste skridt?",
+            "options": [
+                {
+                    "answer": "Finde en aktivitet, der f\u00c3\u00a5r alle til at grine og samarbejde, m\u00c3\u00a5ske med kostumer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Lave en detaljeret plan og tidsplan for at sikre, at eventet bliver en succes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lge en konkurrencepr\u00c3\u00a6get aktivitet, hvor teamet kan vise deres f\u00c3\u00a6rdigheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rge for, at aktiviteten er inkluderende og styrker teamets samh\u00c3\u00b8righed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder alle om at komme med innovative ideer til n\u00c3\u00a6ste store projekt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan foretr\u00c3\u00a6kker du at tilbringe en l\u00c3\u00b8rdag aften?",
+            "options": [
+                {
+                    "answer": "Udforsker nye steder og oplevelser i byen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger en hyggelig aften derhjemme med velvalgte aktiviteter.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Deltager i en aktivitet eller konkurrence, hvor du kan udm\u00c3\u00a6rke dig.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en meningsfuld aktivitet, fx frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

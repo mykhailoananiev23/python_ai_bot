@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film for aftenen med venner, men ingen kan blive enige. Hvordan beslutter du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at stemme for at g\u00c3\u00b8re det sjovt og demokratisk.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer hver vens pr\u00c3\u00a6ferencer for at finde den perfekte film alle vil nyde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en film, du ved, vil imponere og underholde alle.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r et kompromis, hvor I skiftes til at v\u00c3\u00a6lge filmen hver gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Der bliver annonceret en udkl\u00c3\u00a6dningsdag p\u00c3\u00a5 arbejde. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du finder det mest originale og humoristiske kostume for at vinde konkurrencen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et kostume, der er let at samle, og som f\u00c3\u00a5r dine kolleger til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger dit kostume ned til mindste detalje for at sikre autenticitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et inkluderende tema, der opfordrer til teamwork og samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge et nyt sprog at l\u00c3\u00a6re. Hvad motiverer dit valg?",
+            "options": [
+                {
+                    "answer": "Det sprog, der lyder sjovest eller mest sp\u00c3\u00a6ndende at udtale.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et sprog, der giver dig de bedste karrieremuligheder eller forretningsfordele.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et sprog, der er logisk struktureret og effektivt at l\u00c3\u00a6re med klare regler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et sprog, der hj\u00c3\u00a6lper dig med at forbinde bedre med mennesker fra en bestemt kultur.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver spurgt om at deltage i et spontant talentshow. Hvad er din optr\u00c3\u00a6den?",
+            "options": [
+                {
+                    "answer": "En improviseret stand-up rutine, der f\u00c3\u00a5r alle til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En velovervejet recitation af dit yndlingsdigt eller -monolog.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En energisk dans eller sang, som du ved, vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjertevarm fort\u00c3\u00a6lling eller sang, der bringer folk sammen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lave en spontan tale til en sammenkomst. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du tager det som en mulighed for at skinne og deler passioneret dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor og personlige anekdoter for at engagere og underholde publikum.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du strukturerer hurtigt dine tanker for at levere en klar og sammenh\u00c3\u00a6ngende tale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere tak og anerkendelse til v\u00c3\u00a6rterne eller \u00c3\u00a6resg\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "En kollega beder om din hj\u00e6lp til et projekt i sidste \u00f8jeblik. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja og t\u00e6nker, at det kunne v\u00e6re sjovt at pr\u00f8ve noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller klare krav til kvaliteten af arbejdet, f\u00f8r du accepterer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at vise dine evner og siger ja.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du accepterer, fordi du f\u00f8ler det er din pligt at hj\u00e6lpe.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00e5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00e6gge din n\u00e6ste ferie. Hvordan beslutter du, hvor du skal hen?",
+            "options": [
+                {
+                    "answer": "Du laver en liste over steder og v\u00e6lger tilf\u00e6ldigt for et element af overraskelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00e6lger et sted, hvor du kan tage p\u00e5 eventyr og m\u00e5ske sl\u00e5 nogle personlige rekorder.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer steder, der giver mening for dig og dine n\u00e6rmeste, m\u00e5ske med en kulturel eller l\u00e6rerig v\u00e6rdi.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00e5 arbejde, og der opst\u00e5r en akut krise. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00f8sning p\u00e5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00f8je for at finde den mest effektive l\u00f8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00f8sning.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00f8lger n\u00f8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En afdeling, du sj\u00e6ldent arbejder med, beder om din hj\u00e6lp til et presserende problem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer problemet n\u00f8je for at forst\u00e5, hvordan du bedst kan bidrage med din ekspertise.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du hopper ind med et smil, klar til at hj\u00e6lpe og l\u00e6re noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at vise dine f\u00e6rdigheder og straks begynder at udarbejde en l\u00f8sningsplan.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00f8rger for at forst\u00e5 deres behov fuldt ud og koordinerer med dit team for at sikre, at hj\u00e6lpen er velorganiseret.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

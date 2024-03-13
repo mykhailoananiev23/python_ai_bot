@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Midt i en vigtig opgave g\u00c3\u00a5r dit computerprogram ned og taber dit arbejde. Hvad g\u00c3\u00b8r du f\u00c3\u00b8rst?",
+            "options": [
+                {
+                    "answer": "Du tager en pause for at samle dig og undg\u00c3\u00a5r at lade frustrationen tage over.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at lede efter l\u00c3\u00b8sninger for at genskabe eller gendanne dit arbejde.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan det kan undg\u00c3\u00a5s i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du kontakter IT-support for hj\u00c3\u00a6lp og sikrer, at problemet bliver l\u00c3\u00b8st hurtigt og effektivt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har en fridag uden planer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Tager tingene, som de kommer, og nyder spontane aktiviteter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en hobby eller et projekt, der kr\u00c3\u00a6ver din fulde opm\u00c3\u00a6rksomhed.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter personlige m\u00c3\u00a5l for dagen for at maksimere din produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger aktiviteter, der ogs\u00c3\u00a5 kan gavne andre, som at hj\u00c3\u00a6lpe en ven eller familie.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at en kollega tager \u00c3\u00a6ren for dit arbejde. Hvordan konfronterer du dem?",
+            "options": [
+                {
+                    "answer": "Du tager en direkte samtale med kollegaen for at klarl\u00c3\u00a6gge misforst\u00c3\u00a5elser.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en humoristisk bem\u00c3\u00a6rkning n\u00c3\u00a6ste gang I er i gruppe for at lette stemningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at arbejde endnu h\u00c3\u00a5rdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er g\u00c3\u00a5et i stykker lige inden. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du binder en sjov historie om din sko ind i talen og forts\u00c3\u00a6tter med selvtillid.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undskylder diskret for din p\u00c3\u00a5kl\u00c3\u00a6dning og fokuserer p\u00c3\u00a5 at levere en kraftfuld tale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen hurtigt og finder en m\u00c3\u00a5de at skjule skadet sko p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger situationen til at styrke din pr\u00c3\u00a6sentation.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

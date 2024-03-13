@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du har mulighed for at udvide dit professionelle netv\u00c3\u00a6rk. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du planl\u00c3\u00a6gger at deltage i brancherelaterede events og seminarer for at m\u00c3\u00b8de nye mennesker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager en afslappet tilgang og ser hvilke muligheder, der naturligt opst\u00c3\u00a5r gennem eksisterende kontakter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du opretter en detaljeret plan for at forbinde med specifikke personer via LinkedIn og andre professionelle platforme.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at styrke relationerne inden for dit nuv\u00c3\u00a6rende netv\u00c3\u00a6rk for at bygge videre p\u00c3\u00a5 tillid og loyalitet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit fly er forsinket med flere timer. Hvordan fordriver du tiden?",
+            "options": [
+                {
+                    "answer": "Du udnytter tiden til at arbejde og v\u00c3\u00a6re produktiv.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du slapper af og ser det som en god mulighed for at observere mennesker eller l\u00c3\u00a6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker l\u00c3\u00b8bende for opdateringer og planl\u00c3\u00a6gger dine n\u00c3\u00a6ste skridt n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tilbyder din hj\u00c3\u00a6lp til andre rejsende, der m\u00c3\u00a5ske er mere p\u00c3\u00a5virket af forsinkelsen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal improvisere en middag for uventede g\u00c3\u00a6ster. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder p\u00c3\u00a5 en ny opskrift med det, du har, og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sammens\u00c3\u00a6tter en menu, der maksimerer ingrediensernes potentiale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en tidsgr\u00c3\u00a6nse for at udfordre dig selv til at lave noget imponerende hurtigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en hyggelig og indbydende atmosf\u00c3\u00a6re, uanset maden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

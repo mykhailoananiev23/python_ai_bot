@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En kollega beder om din hj\u00c3\u00a6lp til et projekt i sidste \u00c3\u00b8jeblik. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja og t\u00c3\u00a6nker, at det kunne v\u00c3\u00a6re sjovt at pr\u00c3\u00b8ve noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller klare krav til kvaliteten af arbejdet, f\u00c3\u00b8r du accepterer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at vise dine evner og siger ja.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du accepterer, fordi du f\u00c3\u00b8ler det er din pligt at hj\u00c3\u00a6lpe.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager konstruktiv kritik p\u00c3\u00a5 dit arbejde. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Tager det med et smil og ser det som en chance for at l\u00c3\u00a6re.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer feedbacken grundigt for at forbedre dig til n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Bruger feedbacken som motivation for at pr\u00c3\u00a6stere bedre.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "T\u00c3\u00a6nker over, hvordan du kan anvende feedbacken til at hj\u00c3\u00a6lpe teamet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

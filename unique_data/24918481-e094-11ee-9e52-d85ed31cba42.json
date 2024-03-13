@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00c3\u00a6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker, at det er fedt, og skriver din yndlingssang ned p\u00c3\u00a5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00c3\u00b8kkenet for at undg\u00c3\u00a5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00c3\u00b8vet hjemmefra, og du er fast besluttet p\u00c3\u00a5 at give publikum en top-pr\u00c3\u00a6station.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der passer bedst til stemningen og v\u00c3\u00a6lger noget, som alle kan synge med p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film for aftenen med venner, men ingen kan blive enige. Hvordan beslutter du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at stemme for at g\u00c3\u00b8re det sjovt og demokratisk.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer hver vens pr\u00c3\u00a6ferencer for at finde den perfekte film alle vil nyde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en film, du ved, vil imponere og underholde alle.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r et kompromis, hvor I skiftes til at v\u00c3\u00a6lge filmen hver gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en aktivitet for en teambuilding dag. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "En udend\u00c3\u00b8rs eventyraktivitet, der f\u00c3\u00a5r alle til at grine og arbejde sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En workshop, hvor teamet kan l\u00c3\u00a6re nye f\u00c3\u00a6rdigheder sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En aktivitet, der kr\u00c3\u00a6ver pr\u00c3\u00a6cision og opm\u00c3\u00a6rksomhed p\u00c3\u00a5 detaljer, som et escape room.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En frivillig aktivitet, der hj\u00c3\u00a6lper samfundet og styrker teamets samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film at se. Hvad g\u00c3\u00a5r du efter?",
+            "options": [
+                {
+                    "answer": "Noget let og underholdende, der f\u00c3\u00a5r dig til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En film med h\u00c3\u00b8je anmeldelser og kritikerroste pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En inspirerende historie om at overkomme udfordringer.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En dokumentarfilm, der \u00c3\u00b8ger din viden om et vigtigt emne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

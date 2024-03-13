@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal holde en tale ved en vens bryllup, men mister din noter. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du fort\u00c3\u00a6ller sjove anekdoter og taler fra hjertet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at rekonstruere talen fra hukommelsen, s\u00c3\u00a5 godt du kan.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at levere en mindev\u00c3\u00a6rdig og overbevisende tale uden noter.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder for noternes frav\u00c3\u00a6r og taler \u00c3\u00a6rligt om din vens gode kvaliteter.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en middag, og din ret viser sig at v\u00c3\u00a6re noget helt andet end det, du bestilte. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du ser det som en mulighed for at pr\u00c3\u00b8ve noget nyt og tager det med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du er irriteret over fejlen og sikrer, at tjeneren forst\u00c3\u00a5r vigtigheden af at f\u00c3\u00a5 det rigtige m\u00c3\u00a5ltid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du vurderer situationen og beslutter, om det er v\u00c3\u00a6rd at n\u00c3\u00a6vne, alt imens du s\u00c3\u00b8ger den bedste l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er bedre at undg\u00c3\u00a5 konfrontation og accepterer m\u00c3\u00a5ltidet, selvom det ikke var, hvad du \u00c3\u00b8nskede.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du h\u00c3\u00b8rer et rygte om, at der vil v\u00c3\u00a6re en overraskelseskontrol af arbejdsstationernes orden. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du organiserer en sjov oprydningskonkurrence blandt dine kolleger.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du skaber en tjekliste for at sikre, at din arbejdsstation opfylder alle krav.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at optimere din arbejdsplads for maksimal effektivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder dine kolleger om rygtet og tilbyder at hj\u00c3\u00a6lpe dem med at rydde op.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00c3\u00b8rgsm\u00c3\u00a5lene er et, du ikke kender svaret p\u00c3\u00a5. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00c3\u00a6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00c3\u00b8rgsm\u00c3\u00a5let for senere at s\u00c3\u00b8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00c3\u00b8je de mulige svar og v\u00c3\u00a6lger det, der virker mest sandsynligt baseret p\u00c3\u00a5 din viden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at arbejde sammen med holdet for at komme med det bedste g\u00c3\u00a6t, v\u00c3\u00a6rds\u00c3\u00a6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team m\u00c3\u00b8der en uventet deadline. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Med en inspirerende tale om teamets styrke og tidligere succeser.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at foresl\u00c3\u00a5 en team-pause med snacks og musik for at h\u00c3\u00b8jne moralen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at uddelegere opgaver baseret p\u00c3\u00a5 hver persons styrker og effektivitetsniveau.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at minde dem om vigtigheden af deres arbejde og det f\u00c3\u00a6lles m\u00c3\u00a5l.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

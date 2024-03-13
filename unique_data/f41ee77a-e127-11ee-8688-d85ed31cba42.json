@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lede et nyt projekt p\u00c3\u00a5 arbejdet. Hvordan griber du opgaven an?",
+            "options": [
+                {
+                    "answer": "Med entusiasme for at pr\u00c3\u00b8ve nye tilgange og ideer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en detaljeret plan og klare kvalitetsstandarder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at opn\u00c3\u00a5 synlige resultater og succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en ansvarsfuld tilgang, der sikrer alles velbefindende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lede et m\u00c3\u00b8de i sidste \u00c3\u00b8jeblik. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at lede m\u00c3\u00b8det uden forberedelse, ser det som en sp\u00c3\u00a6ndende udfordring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger de f\u00c3\u00a5 minutter, du har, p\u00c3\u00a5 hurtigt at skitsere de vigtigste punkter og m\u00c3\u00a5l for m\u00c3\u00b8det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at f\u00c3\u00a5 et overblik over dagsordenen og forbereder nogle n\u00c3\u00b8glepunkter for at sikre, at m\u00c3\u00b8det forl\u00c3\u00b8ber glat.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s ved tanken om ikke at v\u00c3\u00a6re forberedt, men fors\u00c3\u00b8ger at samle alle tilg\u00c3\u00a6ngelige informationer for at kunne lede m\u00c3\u00b8det effektivt.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er i en gruppediskussion, og samtalen tager en negativ drejning. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at vende stemningen med humor og positive kommentarer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer argumenterne og pr\u00c3\u00a6senterer en logisk l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager f\u00c3\u00b8ringen for at styre samtalen tilbage p\u00c3\u00a5 rette spor mod en produktiv dialog.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder gruppen om deres f\u00c3\u00a6lles m\u00c3\u00a5l og v\u00c3\u00a6rdier for at genetablere harmoni.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

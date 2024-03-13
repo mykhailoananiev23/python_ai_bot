@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan forbereder du dig til en vigtig pr\u00c3\u00a6sentation?",
+            "options": [
+                {
+                    "answer": "Ved at \u00c3\u00b8ve dig flere gange og finpudse hver detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en afslappet tilgang, stoler p\u00c3\u00a5 din evne til at formidle budskabet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at s\u00c3\u00a6tte klare m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med pr\u00c3\u00a6sentationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at sikre, at indholdet er relevant og v\u00c3\u00a6rdifuldt for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Til din \u00c3\u00a5rlige evaluering f\u00c3\u00a5r du at vide, at du kan v\u00c3\u00a6lge et omr\u00c3\u00a5de at udvikle. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Et omr\u00c3\u00a5de, hvor du f\u00c3\u00b8ler, at du kan bidrage mere effektivt til teamets succes.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der udfordrer dig og skubber dine gr\u00c3\u00a6nser for personlig og professionel v\u00c3\u00a6kst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der kan forbedre din evne til at udf\u00c3\u00b8re dit arbejde med st\u00c3\u00b8rre pr\u00c3\u00a6cision og detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der giver dig mulighed for at udforske nye ideer og tilgange til dit arbejde.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du h\u00c3\u00b8rer et rygte om, at der vil v\u00c3\u00a6re en overraskelseskontrol af arbejdsstationernes orden. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du organiserer en sjov oprydningskonkurrence blandt dine kolleger.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du skaber en tjekliste for at sikre, at din arbejdsstation opfylder alle krav.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at optimere din arbejdsplads for maksimal effektivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder dine kolleger om rygtet og tilbyder at hj\u00c3\u00a6lpe dem med at rydde op.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

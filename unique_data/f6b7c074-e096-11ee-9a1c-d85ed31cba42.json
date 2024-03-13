@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal k\u00c3\u00b8be en gave til en, der ikke \u00c3\u00b8nsker sig noget. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du finder en personlig gave, der afspejler din forst\u00c3\u00a5else og omsorg for personen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du k\u00c3\u00b8ber noget sjovt og unikt, der kan bringe et smil frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du investerer tid i at finde en gave, der er b\u00c3\u00a5de praktisk og smuk.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger en gave, der udfordrer eller inspirerer personen til at pr\u00c3\u00b8ve noget nyt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

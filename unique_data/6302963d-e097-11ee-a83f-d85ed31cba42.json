@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din nabo klager over, at din musik er for h\u00c3\u00b8j. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du skruer ned og inviterer dem over til en dansefest n\u00c3\u00a6ste gang.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beklager og skaber et lydniveau-diagram for at undg\u00c3\u00a5 fremtidige klager.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at optimere dit hjemmeunderholdningssystem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du respekterer deres \u00c3\u00b8nske og fors\u00c3\u00b8ger at finde en god balance for fremtiden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film til film aften, men har sv\u00c3\u00a6rt ved at beslutte. Hvordan tr\u00c3\u00a6ffer du dit valg?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger noget, du ved, alle kan lide, selvom det er en film, du har set f\u00c3\u00b8r.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger en film tilf\u00c3\u00a6ldigt for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende og uforudsigelig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foretager en hurtig unders\u00c3\u00b8gelse for at finde en film, der opfylder alle kriterier for en god aften.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger tid p\u00c3\u00a5 at l\u00c3\u00a6se anmeldelser for at v\u00c3\u00a6lge den bedst anmeldte film.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team skal l\u00c3\u00a6re en kompleks ny software. Hvordan sikrer du, at alle er med?",
+            "options": [
+                {
+                    "answer": "Du arrangerer tr\u00c3\u00a6ningssessioner med ekspertundervisere for at sikre en dyb forst\u00c3\u00a5else af softwaren.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du opmuntrer til et 'learning by doing' milj\u00c3\u00b8, hvor alle f\u00c3\u00b8ler sig frie til at eksperimentere med softwaren.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en detaljeret uddannelsesplan, inklusive deadlines og m\u00c3\u00a5l for hvert teammedlem.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at der er tilstr\u00c3\u00a6kkelige ressourcer og support tilg\u00c3\u00a6ngelig, og at teammedlemmerne kan dele viden og tips.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

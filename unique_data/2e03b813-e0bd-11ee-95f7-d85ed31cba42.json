@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du bliver bedt om at lede et m\u00c3\u00b8de i sidste \u00c3\u00b8jeblik. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at lede m\u00c3\u00b8det uden forberedelse, ser det som en sp\u00c3\u00a6ndende udfordring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger de f\u00c3\u00a5 minutter, du har, p\u00c3\u00a5 hurtigt at skitsere de vigtigste punkter og m\u00c3\u00a5l for m\u00c3\u00b8det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at f\u00c3\u00a5 et overblik over dagsordenen og forbereder nogle n\u00c3\u00b8glepunkter for at sikre, at m\u00c3\u00b8det forl\u00c3\u00b8ber glat.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s ved tanken om ikke at v\u00c3\u00a6re forberedt, men fors\u00c3\u00b8ger at samle alle tilg\u00c3\u00a6ngelige informationer for at kunne lede m\u00c3\u00b8det effektivt.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du st\u00c3\u00a5r over for en fejl du har lavet?",
+            "options": [
+                {
+                    "answer": "Med en praktisk tilgang til at rette op p\u00c3\u00a5 fejlen hurtigst muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en accept af, at fejl er en del af livet, og en l\u00c3\u00a6ringserfaring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en grundig analyse af, hvad der gik galt, for at undg\u00c3\u00a5 fremtidige fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en f\u00c3\u00b8lelse af ansvar over for dem, der er ber\u00c3\u00b8rt af fejlen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "To af dine teammedlemmer er i konflikt. Hvordan griber du ind?",
+            "options": [
+                {
+                    "answer": "Du holder et m\u00c3\u00b8de med dem for at forst\u00c3\u00a5 begge sider og fors\u00c3\u00b8ger at finde en f\u00c3\u00a6lles l\u00c3\u00b8sning.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du opfordrer til \u00c3\u00a5ben dialog og bruger konflikten som en mulighed for teamudvikling, ser det som en l\u00c3\u00a6ringschance.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen n\u00c3\u00b8je og udarbejder en strategi for at l\u00c3\u00b8se konflikten s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for, hvordan konflikten skal h\u00c3\u00a5ndteres, og sikrer, at alle fokuserer p\u00c3\u00a5 teamets samlede succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En klient giver negativ feedback p\u00c3\u00a5 et projekt, du f\u00c3\u00b8lte gik godt. Hvordan tackler du det?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken detaljeret for at forst\u00c3\u00a5 klientens perspektiv og forbedre fremtidigt arbejde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig skuffet men beslutter at se det som en l\u00c3\u00a6ring og ikke tage det for personligt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du arrangerer et opf\u00c3\u00b8lgningsm\u00c3\u00b8de med klienten for at diskutere feedbacken og finde en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at klientens bekymringer bliver adresseret og arbejder p\u00c3\u00a5 at genoprette tilliden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

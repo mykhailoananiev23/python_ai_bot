@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din favorit caf\u00c3\u00a9 l\u00c3\u00b8ber t\u00c3\u00b8r for din yndlingskage. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det som en chance for at pr\u00c3\u00b8ve noget nyt og m\u00c3\u00a5ske finde en ny favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r caf\u00c3\u00a9en at give besked, n\u00c3\u00a5r kagen er tilbage, og n\u00c3\u00b8jes med en anden snack.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer de andre muligheder n\u00c3\u00b8je for at finde noget, der kan m\u00c3\u00a5le sig med din favorit.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at udforske og bed\u00c3\u00b8mme caf\u00c3\u00a9ens \u00c3\u00b8vrige udvalg.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bem\u00c3\u00a6rker, at arbejdsmilj\u00c3\u00b8et tr\u00c3\u00a6nger til et l\u00c3\u00b8ft. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r regelm\u00c3\u00a6ssige teamm\u00c3\u00b8der for at diskutere velv\u00c3\u00a6re og jobtilfredshed.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du introducerer fleksible arbejdstider eller hjemmearbejdsdage for at forbedre work-life balance.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du implementerer et system for feedback og anerkendelse for at \u00c3\u00b8ge motivationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en gennemgang af arbejdsprocesserne for at identificere og eliminere un\u00c3\u00b8dvendige stressfaktorer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at du har haft din tr\u00c3\u00b8je p\u00c3\u00a5 vrangen hele dagen p\u00c3\u00a5 arbejdet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner af det og g\u00c3\u00b8r det til dagens joke blandt kollegerne.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig flov og beslutter dig for at tjekke dig selv ekstra grundigt i spejlet fremover.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en lektion i at v\u00c3\u00a6re mere opm\u00c3\u00a6rksom og effektiv i din morgenrutine.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor alle, du har m\u00c3\u00b8dt, selvom de sandsynligvis ikke har lagt m\u00c3\u00a6rke til det.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

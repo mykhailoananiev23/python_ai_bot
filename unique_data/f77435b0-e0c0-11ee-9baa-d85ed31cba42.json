@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er i biografen og opdager, at personen foran dig bruger deres telefon med fuld lysstyrke. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du ignorerer det og koncentrerer dig om filmen. Det \u00c3\u00b8del\u00c3\u00a6gger ikke din oplevelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og overvejer at sige noget, men beslutter at det er vigtigere at fokusere p\u00c3\u00a5 filmen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du finder en diskret m\u00c3\u00a5de at f\u00c3\u00a5 dem til at forst\u00c3\u00a5, at de forstyrrer, uden at skabe konflikt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er dit ansvar at sige noget, b\u00c3\u00a5de for din og andres skyld, og g\u00c3\u00b8r det h\u00c3\u00b8fligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du finder en fejl i et produkt, du lige har k\u00c3\u00b8bt?",
+            "options": [
+                {
+                    "answer": "Du kontakter straks producenten eller forhandleren for at rapportere fejlen og anmode om en erstatning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det med godt hum\u00c3\u00b8r og ser, om du kan l\u00c3\u00b8se problemet selv.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du unders\u00c3\u00b8ger, hvordan fejlen kunne p\u00c3\u00a5virke produktets ydeevne og overvejer dine muligheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du l\u00c3\u00a6ser returpolitikken grundigt for at sikre, at du kan returnere produktet uden problemer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 et m\u00c3\u00b8de og har virkelig brug for at nyse. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder det tilbage s\u00c3\u00a5 diskret som muligt for ikke at forstyrre.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du lader naturen g\u00c3\u00a5 sin gang og siger p\u00c3\u00a6nt undskyld bagefter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger en teknik, du har l\u00c3\u00a6rt til at stoppe nysen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring at nyse s\u00c3\u00a5 lydl\u00c3\u00b8st som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en konference og bliver spurgt om din mening om et emne, du intet ved om. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt, at du ikke er bekendt med emnet, men er ivrig efter at l\u00c3\u00a6re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bruger en generel viden for at formulere et sikkert svar og skifter hurtigt emne.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en vittighed om situationen og siger, du vil se frem til at google det senere.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udtrykker en interesse for at h\u00c3\u00b8re andres meninger, f\u00c3\u00b8r du bidrager med dine egne tanker.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

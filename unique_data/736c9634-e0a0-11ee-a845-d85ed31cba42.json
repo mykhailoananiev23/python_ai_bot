@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vens bryllup, men mister din noter. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du fort\u00c3\u00a6ller sjove anekdoter og taler fra hjertet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at rekonstruere talen fra hukommelsen, s\u00c3\u00a5 godt du kan.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at levere en mindev\u00c3\u00a6rdig og overbevisende tale uden noter.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder for noternes frav\u00c3\u00a6r og taler \u00c3\u00a6rligt om din vens gode kvaliteter.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan forbereder du dig til en vigtig pr\u00c3\u00a6sentation?",
+            "options": [
+                {
+                    "answer": "Ved at \u00c3\u00b8ve dig flere gange og finpudse hver detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en afslappet tilgang, stoler p\u00c3\u00a5 din evne til at formidle budskabet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at s\u00c3\u00a6tte klare m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med pr\u00c3\u00a6sentationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at sikre, at indholdet er relevant og v\u00c3\u00a6rdifuldt for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse er langsom p\u00c3\u00a5 en travl dag. Hvordan h\u00c3\u00a5ndterer du frustrationen?",
+            "options": [
+                {
+                    "answer": "Du tager en pause og bruger tiden til at slappe af eller lave noget offline.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester og fejlfinder din internetforbindelse for at identificere og l\u00c3\u00b8se problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du prioriterer dine opgaver for at fokusere p\u00c3\u00a5 dem, der kr\u00c3\u00a6ver mindst internetbrug.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du informerer dit team eller dine kontakter om forsinkelsen og arbejder s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

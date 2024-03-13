@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du har en fridag uden planer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Tager tingene, som de kommer, og nyder spontane aktiviteter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en hobby eller et projekt, der kr\u00c3\u00a6ver din fulde opm\u00c3\u00a6rksomhed.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter personlige m\u00c3\u00a5l for dagen for at maksimere din produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger aktiviteter, der ogs\u00c3\u00a5 kan gavne andre, som at hj\u00c3\u00a6lpe en ven eller familie.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En klient giver negativ feedback p\u00c3\u00a5 et projekt, du f\u00c3\u00b8lte gik godt. Hvordan tackler du det?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken detaljeret for at forst\u00c3\u00a5 klientens perspektiv og forbedre fremtidigt arbejde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig skuffet men beslutter at se det som en l\u00c3\u00a6ring og ikke tage det for personligt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du arrangerer et opf\u00c3\u00b8lgningsm\u00c3\u00b8de med klienten for at diskutere feedbacken og finde en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at klientens bekymringer bliver adresseret og arbejder p\u00c3\u00a5 at genoprette tilliden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder alle om at komme med innovative ideer til n\u00c3\u00a6ste store projekt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din computer crasher midt i et vigtigt arbejde. Hvad er din f\u00c3\u00b8rste handling?",
+            "options": [
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter en fejlfinding med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret og bruger tid p\u00c3\u00a5 at gennemg\u00c3\u00a5 alle trin for at undg\u00c3\u00a5 fremtidige crashes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at l\u00c3\u00b8se problemet hurtigst muligt for at minimere tidstab.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at du har backup af alle filer og l\u00c3\u00a6rer af situationen til n\u00c3\u00a6ste gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder dig om at organisere et teambuilding-event. Hvad er dit f\u00c3\u00b8rste skridt?",
+            "options": [
+                {
+                    "answer": "Finde en aktivitet, der f\u00c3\u00a5r alle til at grine og samarbejde, m\u00c3\u00a5ske med kostumer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Lave en detaljeret plan og tidsplan for at sikre, at eventet bliver en succes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lge en konkurrencepr\u00c3\u00a6get aktivitet, hvor teamet kan vise deres f\u00c3\u00a6rdigheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rge for, at aktiviteten er inkluderende og styrker teamets samh\u00c3\u00b8righed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

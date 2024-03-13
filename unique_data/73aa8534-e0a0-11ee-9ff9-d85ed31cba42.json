@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan f\u00c3\u00b8ler du omkring spontane planer?",
+            "options": [
+                {
+                    "answer": "Begejstret for nye oplevelser uden forudg\u00c3\u00a5ende planl\u00c3\u00a6gning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Foretr\u00c3\u00a6kker at have tid til at forberede og planl\u00c3\u00a6gge detaljerne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "\u00c3\u2026ben, hvis det bidrager til personlige eller professionelle m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bekymret for, hvordan det p\u00c3\u00a5virker andre planer eller forpligtelser.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en middag, og din ret viser sig at v\u00c3\u00a6re noget helt andet end det, du bestilte. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du ser det som en mulighed for at pr\u00c3\u00b8ve noget nyt og tager det med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du er irriteret over fejlen og sikrer, at tjeneren forst\u00c3\u00a5r vigtigheden af at f\u00c3\u00a5 det rigtige m\u00c3\u00a5ltid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du vurderer situationen og beslutter, om det er v\u00c3\u00a6rd at n\u00c3\u00a6vne, alt imens du s\u00c3\u00b8ger den bedste l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er bedre at undg\u00c3\u00a5 konfrontation og accepterer m\u00c3\u00a5ltidet, selvom det ikke var, hvad du \u00c3\u00b8nskede.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan beslutter du, hvilken bog du skal l\u00c3\u00a6se n\u00c3\u00a6ste gang?",
+            "options": [
+                {
+                    "answer": "Ud fra en anbefaling fra en ven, der kender din smag.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge noget, der lyder sjovt eller anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Efter grundig forskning og l\u00c3\u00a6sning af anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Baseret p\u00c3\u00a5 hvad der vil udvide din viden eller f\u00c3\u00a6rdigheder mest.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 en restaurant og din bestilling kommer ud forkert. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du accepterer retten som en ny oplevelse, m\u00c3\u00a5ske ender det med at blive din nye favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beder h\u00c3\u00b8fligt om at f\u00c3\u00a5 den ret, du oprindeligt bestilte, med en undskyldning for forvirringen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer, om det er v\u00c3\u00a6rd at klage, afh\u00c3\u00a6ngigt af rettens kvalitet og din sult.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du insisterer p\u00c3\u00a5 at f\u00c3\u00a5 det, du betalte for, og bruger h\u00c3\u00a6ndelsen som feedback til restauranten.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal planl\u00c3\u00a6gge din n\u00c3\u00a6ste ferie. Hvordan beslutter du, hvor du skal hen?",
+            "options": [
+                {
+                    "answer": "Du laver en liste over steder og v\u00c3\u00a6lger tilf\u00c3\u00a6ldigt for et element af overraskelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du kan tage p\u00c3\u00a5 eventyr og m\u00c3\u00a5ske sl\u00c3\u00a5 nogle personlige rekorder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer steder, der giver mening for dig og dine n\u00c3\u00a6rmeste, m\u00c3\u00a5ske med en kulturel eller l\u00c3\u00a6rerig v\u00c3\u00a6rdi.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse er langsom p\u00c3\u00a5 en travl dag. Hvordan h\u00c3\u00a5ndterer du frustrationen?",
+            "options": [
+                {
+                    "answer": "Du tager en pause og bruger tiden til at slappe af eller lave noget offline.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester og fejlfinder din internetforbindelse for at identificere og l\u00c3\u00b8se problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du prioriterer dine opgaver for at fokusere p\u00c3\u00a5 dem, der kr\u00c3\u00a6ver mindst internetbrug.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du informerer dit team eller dine kontakter om forsinkelsen og arbejder s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

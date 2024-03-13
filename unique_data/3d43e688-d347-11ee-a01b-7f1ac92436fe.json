@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00e5 arbejde, og der opst\u00e5r en akut krise. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00f8sning p\u00e5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00f8je for at finde den mest effektive l\u00f8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00f8sning.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00f8lger n\u00f8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at du ved et uheld har sendt en pinlig e-mail til en forkert modtager. Hvordan retter du op p\u00e5 fejlen?",
+            "options": [
+                {
+                    "answer": "Du sender en opf\u00f8lgende e-mail med en humoristisk undskyldning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen og udarbejder en strategi for at undg\u00e5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en l\u00e6ringsmulighed for at forbedre din e-mail-etikette.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00f8ler et dybt ansvar for at forklare og undskylde overfor den forkerte modtager.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan forbereder du dig til en vigtig pr\u00e6sentation?",
+            "options": [
+                {
+                    "answer": "Ved at \u00f8ve dig flere gange og finpudse hver detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en afslappet tilgang, stoler p\u00e5 din evne til at formidle budskabet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at s\u00e6tte klare m\u00e5l for, hvad du vil opn\u00e5 med pr\u00e6sentationen.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Ved at sikre, at indholdet er relevant og v\u00e6rdifuldt for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00e6lge et nyt sprog at l\u00e6re. Hvad motiverer dit valg?",
+            "options": [
+                {
+                    "answer": "Det sprog, der lyder sjovest eller mest sp\u00e6ndende at udtale.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et sprog, der giver dig de bedste karrieremuligheder eller forretningsfordele.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Et sprog, der er logisk struktureret og effektivt at l\u00e6re med klare regler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et sprog, der hj\u00e6lper dig med at forbinde bedre med mennesker fra en bestemt kultur.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din computer crasher midt i et vigtigt arbejde. Hvad er din f\u00f8rste handling?",
+            "options": [
+                {
+                    "answer": "Du tager en dyb ind\u00e5nding og starter en fejlfinding med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret og bruger tid p\u00e5 at gennemg\u00e5 alle trin for at undg\u00e5 fremtidige crashes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00e5 at l\u00f8se problemet hurtigst muligt for at minimere tidstab.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at du har backup af alle filer og l\u00e6rer af situationen til n\u00e6ste gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

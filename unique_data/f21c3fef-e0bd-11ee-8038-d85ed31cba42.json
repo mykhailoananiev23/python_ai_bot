@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er i en gruppediskussion, og samtalen tager en negativ drejning. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at vende stemningen med humor og positive kommentarer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer argumenterne og pr\u00c3\u00a6senterer en logisk l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager f\u00c3\u00b8ringen for at styre samtalen tilbage p\u00c3\u00a5 rette spor mod en produktiv dialog.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder gruppen om deres f\u00c3\u00a6lles m\u00c3\u00a5l og v\u00c3\u00a6rdier for at genetablere harmoni.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef annoncerer en overraskende teamudflugt for at booste moralen. Hvad h\u00c3\u00a5ber du, det bliver?",
+            "options": [
+                {
+                    "answer": "En aktivitet, der fremmer teamwork og samarbejde, s\u00c3\u00a5 I kan styrke jeres relationer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "En kreativ og sjov aktivitet, der giver mulighed for at t\u00c3\u00a6nke ud af boksen og slippe dagligdagens stress.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En udfordrende aktivitet, der tester jeres evner og hj\u00c3\u00a6lper med at identificere st\u00c3\u00a6rke sider i teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En velorganiseret og indholdsrig aktivitet, der tilf\u00c3\u00b8jer v\u00c3\u00a6rdi til jeres professionelle udvikling.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

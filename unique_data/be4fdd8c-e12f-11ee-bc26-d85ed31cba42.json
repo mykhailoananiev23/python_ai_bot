@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r mulighed for at omdesigne dit arbejdsomr\u00c3\u00a5de. Hvordan ser dit nye setup ud?",
+            "options": [
+                {
+                    "answer": "Et \u00c3\u00a5bent og fleksibelt layout, der fremmer kreativitet og samarbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et organiseret og effektivt setup med fokus p\u00c3\u00a5 ergonomi og produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et struktureret og funktionelt rum, hvor alt har sin plads for maksimal effektivitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et roligt og behageligt milj\u00c3\u00b8, der underst\u00c3\u00b8tter koncentration og dedikation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse g\u00c3\u00a5r ned, lige som du skal til at streame din yndlingsserie. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du bruger tiden p\u00c3\u00a5 at genoptage en gammel hobby eller l\u00c3\u00a6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester forskellige fejlfindingstrin for at genetablere forbindelsen s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger en alternativ aktivitet, der ikke kr\u00c3\u00a6ver internet.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ringer til din internetudbyder for at l\u00c3\u00b8se problemet med det samme.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Midt i en vigtig opgave g\u00c3\u00a5r dit computerprogram ned og taber dit arbejde. Hvad g\u00c3\u00b8r du f\u00c3\u00b8rst?",
+            "options": [
+                {
+                    "answer": "Du tager en pause for at samle dig og undg\u00c3\u00a5r at lade frustrationen tage over.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at lede efter l\u00c3\u00b8sninger for at genskabe eller gendanne dit arbejde.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan det kan undg\u00c3\u00a5s i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du kontakter IT-support for hj\u00c3\u00a6lp og sikrer, at problemet bliver l\u00c3\u00b8st hurtigt og effektivt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

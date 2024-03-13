@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er g\u00c3\u00a5et i stykker lige inden. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du binder en sjov historie om din sko ind i talen og forts\u00c3\u00a6tter med selvtillid.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undskylder diskret for din p\u00c3\u00a5kl\u00c3\u00a6dning og fokuserer p\u00c3\u00a5 at levere en kraftfuld tale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen hurtigt og finder en m\u00c3\u00a5de at skjule skadet sko p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger situationen til at styrke din pr\u00c3\u00a6sentation.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r mulighed for at omdesigne dit arbejdsomr\u00c3\u00a5de. Hvordan ser dit nye setup ud?",
+            "options": [
+                {
+                    "answer": "Et \u00c3\u00a5bent og fleksibelt layout, der fremmer kreativitet og samarbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et organiseret og effektivt setup med fokus p\u00c3\u00a5 ergonomi og produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et struktureret og funktionelt rum, hvor alt har sin plads for maksimal effektivitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et roligt og behageligt milj\u00c3\u00b8, der underst\u00c3\u00b8tter koncentration og dedikation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

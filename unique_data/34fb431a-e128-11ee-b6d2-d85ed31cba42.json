@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bestiller noget helt nyt for at pr\u00c3\u00b8ve noget anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer den nye menu n\u00c3\u00b8je for at finde den perfekte ret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Sp\u00c3\u00b8rger tjeneren om anbefalinger for at tr\u00c3\u00a6ffe den bedste beslutning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lger noget, der ser sundt og ern\u00c3\u00a6ringsrigtigt ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en aktivitet for en teambuilding dag. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "En udend\u00c3\u00b8rs eventyraktivitet, der f\u00c3\u00a5r alle til at grine og arbejde sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En workshop, hvor teamet kan l\u00c3\u00a6re nye f\u00c3\u00a6rdigheder sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En aktivitet, der kr\u00c3\u00a6ver pr\u00c3\u00a6cision og opm\u00c3\u00a6rksomhed p\u00c3\u00a5 detaljer, som et escape room.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En frivillig aktivitet, der hj\u00c3\u00a6lper samfundet og styrker teamets samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har mulighed for at udvide dit professionelle netv\u00c3\u00a6rk. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du planl\u00c3\u00a6gger at deltage i brancherelaterede events og seminarer for at m\u00c3\u00b8de nye mennesker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager en afslappet tilgang og ser hvilke muligheder, der naturligt opst\u00c3\u00a5r gennem eksisterende kontakter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du opretter en detaljeret plan for at forbinde med specifikke personer via LinkedIn og andre professionelle platforme.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at styrke relationerne inden for dit nuv\u00c3\u00a6rende netv\u00c3\u00a6rk for at bygge videre p\u00c3\u00a5 tillid og loyalitet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

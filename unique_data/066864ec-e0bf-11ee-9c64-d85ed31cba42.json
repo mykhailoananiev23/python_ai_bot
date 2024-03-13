@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er i en gruppediskussion, og samtalen tager en negativ drejning. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at vende stemningen med humor og positive kommentarer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer argumenterne og pr\u00c3\u00a6senterer en logisk l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager f\u00c3\u00b8ringen for at styre samtalen tilbage p\u00c3\u00a5 rette spor mod en produktiv dialog.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du minder gruppen om deres f\u00c3\u00a6lles m\u00c3\u00a5l og v\u00c3\u00a6rdier for at genetablere harmoni.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din nabo klager over, at din musik er for h\u00c3\u00b8j. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du skruer ned og inviterer dem over til en dansefest n\u00c3\u00a6ste gang.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beklager og skaber et lydniveau-diagram for at undg\u00c3\u00a5 fremtidige klager.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at optimere dit hjemmeunderholdningssystem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du respekterer deres \u00c3\u00b8nske og fors\u00c3\u00b8ger at finde en god balance for fremtiden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 ferie. Hvordan planl\u00c3\u00a6gger du turen?",
+            "options": [
+                {
+                    "answer": "Du booker kun den f\u00c3\u00b8rste nat og beslutter resten undervejs.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for hver dag, inklusive backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter specifikke m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med ferien.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at din rejse har et form\u00c3\u00a5l, fx kulturel l\u00c3\u00a6ring eller frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er g\u00c3\u00a5et i stykker lige inden. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du binder en sjov historie om din sko ind i talen og forts\u00c3\u00a6tter med selvtillid.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undskylder diskret for din p\u00c3\u00a5kl\u00c3\u00a6dning og fokuserer p\u00c3\u00a5 at levere en kraftfuld tale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen hurtigt og finder en m\u00c3\u00a5de at skjule skadet sko p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger situationen til at styrke din pr\u00c3\u00a6sentation.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din favorit caf\u00c3\u00a9 l\u00c3\u00b8ber t\u00c3\u00b8r for din yndlingskage. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det som en chance for at pr\u00c3\u00b8ve noget nyt og m\u00c3\u00a5ske finde en ny favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r caf\u00c3\u00a9en at give besked, n\u00c3\u00a5r kagen er tilbage, og n\u00c3\u00b8jes med en anden snack.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer de andre muligheder n\u00c3\u00b8je for at finde noget, der kan m\u00c3\u00a5le sig med din favorit.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at udforske og bed\u00c3\u00b8mme caf\u00c3\u00a9ens \u00c3\u00b8vrige udvalg.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

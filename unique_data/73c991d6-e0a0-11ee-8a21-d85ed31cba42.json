@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsserie slutter med en skuffende finale. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du starter en diskussion p\u00c3\u00a5 sociale medier for at dele din mening og h\u00c3\u00b8re andres perspektiver.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tr\u00c3\u00a6kker p\u00c3\u00a5 skuldrene og beslutter dig for at finde en ny serie at nyde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du skriver en detaljeret analyse af, hvad du syntes var galt, og hvordan det kunne v\u00c3\u00a6re gjort bedre.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger efter fan-teorier og alternative afslutninger online for at finde tr\u00c3\u00b8st.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er g\u00c3\u00a5et i stykker lige inden. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du binder en sjov historie om din sko ind i talen og forts\u00c3\u00a6tter med selvtillid.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undskylder diskret for din p\u00c3\u00a5kl\u00c3\u00a6dning og fokuserer p\u00c3\u00a5 at levere en kraftfuld tale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen hurtigt og finder en m\u00c3\u00a5de at skjule skadet sko p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger situationen til at styrke din pr\u00c3\u00a6sentation.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er g\u00c3\u00a5et i stykker lige inden. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du binder en sjov historie om din sko ind i talen og forts\u00c3\u00a6tter med selvtillid.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undskylder diskret for din p\u00c3\u00a5kl\u00c3\u00a6dning og fokuserer p\u00c3\u00a5 at levere en kraftfuld tale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen hurtigt og finder en m\u00c3\u00a5de at skjule skadet sko p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger situationen til at styrke din pr\u00c3\u00a6sentation.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan foretr\u00c3\u00a6kker du at tilbringe en l\u00c3\u00b8rdag aften?",
+            "options": [
+                {
+                    "answer": "Udforsker nye steder og oplevelser i byen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger en hyggelig aften derhjemme med velvalgte aktiviteter.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Deltager i en aktivitet eller konkurrence, hvor du kan udm\u00c3\u00a6rke dig.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en meningsfuld aktivitet, fx frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din indbakke eksploderer med uops\u00c3\u00a6ttelige emails p\u00c3\u00a5 en travl dag. Hvordan prioriterer du?",
+            "options": [
+                {
+                    "answer": "Du sorterer emails efter vigtighed og deadline, s\u00c3\u00a5 du kan h\u00c3\u00a5ndtere dem i en logisk r\u00c3\u00a6kkef\u00c3\u00b8lge.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter fra toppen \u00e2\u20ac\u201c du f\u00c3\u00a5r klaret det, et skridt ad gangen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du identificerer de opgaver, der direkte p\u00c3\u00a5virker dine m\u00c3\u00a5l, og fokuserer p\u00c3\u00a5 dem f\u00c3\u00b8rst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du svarer hurtigt p\u00c3\u00a5 de nemmeste emails for at reducere antallet og fokuserer derefter p\u00c3\u00a5 de mere kr\u00c3\u00a6vende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet regnbyge, n\u00c3\u00a5r du er ude at vandre?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at dit udstyr er vandt\u00c3\u00a6t og forts\u00c3\u00a6tter din tur med fornyet forsigtighed.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger lejligheden til at praktisere dine overlevelsesf\u00c3\u00a6rdigheder under d\u00c3\u00a5rlige vejrforhold.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle i gruppen er sikre og overvejer, om det er bedst at s\u00c3\u00b8ge ly.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

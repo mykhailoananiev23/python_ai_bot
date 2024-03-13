@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet regnbyge, n\u00c3\u00a5r du er ude at vandre?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at dit udstyr er vandt\u00c3\u00a6t og forts\u00c3\u00a6tter din tur med fornyet forsigtighed.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger lejligheden til at praktisere dine overlevelsesf\u00c3\u00a6rdigheder under d\u00c3\u00a5rlige vejrforhold.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle i gruppen er sikre og overvejer, om det er bedst at s\u00c3\u00b8ge ly.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en vinsmagning, og en vin falder ikke i din smag. Hvordan udtrykker du din mening?",
+            "options": [
+                {
+                    "answer": "Du siger muntert, at alle har forskellig smag, og dette bare ikke var din kop te.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du giver en velovervejet kritik af vinen, baseret p\u00c3\u00a5 det, du ved om vinens karakteristika.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du holder din mening for dig selv for ikke at virke uh\u00c3\u00b8flig over for v\u00c3\u00a6rten eller de andre g\u00c3\u00a6ster.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer n\u00c3\u00b8je, hvad det er ved vinen, du ikke bryder dig om, for at give en konstruktiv feedback.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

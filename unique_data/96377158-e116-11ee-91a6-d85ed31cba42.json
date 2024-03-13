@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal holde en pr\u00c3\u00a6sentation, men glemmer pludselig dine noter derhjemme. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du improviserer med et smil og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s og bruger hvert et pausemoment til at genkalde din forberedelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 din viden om emnet og bruger det som en chance for at skinne igennem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor dit publikum og g\u00c3\u00b8r dit bedste under omst\u00c3\u00a6ndighederne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er sent p\u00c3\u00a5 den og kan kun fange bussen, hvis du l\u00c3\u00b8ber. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du l\u00c3\u00b8ber uden t\u00c3\u00b8ven, selvom det betyder at ankomme forpustet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du vurderer, om det virkelig er v\u00c3\u00a6rd at l\u00c3\u00b8be, eller om det er bedre at vente p\u00c3\u00a5 den n\u00c3\u00a6ste bus.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en hurtig beregning af, hvor meget forsinkelsen vil p\u00c3\u00a5virke resten af din dag.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig over for din tidsplan og beslutter dig hurtigt for at l\u00c3\u00b8be.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lave en spontan tale til en sammenkomst. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du tager det som en mulighed for at skinne og deler passioneret dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor og personlige anekdoter for at engagere og underholde publikum.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du strukturerer hurtigt dine tanker for at levere en klar og sammenh\u00c3\u00a6ngende tale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere tak og anerkendelse til v\u00c3\u00a6rterne eller \u00c3\u00a6resg\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

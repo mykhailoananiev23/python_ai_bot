@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at du har sendt en vigtig e-mail til den forkerte person. Hvordan retter du op p\u00c3\u00a5 din fejl?",
+            "options": [
+                {
+                    "answer": "Du sender en undskyldende opf\u00c3\u00b8lgning til begge parter og l\u00c3\u00b8ser situationen med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker alle fremtidige e-mails for at sikre, at dette aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du anvender fejlen som en l\u00c3\u00a6ringserfaring for at forbedre dine kommunikationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager det fulde ansvar og s\u00c3\u00b8rger for, at den korrekte modtager f\u00c3\u00a5r de n\u00c3\u00b8dvendige informationer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i en app, du bruger dagligt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du rapporterer fejlen detaljeret for at hj\u00c3\u00a6lpe med at forbedre appen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du griner af det og finder en midlertidig l\u00c3\u00b8sning eller workaround.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, om fejlen kan udnyttes til din fordel, inden du rapporterer den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at dele din opdagelse med venner, s\u00c3\u00a5 de ogs\u00c3\u00a5 er opm\u00c3\u00a6rksomme.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal give en uventet pr\u00c3\u00a6sentation p\u00c3\u00a5 arbejde. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at tale under pres.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger hvert ledigt minut til at forberede og organisere dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de vigtigste pointer for at sikre klarhed og pr\u00c3\u00a6cision.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere information, der er relevant og v\u00c3\u00a6rdifuld for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

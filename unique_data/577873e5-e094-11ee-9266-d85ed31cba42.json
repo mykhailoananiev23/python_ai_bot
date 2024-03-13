@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal holde en tale ved en vigtig begivenhed, men opdager, at din sko er g\u00c3\u00a5et i stykker lige inden. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du binder en sjov historie om din sko ind i talen og forts\u00c3\u00a6tter med selvtillid.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undskylder diskret for din p\u00c3\u00a5kl\u00c3\u00a6dning og fokuserer p\u00c3\u00a5 at levere en kraftfuld tale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen hurtigt og finder en m\u00c3\u00a5de at skjule skadet sko p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger situationen til at styrke din pr\u00c3\u00a6sentation.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r mulighed for at omdesigne dit arbejdsomr\u00c3\u00a5de. Hvordan ser dit nye setup ud?",
+            "options": [
+                {
+                    "answer": "Et \u00c3\u00a5bent og fleksibelt layout, der fremmer kreativitet og samarbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et organiseret og effektivt setup med fokus p\u00c3\u00a5 ergonomi og produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et struktureret og funktionelt rum, hvor alt har sin plads for maksimal effektivitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et roligt og behageligt milj\u00c3\u00b8, der underst\u00c3\u00b8tter koncentration og dedikation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at en kollega tager \u00c3\u00a6ren for dit arbejde. Hvordan konfronterer du dem?",
+            "options": [
+                {
+                    "answer": "Du tager en direkte samtale med kollegaen for at klarl\u00c3\u00a6gge misforst\u00c3\u00a5elser.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en humoristisk bem\u00c3\u00a6rkning n\u00c3\u00a6ste gang I er i gruppe for at lette stemningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at arbejde endnu h\u00c3\u00a5rdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

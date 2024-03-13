@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din nabo klager over, at din musik er for h\u00c3\u00b8j. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du skruer ned og inviterer dem over til en dansefest n\u00c3\u00a6ste gang.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beklager og skaber et lydniveau-diagram for at undg\u00c3\u00a5 fremtidige klager.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at optimere dit hjemmeunderholdningssystem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du respekterer deres \u00c3\u00b8nske og fors\u00c3\u00b8ger at finde en god balance for fremtiden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film for aftenen med venner, men ingen kan blive enige. Hvordan beslutter du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at stemme for at g\u00c3\u00b8re det sjovt og demokratisk.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer hver vens pr\u00c3\u00a6ferencer for at finde den perfekte film alle vil nyde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en film, du ved, vil imponere og underholde alle.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r et kompromis, hvor I skiftes til at v\u00c3\u00a6lge filmen hver gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din computer crasher midt i et vigtigt arbejde. Hvad er din f\u00c3\u00b8rste handling?",
+            "options": [
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter en fejlfinding med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret og bruger tid p\u00c3\u00a5 at gennemg\u00c3\u00a5 alle trin for at undg\u00c3\u00a5 fremtidige crashes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at l\u00c3\u00b8se problemet hurtigst muligt for at minimere tidstab.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at du har backup af alle filer og l\u00c3\u00a6rer af situationen til n\u00c3\u00a6ste gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

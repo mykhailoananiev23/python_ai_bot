@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din nabo starter en meget h\u00c3\u00b8j og st\u00c3\u00b8jende fest midt p\u00c3\u00a5 en hverdagsaften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at join'e festen og have det sjovt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og bruger aftenen p\u00c3\u00a5 at formulere en klagebrev med alle regelbrud.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at arbejde p\u00c3\u00a5 din evne til at koncentrere dig under distraktioner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at g\u00c3\u00a5 over og bede dem om at d\u00c3\u00a6mpe sig af hensyn til nabolaget.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven inviterer dig til at deltage i en ny hobby, som du synes lyder kedelig. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du giver det en chance, t\u00c3\u00a6nk hvis det viser sig at v\u00c3\u00a6re sjovt!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver research for at finde noget interessant ved hobbyen, f\u00c3\u00b8r du beslutter dig.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du siger ja med det m\u00c3\u00a5l at blive god til hobbyen, selvom den ikke umiddelbart tiltaler dig.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du accepterer invitationen, fordi det er vigtigt at tilbringe tid med din ven.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

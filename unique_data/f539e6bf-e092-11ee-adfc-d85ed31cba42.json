@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal planl\u00c3\u00a6gge en vens f\u00c3\u00b8dselsdagsfest, men har et begr\u00c3\u00a6nset budget. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder kreative DIY-dekorationer og planl\u00c3\u00a6gger hjemmelavede snacks.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du prioriterer udgifterne og bruger pengene, hvor de har st\u00c3\u00b8rst effekt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret budgetplan for at sikre, at du f\u00c3\u00a5r mest muligt ud af hvert \u00c3\u00b8re.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en varm og indbydende atmosf\u00c3\u00a6re, der reflekterer f\u00c3\u00b8dselarens personlighed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team m\u00c3\u00b8der en uventet deadline. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Med en inspirerende tale om teamets styrke og tidligere succeser.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at foresl\u00c3\u00a5 en team-pause med snacks og musik for at h\u00c3\u00b8jne moralen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at uddelegere opgaver baseret p\u00c3\u00a5 hver persons styrker og effektivitetsniveau.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at minde dem om vigtigheden af deres arbejde og det f\u00c3\u00a6lles m\u00c3\u00a5l.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

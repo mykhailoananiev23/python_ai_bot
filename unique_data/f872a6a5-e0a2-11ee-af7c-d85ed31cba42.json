@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en sj\u00c3\u00a6lden fugl p\u00c3\u00a5 din g\u00c3\u00a5tur. Hvordan dokumenterer du \u00c3\u00b8jeblikket?",
+            "options": [
+                {
+                    "answer": "Du tager en hurtig selfie med fuglen i baggrunden og deler den p\u00c3\u00a5 sociale medier.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du observerer fuglen n\u00c3\u00b8je og noterer detaljer for senere at sl\u00c3\u00a5 den op.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger din viden om fotografering til at tage det perfekte billede.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder \u00c3\u00b8jeblikket i stilhed og beslutter m\u00c3\u00a5ske at fort\u00c3\u00a6lle om det senere.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet regnbyge, n\u00c3\u00a5r du er ude at vandre?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at dit udstyr er vandt\u00c3\u00a6t og forts\u00c3\u00a6tter din tur med fornyet forsigtighed.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger lejligheden til at praktisere dine overlevelsesf\u00c3\u00a6rdigheder under d\u00c3\u00a5rlige vejrforhold.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle i gruppen er sikre og overvejer, om det er bedst at s\u00c3\u00b8ge ly.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en ny trend?",
+            "options": [
+                {
+                    "answer": "Med nysgerrighed og en vilje til at pr\u00c3\u00b8ve den af, hvis den virker sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at evaluere dens langsigtede v\u00c3\u00a6rdi og effektivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med skepsis, indtil du har analyseret alle fordele og ulemper.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at overveje, hvordan den p\u00c3\u00a5virker andre og om den fremmer f\u00c3\u00a6llesskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager blandet feedback p\u00c3\u00a5 din pr\u00c3\u00a6sentation fra teamet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du kan forbedre dig til n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det ikke personligt og bruger feedbacken som en mulighed for at l\u00c3\u00a6re og vokse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller opf\u00c3\u00b8lgende sp\u00c3\u00b8rgsm\u00c3\u00a5l for at f\u00c3\u00a5 klarhed over feedbacken og lave en handlingsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle stemmer er h\u00c3\u00b8rt og forst\u00c3\u00a5r vigtigheden af teamets input for at forbedre samarbejdet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

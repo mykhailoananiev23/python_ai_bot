@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du er den f\u00c3\u00b8rste til at ankomme til en fest?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper v\u00c3\u00a6rten med forberedelserne og nyder den rolige tid f\u00c3\u00b8r stormen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bruger tiden til at tage nogle sjove selfies eller udforske feststedet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan bruge situationen til at netv\u00c3\u00a6rke eller forberede en indgang.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker adressen og tiden for at sikre, at du ikke har gjort en fejl.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er sent p\u00c3\u00a5 den og kan kun fange bussen, hvis du l\u00c3\u00b8ber. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du l\u00c3\u00b8ber uden t\u00c3\u00b8ven, selvom det betyder at ankomme forpustet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du vurderer, om det virkelig er v\u00c3\u00a6rd at l\u00c3\u00b8be, eller om det er bedre at vente p\u00c3\u00a5 den n\u00c3\u00a6ste bus.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en hurtig beregning af, hvor meget forsinkelsen vil p\u00c3\u00a5virke resten af din dag.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig over for din tidsplan og beslutter dig hurtigt for at l\u00c3\u00b8be.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du st\u00c3\u00a5r over for en fejl du har lavet?",
+            "options": [
+                {
+                    "answer": "Med en praktisk tilgang til at rette op p\u00c3\u00a5 fejlen hurtigst muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en accept af, at fejl er en del af livet, og en l\u00c3\u00a6ringserfaring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en grundig analyse af, hvad der gik galt, for at undg\u00c3\u00a5 fremtidige fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en f\u00c3\u00b8lelse af ansvar over for dem, der er ber\u00c3\u00b8rt af fejlen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

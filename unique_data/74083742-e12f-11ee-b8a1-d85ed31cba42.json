@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan foretr\u00c3\u00a6kker du at tilbringe en l\u00c3\u00b8rdag aften?",
+            "options": [
+                {
+                    "answer": "Udforsker nye steder og oplevelser i byen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger en hyggelig aften derhjemme med velvalgte aktiviteter.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Deltager i en aktivitet eller konkurrence, hvor du kan udm\u00c3\u00a6rke dig.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en meningsfuld aktivitet, fx frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En vigtig deadline n\u00c3\u00a6rmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du organiserer en ekstra indsatsdag med klare m\u00c3\u00a5l og roller for at sikre, at I n\u00c3\u00a5r i m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tter dem i at overkomme eventuelle hindringer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for, hvad der skal g\u00c3\u00b8res, og sikrer, at alle forst\u00c3\u00a5r deres ansvar og deadlines.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er blevet tildelt et gruppearbejde med nogen, du ikke kommer godt ud af det med. Hvordan n\u00c3\u00a6rmer du dig opgaven?",
+            "options": [
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 opgavens m\u00c3\u00a5l og fors\u00c3\u00b8ger at finde f\u00c3\u00a6lles grund.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring for dine diplomatiske f\u00c3\u00a6rdigheder og arbejder for en harmonisk l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor til at lette stemningen og opbygge en bedre arbejdsrelation.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger m\u00c3\u00b8der n\u00c3\u00b8je for at sikre, at arbejdet bliver gjort effektivt og uden konflikter.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har en fridag uden planer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Tager tingene, som de kommer, og nyder spontane aktiviteter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en hobby eller et projekt, der kr\u00c3\u00a6ver din fulde opm\u00c3\u00a6rksomhed.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter personlige m\u00c3\u00a5l for dagen for at maksimere din produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger aktiviteter, der ogs\u00c3\u00a5 kan gavne andre, som at hj\u00c3\u00a6lpe en ven eller familie.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

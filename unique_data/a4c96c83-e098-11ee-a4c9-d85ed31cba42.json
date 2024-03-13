@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge et nyt sprog at l\u00c3\u00a6re. Hvad motiverer dit valg?",
+            "options": [
+                {
+                    "answer": "Det sprog, der lyder sjovest eller mest sp\u00c3\u00a6ndende at udtale.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et sprog, der giver dig de bedste karrieremuligheder eller forretningsfordele.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et sprog, der er logisk struktureret og effektivt at l\u00c3\u00a6re med klare regler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et sprog, der hj\u00c3\u00a6lper dig med at forbinde bedre med mennesker fra en bestemt kultur.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 en road trip og farer vild. Hvad er dit n\u00c3\u00a6ste skridt?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og forts\u00c3\u00a6tter udforskningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger kort og GPS til minuti\u00c3\u00b8st at planl\u00c3\u00a6gge din vej tilbage p\u00c3\u00a5 sporet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en ny rekord for at finde tilbage til den rigtige rute.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle i bilen er okay med omvejen og informerer om den nye plan.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en pr\u00c3\u00a6sentation, men glemmer pludselig dine noter derhjemme. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du improviserer med et smil og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s og bruger hvert et pausemoment til at genkalde din forberedelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 din viden om emnet og bruger det som en chance for at skinne igennem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor dit publikum og g\u00c3\u00b8r dit bedste under omst\u00c3\u00a6ndighederne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet fridag?",
+            "options": [
+                {
+                    "answer": "Tager ud p\u00c3\u00a5 et spontant eventyr eller starter et nyt projekt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger dagen p\u00c3\u00a5 at organisere eller forbedre noget i dit hjem.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter dig et personligt m\u00c3\u00a5l for dagen og arbejder p\u00c3\u00a5 at opn\u00c3\u00a5 det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Tilbringer dagen med at g\u00c3\u00b8re noget nyttigt for andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

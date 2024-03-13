@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Midt i en vigtig opgave g\u00c3\u00a5r dit computerprogram ned og taber dit arbejde. Hvad g\u00c3\u00b8r du f\u00c3\u00b8rst?",
+            "options": [
+                {
+                    "answer": "Du tager en pause for at samle dig og undg\u00c3\u00a5r at lade frustrationen tage over.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at lede efter l\u00c3\u00b8sninger for at genskabe eller gendanne dit arbejde.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan det kan undg\u00c3\u00a5s i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du kontakter IT-support for hj\u00c3\u00a6lp og sikrer, at problemet bliver l\u00c3\u00b8st hurtigt og effektivt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r et sp\u00c3\u00b8rgsm\u00c3\u00a5l, du ikke kender svaret p\u00c3\u00a5, under en quiz aften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner og g\u00c3\u00a6tter, quizzen er trods alt bare for sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og lover at l\u00c3\u00a6se op p\u00c3\u00a5 emnet senere.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger logik og eliminering for at komme med det bedste g\u00c3\u00a6t.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r teamarbejde for at komme frem til et f\u00c3\u00a6lles g\u00c3\u00a6t.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge et nyt sprog at l\u00c3\u00a6re. Hvad motiverer dit valg?",
+            "options": [
+                {
+                    "answer": "Det sprog, der lyder sjovest eller mest sp\u00c3\u00a6ndende at udtale.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et sprog, der giver dig de bedste karrieremuligheder eller forretningsfordele.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et sprog, der er logisk struktureret og effektivt at l\u00c3\u00a6re med klare regler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et sprog, der hj\u00c3\u00a6lper dig med at forbinde bedre med mennesker fra en bestemt kultur.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

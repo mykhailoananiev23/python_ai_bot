@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00c3\u00a5 arbejde, og der opst\u00c3\u00a5r en akut krise. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00c3\u00b8je for at finde den mest effektive l\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00c3\u00b8lger n\u00c3\u00b8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager en gave, du virkelig ikke bryder dig om. Hvordan takker du for gaven?",
+            "options": [
+                {
+                    "answer": "Du udtrykker taknemmelighed for tanken bag gaven og v\u00c3\u00a6rds\u00c3\u00a6tter gestus.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov kommentar om, hvordan gaven passer overraskende godt ind i din samling.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan inkludere gaven i dit liv p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer, hvorfor gaven m\u00c3\u00a5ske ikke var det perfekte valg, og t\u00c3\u00a6nker over, hvordan du bedre kan kommunikere dine pr\u00c3\u00a6ferencer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "To af dine teammedlemmer er i konflikt. Hvordan griber du ind?",
+            "options": [
+                {
+                    "answer": "Du holder et m\u00c3\u00b8de med dem for at forst\u00c3\u00a5 begge sider og fors\u00c3\u00b8ger at finde en f\u00c3\u00a6lles l\u00c3\u00b8sning.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du opfordrer til \u00c3\u00a5ben dialog og bruger konflikten som en mulighed for teamudvikling, ser det som en l\u00c3\u00a6ringschance.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen n\u00c3\u00b8je og udarbejder en strategi for at l\u00c3\u00b8se konflikten s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for, hvordan konflikten skal h\u00c3\u00a5ndteres, og sikrer, at alle fokuserer p\u00c3\u00a5 teamets samlede succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du st\u00c3\u00a5r over for en fejl du har lavet?",
+            "options": [
+                {
+                    "answer": "Med en praktisk tilgang til at rette op p\u00c3\u00a5 fejlen hurtigst muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en accept af, at fejl er en del af livet, og en l\u00c3\u00a6ringserfaring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en grundig analyse af, hvad der gik galt, for at undg\u00c3\u00a5 fremtidige fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en f\u00c3\u00b8lelse af ansvar over for dem, der er ber\u00c3\u00b8rt af fejlen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

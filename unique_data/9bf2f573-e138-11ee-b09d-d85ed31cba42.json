@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din internetforbindelse g\u00c3\u00a5r ned, lige som du skal til at streame din yndlingsserie. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du bruger tiden p\u00c3\u00a5 at genoptage en gammel hobby eller l\u00c3\u00a6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester forskellige fejlfindingstrin for at genetablere forbindelsen s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger en alternativ aktivitet, der ikke kr\u00c3\u00a6ver internet.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ringer til din internetudbyder for at l\u00c3\u00b8se problemet med det samme.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du er den f\u00c3\u00b8rste til at ankomme til en fest?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper v\u00c3\u00a6rten med forberedelserne og nyder den rolige tid f\u00c3\u00b8r stormen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bruger tiden til at tage nogle sjove selfies eller udforske feststedet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan bruge situationen til at netv\u00c3\u00a6rke eller forberede en indgang.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker adressen og tiden for at sikre, at du ikke har gjort en fejl.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film at se. Hvad g\u00c3\u00a5r du efter?",
+            "options": [
+                {
+                    "answer": "Noget let og underholdende, der f\u00c3\u00a5r dig til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En film med h\u00c3\u00b8je anmeldelser og kritikerroste pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En inspirerende historie om at overkomme udfordringer.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En dokumentarfilm, der \u00c3\u00b8ger din viden om et vigtigt emne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og er nerv\u00c3\u00b8s. Hvad g\u00c3\u00b8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00c3\u00a6rste, der kan ske, er en d\u00c3\u00a5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00c3\u00a5 forh\u00c3\u00a5nd for at sikre, at daten g\u00c3\u00a5r glat.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00c3\u00a6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at ankomme tidligt og tjekker stedet ud, s\u00c3\u00a5 du f\u00c3\u00b8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

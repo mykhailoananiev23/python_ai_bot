@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og kan ikke bestemme dig for, hvor I skal hen. Hvordan v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Du beslutter at lade din date v\u00c3\u00a6lge for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret liste over muligheder og v\u00c3\u00a6lger den med de bedste anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du ved, du kan vise dine bedste sider.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger din date om deres pr\u00c3\u00a6ferencer for at sikre, de f\u00c3\u00a5r en god oplevelse.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din nabo starter en meget h\u00c3\u00b8j og st\u00c3\u00b8jende fest midt p\u00c3\u00a5 en hverdagsaften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at join'e festen og have det sjovt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og bruger aftenen p\u00c3\u00a5 at formulere en klagebrev med alle regelbrud.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at arbejde p\u00c3\u00a5 din evne til at koncentrere dig under distraktioner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at g\u00c3\u00a5 over og bede dem om at d\u00c3\u00a6mpe sig af hensyn til nabolaget.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en aktivitet for en teambuilding dag. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "En udend\u00c3\u00b8rs eventyraktivitet, der f\u00c3\u00a5r alle til at grine og arbejde sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En workshop, hvor teamet kan l\u00c3\u00a6re nye f\u00c3\u00a6rdigheder sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En aktivitet, der kr\u00c3\u00a6ver pr\u00c3\u00a6cision og opm\u00c3\u00a6rksomhed p\u00c3\u00a5 detaljer, som et escape room.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En frivillig aktivitet, der hj\u00c3\u00a6lper samfundet og styrker teamets samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har en fridag uden planer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Tager tingene, som de kommer, og nyder spontane aktiviteter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger tiden p\u00c3\u00a5 en hobby eller et projekt, der kr\u00c3\u00a6ver din fulde opm\u00c3\u00a6rksomhed.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter personlige m\u00c3\u00a5l for dagen for at maksimere din produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Planl\u00c3\u00a6gger aktiviteter, der ogs\u00c3\u00a5 kan gavne andre, som at hj\u00c3\u00a6lpe en ven eller familie.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder dig om at organisere et teambuilding-event. Hvad er dit f\u00c3\u00b8rste skridt?",
+            "options": [
+                {
+                    "answer": "Finde en aktivitet, der f\u00c3\u00a5r alle til at grine og samarbejde, m\u00c3\u00a5ske med kostumer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Lave en detaljeret plan og tidsplan for at sikre, at eventet bliver en succes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lge en konkurrencepr\u00c3\u00a6get aktivitet, hvor teamet kan vise deres f\u00c3\u00a6rdigheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rge for, at aktiviteten er inkluderende og styrker teamets samh\u00c3\u00b8righed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din chef beder dig om at organisere et teambuilding-event. Hvad er dit f\u00c3\u00b8rste skridt?",
+            "options": [
+                {
+                    "answer": "Finde en aktivitet, der f\u00c3\u00a5r alle til at grine og samarbejde, m\u00c3\u00a5ske med kostumer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Lave en detaljeret plan og tidsplan for at sikre, at eventet bliver en succes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lge en konkurrencepr\u00c3\u00a6get aktivitet, hvor teamet kan vise deres f\u00c3\u00a6rdigheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rge for, at aktiviteten er inkluderende og styrker teamets samh\u00c3\u00b8righed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i en app, du bruger dagligt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du rapporterer fejlen detaljeret for at hj\u00c3\u00a6lpe med at forbedre appen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du griner af det og finder en midlertidig l\u00c3\u00b8sning eller workaround.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, om fejlen kan udnyttes til din fordel, inden du rapporterer den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at dele din opdagelse med venner, s\u00c3\u00a5 de ogs\u00c3\u00a5 er opm\u00c3\u00a6rksomme.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r et sp\u00c3\u00b8rgsm\u00c3\u00a5l, du ikke kender svaret p\u00c3\u00a5, under en quiz aften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner og g\u00c3\u00a6tter, quizzen er trods alt bare for sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og lover at l\u00c3\u00a6se op p\u00c3\u00a5 emnet senere.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger logik og eliminering for at komme med det bedste g\u00c3\u00a6t.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r teamarbejde for at komme frem til et f\u00c3\u00a6lles g\u00c3\u00a6t.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 en restaurant og din bestilling kommer ud forkert. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du accepterer retten som en ny oplevelse, m\u00c3\u00a5ske ender det med at blive din nye favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beder h\u00c3\u00b8fligt om at f\u00c3\u00a5 den ret, du oprindeligt bestilte, med en undskyldning for forvirringen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer, om det er v\u00c3\u00a6rd at klage, afh\u00c3\u00a6ngigt af rettens kvalitet og din sult.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du insisterer p\u00c3\u00a5 at f\u00c3\u00a5 det, du betalte for, og bruger h\u00c3\u00a6ndelsen som feedback til restauranten.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

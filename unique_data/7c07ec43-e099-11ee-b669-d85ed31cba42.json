@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at du har haft din tr\u00c3\u00b8je p\u00c3\u00a5 vrangen hele dagen p\u00c3\u00a5 arbejdet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner af det og g\u00c3\u00b8r det til dagens joke blandt kollegerne.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig flov og beslutter dig for at tjekke dig selv ekstra grundigt i spejlet fremover.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en lektion i at v\u00c3\u00a6re mere opm\u00c3\u00a6rksom og effektiv i din morgenrutine.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor alle, du har m\u00c3\u00b8dt, selvom de sandsynligvis ikke har lagt m\u00c3\u00a6rke til det.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en pr\u00c3\u00a6sentation, men glemmer pludselig dine noter derhjemme. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du improviserer med et smil og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s og bruger hvert et pausemoment til at genkalde din forberedelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 din viden om emnet og bruger det som en chance for at skinne igennem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor dit publikum og g\u00c3\u00b8r dit bedste under omst\u00c3\u00a6ndighederne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet regnbyge, n\u00c3\u00a5r du er ude at vandre?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og nyder regnens friskhed.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at dit udstyr er vandt\u00c3\u00a6t og forts\u00c3\u00a6tter din tur med fornyet forsigtighed.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger lejligheden til at praktisere dine overlevelsesf\u00c3\u00a6rdigheder under d\u00c3\u00a5rlige vejrforhold.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle i gruppen er sikre og overvejer, om det er bedst at s\u00c3\u00b8ge ly.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

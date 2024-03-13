@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er blevet tildelt et gruppearbejde med nogen, du ikke kommer godt ud af det med. Hvordan n\u00e6rmer du dig opgaven?",
+            "options": [
+                {
+                    "answer": "Du fokuserer p\u00e5 opgavens m\u00e5l og fors\u00f8ger at finde f\u00e6lles grund.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring for dine diplomatiske f\u00e6rdigheder og arbejder for en harmonisk l\u00f8sning.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor til at lette stemningen og opbygge en bedre arbejdsrelation.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00e6gger m\u00f8der n\u00f8je for at sikre, at arbejdet bliver gjort effektivt og uden konflikter.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit fly er forsinket med flere timer. Hvordan fordriver du tiden?",
+            "options": [
+                {
+                    "answer": "Du udnytter tiden til at arbejde og v\u00e6re produktiv.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du slapper af og ser det som en god mulighed for at observere mennesker eller l\u00e6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker l\u00f8bende for opdateringer og planl\u00e6gger dine n\u00e6ste skridt n\u00f8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tilbyder din hj\u00e6lp til andre rejsende, der m\u00e5ske er mere p\u00e5virket af forsinkelsen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du v\u00e5gner op og opdager, at du ved et uheld har sovet over dig og er sent p\u00e5 den til et vigtigt m\u00f8de. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det med ro, kl\u00e6der dig hurtigt og laver en sjov bem\u00e6rkning om det, n\u00e5r du ankommer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver super stresset, kl\u00e6der dig i rekordfart og lover dig selv, at det aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skynder dig og fokuserer p\u00e5 at minimere forsinkelsen og dens impact p\u00e5 m\u00f8det.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00f8ler dig skyldig, sender en hurtig undskyldning til m\u00f8dedeltagerne og ankommer s\u00e5 hurtigt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lave en spontan tale til en sammenkomst. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du tager det som en mulighed for at skinne og deler passioneret dine tanker.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor og personlige anekdoter for at engagere og underholde publikum.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du strukturerer hurtigt dine tanker for at levere en klar og sammenh\u00e6ngende tale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00f8rger for at inkludere tak og anerkendelse til v\u00e6rterne eller \u00e6resg\u00e6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan h\u00e5ndterer du feedback p\u00e5 dit arbejde?",
+            "options": [
+                {
+                    "answer": "Ser det som en mulighed for at l\u00e6re og vokse.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Tager det ikke for personligt og fokuserer p\u00e5 det positive.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer det n\u00f8je for at forbedre dine fremtidige pr\u00e6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00f8rger for at forst\u00e5 konteksten for bedre at kunne opfylde forventningerne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

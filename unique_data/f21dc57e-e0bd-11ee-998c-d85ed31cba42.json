@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Der bliver annonceret en udkl\u00c3\u00a6dningsdag p\u00c3\u00a5 arbejde. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du finder det mest originale og humoristiske kostume for at vinde konkurrencen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et kostume, der er let at samle, og som f\u00c3\u00a5r dine kolleger til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger dit kostume ned til mindste detalje for at sikre autenticitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et inkluderende tema, der opfordrer til teamwork og samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en pr\u00c3\u00a6sentation, men glemmer pludselig dine noter derhjemme. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du improviserer med et smil og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s og bruger hvert et pausemoment til at genkalde din forberedelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 din viden om emnet og bruger det som en chance for at skinne igennem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor dit publikum og g\u00c3\u00b8r dit bedste under omst\u00c3\u00a6ndighederne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Midt i en vigtig opgave g\u00c3\u00a5r dit computerprogram ned og taber dit arbejde. Hvad g\u00c3\u00b8r du f\u00c3\u00b8rst?",
+            "options": [
+                {
+                    "answer": "Du tager en pause for at samle dig og undg\u00c3\u00a5r at lade frustrationen tage over.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at lede efter l\u00c3\u00b8sninger for at genskabe eller gendanne dit arbejde.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan det kan undg\u00c3\u00a5s i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du kontakter IT-support for hj\u00c3\u00a6lp og sikrer, at problemet bliver l\u00c3\u00b8st hurtigt og effektivt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film for aftenen med venner, men ingen kan blive enige. Hvordan beslutter du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at stemme for at g\u00c3\u00b8re det sjovt og demokratisk.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer hver vens pr\u00c3\u00a6ferencer for at finde den perfekte film alle vil nyde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en film, du ved, vil imponere og underholde alle.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r et kompromis, hvor I skiftes til at v\u00c3\u00a6lge filmen hver gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har bagt en kage, men den falder p\u00c3\u00a5 gulvet lige f\u00c3\u00b8r g\u00c3\u00a6sterne ankommer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og serverer kagen alligevel med en historie.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og bruger tid p\u00c3\u00a5 at lave en ny dessert, selvom det bliver sent.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du improviserer hurtigt og laver en simpel dessert med det, du har, for at vise dine evner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du beklager overfor dine g\u00c3\u00a6ster og tilbyder dem noget andet at spise, du f\u00c3\u00b8ler det er dit ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

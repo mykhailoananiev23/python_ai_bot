@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at en kollega tager \u00c3\u00a6ren for dit arbejde. Hvordan konfronterer du dem?",
+            "options": [
+                {
+                    "answer": "Du tager en direkte samtale med kollegaen for at klarl\u00c3\u00a6gge misforst\u00c3\u00a5elser.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en humoristisk bem\u00c3\u00a6rkning n\u00c3\u00a6ste gang I er i gruppe for at lette stemningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at arbejde endnu h\u00c3\u00a5rdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven sp\u00c3\u00b8rger dig om at deltage i et karaoke-show. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja med det samme og t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der vil v\u00c3\u00a6re mest sjov at optr\u00c3\u00a6de med.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s ved tanken og bruger tid p\u00c3\u00a5 at \u00c3\u00b8ve dig, s\u00c3\u00a5 du kan pr\u00c3\u00a6stere dit absolut bedste.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at overg\u00c3\u00a5 dig selv og v\u00c3\u00a6lger en sang, der vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du er ikke vild med id\u00c3\u00a9en, men accepterer, fordi du ikke vil skuffe din ven.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en aktivitet for en teambuilding dag. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "En udend\u00c3\u00b8rs eventyraktivitet, der f\u00c3\u00a5r alle til at grine og arbejde sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En workshop, hvor teamet kan l\u00c3\u00a6re nye f\u00c3\u00a6rdigheder sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En aktivitet, der kr\u00c3\u00a6ver pr\u00c3\u00a6cision og opm\u00c3\u00a6rksomhed p\u00c3\u00a5 detaljer, som et escape room.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En frivillig aktivitet, der hj\u00c3\u00a6lper samfundet og styrker teamets samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse er langsom p\u00c3\u00a5 en travl dag. Hvordan h\u00c3\u00a5ndterer du frustrationen?",
+            "options": [
+                {
+                    "answer": "Du tager en pause og bruger tiden til at slappe af eller lave noget offline.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester og fejlfinder din internetforbindelse for at identificere og l\u00c3\u00b8se problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du prioriterer dine opgaver for at fokusere p\u00c3\u00a5 dem, der kr\u00c3\u00a6ver mindst internetbrug.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du informerer dit team eller dine kontakter om forsinkelsen og arbejder s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

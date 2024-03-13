@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan beslutter du, hvilken bog du skal l\u00c3\u00a6se n\u00c3\u00a6ste gang?",
+            "options": [
+                {
+                    "answer": "Ud fra en anbefaling fra en ven, der kender din smag.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge noget, der lyder sjovt eller anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Efter grundig forskning og l\u00c3\u00a6sning af anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Baseret p\u00c3\u00a5 hvad der vil udvide din viden eller f\u00c3\u00a6rdigheder mest.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse er langsom p\u00c3\u00a5 en travl dag. Hvordan h\u00c3\u00a5ndterer du frustrationen?",
+            "options": [
+                {
+                    "answer": "Du tager en pause og bruger tiden til at slappe af eller lave noget offline.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester og fejlfinder din internetforbindelse for at identificere og l\u00c3\u00b8se problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du prioriterer dine opgaver for at fokusere p\u00c3\u00a5 dem, der kr\u00c3\u00a6ver mindst internetbrug.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du informerer dit team eller dine kontakter om forsinkelsen og arbejder s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

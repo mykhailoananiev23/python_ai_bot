@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at en kollega tager \u00c3\u00a6ren for dit arbejde. Hvordan konfronterer du dem?",
+            "options": [
+                {
+                    "answer": "Du tager en direkte samtale med kollegaen for at klarl\u00c3\u00a6gge misforst\u00c3\u00a5elser.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en humoristisk bem\u00c3\u00a6rkning n\u00c3\u00a6ste gang I er i gruppe for at lette stemningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at arbejde endnu h\u00c3\u00a5rdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en ny trend?",
+            "options": [
+                {
+                    "answer": "Med nysgerrighed og en vilje til at pr\u00c3\u00b8ve den af, hvis den virker sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at evaluere dens langsigtede v\u00c3\u00a6rdi og effektivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med skepsis, indtil du har analyseret alle fordele og ulemper.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at overveje, hvordan den p\u00c3\u00a5virker andre og om den fremmer f\u00c3\u00a6llesskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan h\u00c3\u00a5ndterer du feedback p\u00c3\u00a5 dit arbejde?",
+            "options": [
+                {
+                    "answer": "Ser det som en mulighed for at l\u00c3\u00a6re og vokse.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Tager det ikke for personligt og fokuserer p\u00c3\u00a5 det positive.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer det n\u00c3\u00b8je for at forbedre dine fremtidige pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rger for at forst\u00c3\u00a5 konteksten for bedre at kunne opfylde forventningerne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

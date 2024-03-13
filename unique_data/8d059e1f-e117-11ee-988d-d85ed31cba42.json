@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "Sp\u00c3\u00b8rgsm\u00c3\u00a5l": "Din bedste ven laver en d\u00c3\u00a5rlig joke med dig. Hvordan reagerer du?",
+            "muligheder": [
+                {
+                    "svar": "Du griner og begynder at planl\u00c3\u00a6gge din h\u00c3\u00a6vn.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "svar": "Du analyserer vittigheden for at finde ud af, hvordan du kan forbedre den n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "svar": "Du roser din ven for hans kreativitet, men lover at sl\u00c3\u00a5 dobbelt s\u00c3\u00a5 h\u00c3\u00a5rdt igen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "svar": "Du minder din ven om vigtigheden af at tage hensyn til andres f\u00c3\u00b8lelser, f\u00c3\u00b8r du laver en joke.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at du har sendt en vigtig e-mail til den forkerte person. Hvordan retter du op p\u00c3\u00a5 din fejl?",
+            "options": [
+                {
+                    "answer": "Du sender en undskyldende opf\u00c3\u00b8lgning til begge parter og l\u00c3\u00b8ser situationen med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker alle fremtidige e-mails for at sikre, at dette aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du anvender fejlen som en l\u00c3\u00a6ringserfaring for at forbedre dine kommunikationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager det fulde ansvar og s\u00c3\u00b8rger for, at den korrekte modtager f\u00c3\u00a5r de n\u00c3\u00b8dvendige informationer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vens bryllup, men mister din noter. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du fort\u00c3\u00a6ller sjove anekdoter og taler fra hjertet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at rekonstruere talen fra hukommelsen, s\u00c3\u00a5 godt du kan.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at levere en mindev\u00c3\u00a6rdig og overbevisende tale uden noter.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder for noternes frav\u00c3\u00a6r og taler \u00c3\u00a6rligt om din vens gode kvaliteter.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

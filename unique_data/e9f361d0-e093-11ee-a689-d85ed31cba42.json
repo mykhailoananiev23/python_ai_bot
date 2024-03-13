@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "Sp\u00c3\u00b8rgsm\u00c3\u00a5l": "Din bedste ven laver en d\u00c3\u00a5rlig joke med dig. Hvordan reagerer du?",
+            "muligheder": [
+                {
+                    "svar": "Du griner og begynder at planl\u00c3\u00a6gge din h\u00c3\u00a6vn.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "svar": "Du analyserer vittigheden for at finde ud af, hvordan du kan forbedre den n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "svar": "Du roser din ven for hans kreativitet, men lover at sl\u00c3\u00a5 dobbelt s\u00c3\u00a5 h\u00c3\u00a5rdt igen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "svar": "Du minder din ven om vigtigheden af at tage hensyn til andres f\u00c3\u00b8lelser, f\u00c3\u00b8r du laver en joke.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00c3\u00a6gge din n\u00c3\u00a6ste ferie. Hvordan beslutter du, hvor du skal hen?",
+            "options": [
+                {
+                    "answer": "Du laver en liste over steder og v\u00c3\u00a6lger tilf\u00c3\u00a6ldigt for et element af overraskelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du kan tage p\u00c3\u00a5 eventyr og m\u00c3\u00a5ske sl\u00c3\u00a5 nogle personlige rekorder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer steder, der giver mening for dig og dine n\u00c3\u00a6rmeste, m\u00c3\u00a5ske med en kulturel eller l\u00c3\u00a6rerig v\u00c3\u00a6rdi.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og er nerv\u00c3\u00b8s. Hvad g\u00c3\u00b8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00c3\u00a6rste, der kan ske, er en d\u00c3\u00a5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00c3\u00a5 forh\u00c3\u00a5nd for at sikre, at daten g\u00c3\u00a5r glat.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00c3\u00a6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at ankomme tidligt og tjekker stedet ud, s\u00c3\u00a5 du f\u00c3\u00b8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En vigtig deadline n\u00c3\u00a6rmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du organiserer en ekstra indsatsdag med klare m\u00c3\u00a5l og roller for at sikre, at I n\u00c3\u00a5r i m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tter dem i at overkomme eventuelle hindringer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for, hvad der skal g\u00c3\u00b8res, og sikrer, at alle forst\u00c3\u00a5r deres ansvar og deadlines.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

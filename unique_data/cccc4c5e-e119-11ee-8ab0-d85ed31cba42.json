@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en ny hobby. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Noget kreativt og nyt, som du aldrig har pr\u00c3\u00b8vet f\u00c3\u00b8r.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En hobby, hvor du kan fordybe dig i detaljerne og str\u00c3\u00a6be efter at blive perfekt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En konkurrencepr\u00c3\u00a6get sport, hvor du kan m\u00c3\u00a5le dine resultater.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Noget meningsfuldt, der kan gavne andre eller milj\u00c3\u00b8et.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bestiller noget helt nyt for at pr\u00c3\u00b8ve noget anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer den nye menu n\u00c3\u00b8je for at finde den perfekte ret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Sp\u00c3\u00b8rger tjeneren om anbefalinger for at tr\u00c3\u00a6ffe den bedste beslutning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lger noget, der ser sundt og ern\u00c3\u00a6ringsrigtigt ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En afdeling, du sj\u00c3\u00a6ldent arbejder med, beder om din hj\u00c3\u00a6lp til et presserende problem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer problemet n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du bedst kan bidrage med din ekspertise.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du hopper ind med et smil, klar til at hj\u00c3\u00a6lpe og l\u00c3\u00a6re noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at vise dine f\u00c3\u00a6rdigheder og straks begynder at udarbejde en l\u00c3\u00b8sningsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at forst\u00c3\u00a5 deres behov fuldt ud og koordinerer med dit team for at sikre, at hj\u00c3\u00a6lpen er velorganiseret.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

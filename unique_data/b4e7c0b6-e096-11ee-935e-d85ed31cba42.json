@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder dig om at organisere et teambuilding-event. Hvad er dit f\u00c3\u00b8rste skridt?",
+            "options": [
+                {
+                    "answer": "Finde en aktivitet, der f\u00c3\u00a5r alle til at grine og samarbejde, m\u00c3\u00a5ske med kostumer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Lave en detaljeret plan og tidsplan for at sikre, at eventet bliver en succes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lge en konkurrencepr\u00c3\u00a6get aktivitet, hvor teamet kan vise deres f\u00c3\u00a6rdigheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rge for, at aktiviteten er inkluderende og styrker teamets samh\u00c3\u00b8righed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven har glemt sin pung p\u00c3\u00a5 en caf\u00c3\u00a9, og du opdager det f\u00c3\u00b8rst, da I er kommet hjem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r straks, at I k\u00c3\u00b8rer tilbage sammen for at hente den, idet du ser det som en lille eventyr.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du hj\u00c3\u00a6lper din ven med at ringe til caf\u00c3\u00a9en og arrangerer, hvordan pungen kan blive hentet sikkert.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du minder din ven om vigtigheden af at v\u00c3\u00a6re mere opm\u00c3\u00a6rksom og organiseret i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at l\u00c3\u00b8se problemet ved hurtigt at skitsere en plan for, hvordan I bedst kan hente pungen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er blevet tildelt et gruppearbejde med nogen, du ikke kommer godt ud af det med. Hvordan n\u00c3\u00a6rmer du dig opgaven?",
+            "options": [
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 opgavens m\u00c3\u00a5l og fors\u00c3\u00b8ger at finde f\u00c3\u00a6lles grund.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring for dine diplomatiske f\u00c3\u00a6rdigheder og arbejder for en harmonisk l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor til at lette stemningen og opbygge en bedre arbejdsrelation.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger m\u00c3\u00b8der n\u00c3\u00b8je for at sikre, at arbejdet bliver gjort effektivt og uden konflikter.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at der har v\u00c3\u00a6ret en fejl i en opgave, du har afleveret p\u00c3\u00a5 arbejdet. Din chef har ikke bem\u00c3\u00a6rket det... endnu. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du beder om et m\u00c3\u00b8de med din chef for at forklare fejlen og hvordan du vil rette den.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du krydser fingre og h\u00c3\u00a5ber det bedste, m\u00c3\u00a5ske opdager de det aldrig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at arbejde p\u00c3\u00a5 en l\u00c3\u00b8sning, s\u00c3\u00a5 du er forberedt, hvis nogen bem\u00c3\u00a6rker det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bliver en smule nerv\u00c3\u00b8s og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

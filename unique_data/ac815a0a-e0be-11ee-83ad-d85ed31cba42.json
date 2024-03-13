@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du ser en film med en uforudsigelig slutning?",
+            "options": [
+                {
+                    "answer": "Du bliver begejstret og diskuterer teorier om slutningen med venner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder overraskelsen og ser det som en del af filmens charme.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer alle ledetr\u00c3\u00a5de for at se, om slutningen giver mening.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan forskellige slutninger kunne have p\u00c3\u00a5virket filmens budskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00c3\u00b8rgsm\u00c3\u00a5lene er et, du ikke kender svaret p\u00c3\u00a5. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00c3\u00a6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00c3\u00b8rgsm\u00c3\u00a5let for senere at s\u00c3\u00b8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00c3\u00b8je de mulige svar og v\u00c3\u00a6lger det, der virker mest sandsynligt baseret p\u00c3\u00a5 din viden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at arbejde sammen med holdet for at komme med det bedste g\u00c3\u00a6t, v\u00c3\u00a6rds\u00c3\u00a6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har fortrudt en impulsiv beslutning. Hvordan h\u00c3\u00a5ndterer du dine f\u00c3\u00b8lelser?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at fejl er en del af l\u00c3\u00a6ringen, og ser fremad.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan du kan undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du udvikler en plan for, hvordan du kan rette op p\u00c3\u00a5 situationen eller forbedre den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger r\u00c3\u00a5d og st\u00c3\u00b8tte fra venner eller familie for at f\u00c3\u00a5 perspektiv p\u00c3\u00a5 situationen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at du har sendt en vigtig e-mail til den forkerte person. Hvordan retter du op p\u00c3\u00a5 din fejl?",
+            "options": [
+                {
+                    "answer": "Du sender en undskyldende opf\u00c3\u00b8lgning til begge parter og l\u00c3\u00b8ser situationen med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker alle fremtidige e-mails for at sikre, at dette aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du anvender fejlen som en l\u00c3\u00a6ringserfaring for at forbedre dine kommunikationsevner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager det fulde ansvar og s\u00c3\u00b8rger for, at den korrekte modtager f\u00c3\u00a5r de n\u00c3\u00b8dvendige informationer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

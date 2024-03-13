@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film at se. Hvad g\u00c3\u00a5r du efter?",
+            "options": [
+                {
+                    "answer": "Noget let og underholdende, der f\u00c3\u00a5r dig til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En film med h\u00c3\u00b8je anmeldelser og kritikerroste pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En inspirerende historie om at overkomme udfordringer.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En dokumentarfilm, der \u00c3\u00b8ger din viden om et vigtigt emne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan forbereder du dig til en vigtig pr\u00c3\u00a6sentation?",
+            "options": [
+                {
+                    "answer": "Ved at \u00c3\u00b8ve dig flere gange og finpudse hver detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en afslappet tilgang, stoler p\u00c3\u00a5 din evne til at formidle budskabet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at s\u00c3\u00a6tte klare m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med pr\u00c3\u00a6sentationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at sikre, at indholdet er relevant og v\u00c3\u00a6rdifuldt for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bestiller noget helt nyt for at pr\u00c3\u00b8ve noget anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer den nye menu n\u00c3\u00b8je for at finde den perfekte ret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Sp\u00c3\u00b8rger tjeneren om anbefalinger for at tr\u00c3\u00a6ffe den bedste beslutning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lger noget, der ser sundt og ern\u00c3\u00a6ringsrigtigt ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en uventet fridag?",
+            "options": [
+                {
+                    "answer": "Tager ud p\u00c3\u00a5 et spontant eventyr eller starter et nyt projekt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger dagen p\u00c3\u00a5 at organisere eller forbedre noget i dit hjem.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00a6tter dig et personligt m\u00c3\u00a5l for dagen og arbejder p\u00c3\u00a5 at opn\u00c3\u00a5 det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Tilbringer dagen med at g\u00c3\u00b8re noget nyttigt for andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at du ved et uheld har sendt en pinlig e-mail til en forkert modtager. Hvordan retter du op p\u00c3\u00a5 fejlen?",
+            "options": [
+                {
+                    "answer": "Du sender en opf\u00c3\u00b8lgende e-mail med en humoristisk undskyldning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen og udarbejder en strategi for at undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en l\u00c3\u00a6ringsmulighed for at forbedre din e-mail-etikette.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler et dybt ansvar for at forklare og undskylde overfor den forkerte modtager.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

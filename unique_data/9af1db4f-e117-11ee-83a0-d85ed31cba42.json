@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at der har v\u00c3\u00a6ret en fejl i en opgave, du har afleveret p\u00c3\u00a5 arbejdet. Din chef har ikke bem\u00c3\u00a6rket det... endnu. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du beder om et m\u00c3\u00b8de med din chef for at forklare fejlen og hvordan du vil rette den.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du krydser fingre og h\u00c3\u00a5ber det bedste, m\u00c3\u00a5ske opdager de det aldrig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at arbejde p\u00c3\u00a5 en l\u00c3\u00b8sning, s\u00c3\u00a5 du er forberedt, hvis nogen bem\u00c3\u00a6rker det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bliver en smule nerv\u00c3\u00b8s og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din nabo starter en meget h\u00c3\u00b8j og st\u00c3\u00b8jende fest midt p\u00c3\u00a5 en hverdagsaften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at join'e festen og have det sjovt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og bruger aftenen p\u00c3\u00a5 at formulere en klagebrev med alle regelbrud.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at arbejde p\u00c3\u00a5 din evne til at koncentrere dig under distraktioner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at g\u00c3\u00a5 over og bede dem om at d\u00c3\u00a6mpe sig af hensyn til nabolaget.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan beslutter du, hvilken bog du skal l\u00c3\u00a6se n\u00c3\u00a6ste gang?",
+            "options": [
+                {
+                    "answer": "Ud fra en anbefaling fra en ven, der kender din smag.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge noget, der lyder sjovt eller anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Efter grundig forskning og l\u00c3\u00a6sning af anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Baseret p\u00c3\u00a5 hvad der vil udvide din viden eller f\u00c3\u00a6rdigheder mest.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

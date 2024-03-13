@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din chef annoncerer en overraskende teamudflugt for at booste moralen. Hvad h\u00c3\u00a5ber du, det bliver?",
+            "options": [
+                {
+                    "answer": "En aktivitet, der fremmer teamwork og samarbejde, s\u00c3\u00a5 I kan styrke jeres relationer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "En kreativ og sjov aktivitet, der giver mulighed for at t\u00c3\u00a6nke ud af boksen og slippe dagligdagens stress.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En udfordrende aktivitet, der tester jeres evner og hj\u00c3\u00a6lper med at identificere st\u00c3\u00a6rke sider i teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En velorganiseret og indholdsrig aktivitet, der tilf\u00c3\u00b8jer v\u00c3\u00a6rdi til jeres professionelle udvikling.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lave en pr\u00c3\u00a6sentation, men alle dine noter er p\u00c3\u00a5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00c3\u00a6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de n\u00c3\u00b8glepunkter, du husker, og holder pr\u00c3\u00a6sentationen struktureret.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er i biografen og opdager, at personen foran dig bruger deres telefon med fuld lysstyrke. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du ignorerer det og koncentrerer dig om filmen. Det \u00c3\u00b8del\u00c3\u00a6gger ikke din oplevelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og overvejer at sige noget, men beslutter at det er vigtigere at fokusere p\u00c3\u00a5 filmen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du finder en diskret m\u00c3\u00a5de at f\u00c3\u00a5 dem til at forst\u00c3\u00a5, at de forstyrrer, uden at skabe konflikt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er dit ansvar at sige noget, b\u00c3\u00a5de for din og andres skyld, og g\u00c3\u00b8r det h\u00c3\u00b8fligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Det er din tur til at planl\u00c3\u00a6gge n\u00c3\u00a6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00c3\u00b8b, der kr\u00c3\u00a6ver teamwork og probleml\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00c3\u00a6mper om at vinde pr\u00c3\u00a6mier.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 caf\u00c3\u00a9 med dine venner, og en tjener spilder ved et uheld kaffe p\u00c3\u00a5 din nye hvide skjorte. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner det af og siger, at s\u00c3\u00a5dan er livet, skjorten kan vaskes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret, beder om en undskyldning og forventer, at caf\u00c3\u00a9en betaler for rensningen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det roligt og sp\u00c3\u00b8rger tjeneren, hvordan I sammen kan l\u00c3\u00b8se situationen p\u00c3\u00a5 bedste vis.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig en smule generet, men siger ikke noget og beslutter dig for at undg\u00c3\u00a5 konfrontation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

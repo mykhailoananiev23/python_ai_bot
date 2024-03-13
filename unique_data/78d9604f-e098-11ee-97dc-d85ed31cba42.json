@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din nabo klager over, at din musik er for h\u00c3\u00b8j. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du skruer ned og inviterer dem over til en dansefest n\u00c3\u00a6ste gang.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beklager og skaber et lydniveau-diagram for at undg\u00c3\u00a5 fremtidige klager.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at optimere dit hjemmeunderholdningssystem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du respekterer deres \u00c3\u00b8nske og fors\u00c3\u00b8ger at finde en god balance for fremtiden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du st\u00c3\u00a5r over for en fejl du har lavet?",
+            "options": [
+                {
+                    "answer": "Med en praktisk tilgang til at rette op p\u00c3\u00a5 fejlen hurtigst muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en accept af, at fejl er en del af livet, og en l\u00c3\u00a6ringserfaring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en grundig analyse af, hvad der gik galt, for at undg\u00c3\u00a5 fremtidige fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en f\u00c3\u00b8lelse af ansvar over for dem, der er ber\u00c3\u00b8rt af fejlen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bestiller noget helt nyt for at pr\u00c3\u00b8ve noget anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer den nye menu n\u00c3\u00b8je for at finde den perfekte ret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Sp\u00c3\u00b8rger tjeneren om anbefalinger for at tr\u00c3\u00a6ffe den bedste beslutning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lger noget, der ser sundt og ern\u00c3\u00a6ringsrigtigt ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

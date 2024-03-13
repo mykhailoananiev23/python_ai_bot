@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager en fejl i en rapport, der allerede er sendt til din chef. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer fejlen over for din chef og foresl\u00c3\u00a5r en l\u00c3\u00b8sning, viser ansvarlighed.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00a6rgerlig over fejlen og bruger ekstra tid p\u00c3\u00a5 at sikre, at det ikke sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en l\u00c3\u00a6ring og er hurtig til at rette fejlen, sikrer at alt er korrekt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at tage det op med chefen, men er ikke alt for bekymret.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal k\u00c3\u00b8be en gave til en, der ikke \u00c3\u00b8nsker sig noget. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du finder en personlig gave, der afspejler din forst\u00c3\u00a5else og omsorg for personen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du k\u00c3\u00b8ber noget sjovt og unikt, der kan bringe et smil frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du investerer tid i at finde en gave, der er b\u00c3\u00a5de praktisk og smuk.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger en gave, der udfordrer eller inspirerer personen til at pr\u00c3\u00b8ve noget nyt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 arbejde, og der opst\u00c3\u00a5r en akut krise. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00c3\u00b8je for at finde den mest effektive l\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00c3\u00b8lger n\u00c3\u00b8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00c3\u00a6gge din n\u00c3\u00a6ste ferie. Hvordan beslutter du, hvor du skal hen?",
+            "options": [
+                {
+                    "answer": "Du laver en liste over steder og v\u00c3\u00a6lger tilf\u00c3\u00a6ldigt for et element af overraskelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du kan tage p\u00c3\u00a5 eventyr og m\u00c3\u00a5ske sl\u00c3\u00a5 nogle personlige rekorder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer steder, der giver mening for dig og dine n\u00c3\u00a6rmeste, m\u00c3\u00a5ske med en kulturel eller l\u00c3\u00a6rerig v\u00c3\u00a6rdi.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

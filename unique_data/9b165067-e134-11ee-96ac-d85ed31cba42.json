@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00c3\u00a6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker, at det er fedt, og skriver din yndlingssang ned p\u00c3\u00a5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00c3\u00b8kkenet for at undg\u00c3\u00a5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00c3\u00b8vet hjemmefra, og du er fast besluttet p\u00c3\u00a5 at give publikum en top-pr\u00c3\u00a6station.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der passer bedst til stemningen og v\u00c3\u00a6lger noget, som alle kan synge med p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lede et nyt projekt p\u00c3\u00a5 arbejdet. Hvordan griber du opgaven an?",
+            "options": [
+                {
+                    "answer": "Med entusiasme for at pr\u00c3\u00b8ve nye tilgange og ideer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en detaljeret plan og klare kvalitetsstandarder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at opn\u00c3\u00a5 synlige resultater og succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en ansvarsfuld tilgang, der sikrer alles velbefindende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder alle om at komme med innovative ideer til n\u00c3\u00a6ste store projekt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00c3\u00a6gge din n\u00c3\u00a6ste ferie. Hvordan beslutter du, hvor du skal hen?",
+            "options": [
+                {
+                    "answer": "Du laver en liste over steder og v\u00c3\u00a6lger tilf\u00c3\u00a6ldigt for et element af overraskelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du kan tage p\u00c3\u00a5 eventyr og m\u00c3\u00a5ske sl\u00c3\u00a5 nogle personlige rekorder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer steder, der giver mening for dig og dine n\u00c3\u00a6rmeste, m\u00c3\u00a5ske med en kulturel eller l\u00c3\u00a6rerig v\u00c3\u00a6rdi.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

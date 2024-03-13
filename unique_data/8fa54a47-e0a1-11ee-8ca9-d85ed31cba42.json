@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00c3\u00a6gge en vens f\u00c3\u00b8dselsdagsfest, men har et begr\u00c3\u00a6nset budget. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder kreative DIY-dekorationer og planl\u00c3\u00a6gger hjemmelavede snacks.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du prioriterer udgifterne og bruger pengene, hvor de har st\u00c3\u00b8rst effekt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret budgetplan for at sikre, at du f\u00c3\u00a5r mest muligt ud af hvert \u00c3\u00b8re.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en varm og indbydende atmosf\u00c3\u00a6re, der reflekterer f\u00c3\u00b8dselarens personlighed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en tale ved en vens bryllup, men mister din noter. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du fort\u00c3\u00a6ller sjove anekdoter og taler fra hjertet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at rekonstruere talen fra hukommelsen, s\u00c3\u00a5 godt du kan.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at levere en mindev\u00c3\u00a6rdig og overbevisende tale uden noter.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder for noternes frav\u00c3\u00a6r og taler \u00c3\u00a6rligt om din vens gode kvaliteter.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at en kollega tager \u00c3\u00a6ren for dit arbejde. Hvordan konfronterer du dem?",
+            "options": [
+                {
+                    "answer": "Du tager en direkte samtale med kollegaen for at klarl\u00c3\u00a6gge misforst\u00c3\u00a5elser.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en humoristisk bem\u00c3\u00a6rkning n\u00c3\u00a6ste gang I er i gruppe for at lette stemningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at arbejde endnu h\u00c3\u00a5rdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En vigtig deadline n\u00c3\u00a6rmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du organiserer en ekstra indsatsdag med klare m\u00c3\u00a5l og roller for at sikre, at I n\u00c3\u00a5r i m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tter dem i at overkomme eventuelle hindringer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for, hvad der skal g\u00c3\u00b8res, og sikrer, at alle forst\u00c3\u00a5r deres ansvar og deadlines.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

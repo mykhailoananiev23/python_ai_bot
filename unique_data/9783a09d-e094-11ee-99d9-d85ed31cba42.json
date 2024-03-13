@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal planl\u00c3\u00a6gge en vens f\u00c3\u00b8dselsdagsfest, men har et begr\u00c3\u00a6nset budget. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder kreative DIY-dekorationer og planl\u00c3\u00a6gger hjemmelavede snacks.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du prioriterer udgifterne og bruger pengene, hvor de har st\u00c3\u00b8rst effekt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret budgetplan for at sikre, at du f\u00c3\u00a5r mest muligt ud af hvert \u00c3\u00b8re.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en varm og indbydende atmosf\u00c3\u00a6re, der reflekterer f\u00c3\u00b8dselarens personlighed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00c3\u00a6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker, at det er fedt, og skriver din yndlingssang ned p\u00c3\u00a5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00c3\u00b8kkenet for at undg\u00c3\u00a5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00c3\u00b8vet hjemmefra, og du er fast besluttet p\u00c3\u00a5 at give publikum en top-pr\u00c3\u00a6station.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der passer bedst til stemningen og v\u00c3\u00a6lger noget, som alle kan synge med p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 arbejde, og der opst\u00c3\u00a5r en akut krise. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00c3\u00b8je for at finde den mest effektive l\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00c3\u00b8lger n\u00c3\u00b8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har glemt en kollegas navn midt i en samtale. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt og med humor, at navnet er smuttet for dig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du undg\u00c3\u00a5r at bruge navne og bruger resten af dagen p\u00c3\u00a5 at finde ud af det igen diskret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skifter emne og beslutter dig for at finde en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 at f\u00c3\u00a5 dem til at sige deres navn.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 samtalen og sikrer, at din opm\u00c3\u00a6rksomhed viser din respekt, navn eller ej.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

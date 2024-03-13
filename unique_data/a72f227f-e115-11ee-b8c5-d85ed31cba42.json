@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager en fejl i en rapport, der allerede er sendt til din chef. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer fejlen over for din chef og foresl\u00c3\u00a5r en l\u00c3\u00b8sning, viser ansvarlighed.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00a6rgerlig over fejlen og bruger ekstra tid p\u00c3\u00a5 at sikre, at det ikke sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en l\u00c3\u00a6ring og er hurtig til at rette fejlen, sikrer at alt er korrekt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at tage det op med chefen, men er ikke alt for bekymret.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og er nerv\u00c3\u00b8s. Hvad g\u00c3\u00b8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00c3\u00a6rste, der kan ske, er en d\u00c3\u00a5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00c3\u00a5 forh\u00c3\u00a5nd for at sikre, at daten g\u00c3\u00a5r glat.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00c3\u00a6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at ankomme tidligt og tjekker stedet ud, s\u00c3\u00a5 du f\u00c3\u00b8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse er langsom p\u00c3\u00a5 en travl dag. Hvordan h\u00c3\u00a5ndterer du frustrationen?",
+            "options": [
+                {
+                    "answer": "Du tager en pause og bruger tiden til at slappe af eller lave noget offline.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester og fejlfinder din internetforbindelse for at identificere og l\u00c3\u00b8se problemet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du prioriterer dine opgaver for at fokusere p\u00c3\u00a5 dem, der kr\u00c3\u00a6ver mindst internetbrug.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du informerer dit team eller dine kontakter om forsinkelsen og arbejder s\u00c3\u00a5 effektivt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en sj\u00c3\u00a6lden fugl p\u00c3\u00a5 din g\u00c3\u00a5tur. Hvordan dokumenterer du \u00c3\u00b8jeblikket?",
+            "options": [
+                {
+                    "answer": "Du tager en hurtig selfie med fuglen i baggrunden og deler den p\u00c3\u00a5 sociale medier.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du observerer fuglen n\u00c3\u00b8je og noterer detaljer for senere at sl\u00c3\u00a5 den op.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger din viden om fotografering til at tage det perfekte billede.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder \u00c3\u00b8jeblikket i stilhed og beslutter m\u00c3\u00a5ske at fort\u00c3\u00a6lle om det senere.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

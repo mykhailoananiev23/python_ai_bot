@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00c3\u00a5 et m\u00c3\u00b8de og har virkelig brug for at nyse. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder det tilbage s\u00c3\u00a5 diskret som muligt for ikke at forstyrre.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du lader naturen g\u00c3\u00a5 sin gang og siger p\u00c3\u00a6nt undskyld bagefter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger en teknik, du har l\u00c3\u00a6rt til at stoppe nysen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring at nyse s\u00c3\u00a5 lydl\u00c3\u00b8st som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og kan ikke bestemme dig for, hvor I skal hen. Hvordan v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Du beslutter at lade din date v\u00c3\u00a6lge for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret liste over muligheder og v\u00c3\u00a6lger den med de bedste anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du ved, du kan vise dine bedste sider.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger din date om deres pr\u00c3\u00a6ferencer for at sikre, de f\u00c3\u00a5r en god oplevelse.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal improvisere en middag for uventede g\u00c3\u00a6ster. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder p\u00c3\u00a5 en ny opskrift med det, du har, og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sammens\u00c3\u00a6tter en menu, der maksimerer ingrediensernes potentiale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en tidsgr\u00c3\u00a6nse for at udfordre dig selv til at lave noget imponerende hurtigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en hyggelig og indbydende atmosf\u00c3\u00a6re, uanset maden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bestiller noget helt nyt for at pr\u00c3\u00b8ve noget anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer den nye menu n\u00c3\u00b8je for at finde den perfekte ret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Sp\u00c3\u00b8rger tjeneren om anbefalinger for at tr\u00c3\u00a6ffe den bedste beslutning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lger noget, der ser sundt og ern\u00c3\u00a6ringsrigtigt ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

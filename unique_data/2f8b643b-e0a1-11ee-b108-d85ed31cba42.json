@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Dit team skal l\u00c3\u00a6re en kompleks ny software. Hvordan sikrer du, at alle er med?",
+            "options": [
+                {
+                    "answer": "Du arrangerer tr\u00c3\u00a6ningssessioner med ekspertundervisere for at sikre en dyb forst\u00c3\u00a5else af softwaren.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du opmuntrer til et 'learning by doing' milj\u00c3\u00b8, hvor alle f\u00c3\u00b8ler sig frie til at eksperimentere med softwaren.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en detaljeret uddannelsesplan, inklusive deadlines og m\u00c3\u00a5l for hvert teammedlem.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at der er tilstr\u00c3\u00a6kkelige ressourcer og support tilg\u00c3\u00a6ngelig, og at teammedlemmerne kan dele viden og tips.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i en app, du bruger dagligt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du rapporterer fejlen detaljeret for at hj\u00c3\u00a6lpe med at forbedre appen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du griner af det og finder en midlertidig l\u00c3\u00b8sning eller workaround.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, om fejlen kan udnyttes til din fordel, inden du rapporterer den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at dele din opdagelse med venner, s\u00c3\u00a5 de ogs\u00c3\u00a5 er opm\u00c3\u00a6rksomme.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en gave til en person, der har alt. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "En oplevelsesgave, der skaber minder fremfor at tilf\u00c3\u00b8je flere ting.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjemmelavet gave, der viser personlig omtanke og kreativitet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En n\u00c3\u00b8je udvalgt bog, der passer til personens interesser og smag.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "En h\u00c3\u00b8j kvalitetsvare, som du har forsket i at v\u00c3\u00a6re den bedste indenfor sit omr\u00c3\u00a5de.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan prioriterer du dine opgaver p\u00c3\u00a5 en travl dag?",
+            "options": [
+                {
+                    "answer": "Ved at tackle de mest udfordrende opgaver f\u00c3\u00b8rst for at f\u00c3\u00a5 momentum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge opgaver, der giver mest mening og tilfredsstillelse at fuldf\u00c3\u00b8re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en fleksibel tilgang, hvor du tilpasser dig, som dagen skrider frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at lave en detaljeret to-do liste og f\u00c3\u00b8lge den n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din indbakke eksploderer med uops\u00c3\u00a6ttelige emails p\u00c3\u00a5 en travl dag. Hvordan prioriterer du?",
+            "options": [
+                {
+                    "answer": "Du sorterer emails efter vigtighed og deadline, s\u00c3\u00a5 du kan h\u00c3\u00a5ndtere dem i en logisk r\u00c3\u00a6kkef\u00c3\u00b8lge.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter fra toppen \u00e2\u20ac\u201c du f\u00c3\u00a5r klaret det, et skridt ad gangen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du identificerer de opgaver, der direkte p\u00c3\u00a5virker dine m\u00c3\u00a5l, og fokuserer p\u00c3\u00a5 dem f\u00c3\u00b8rst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du svarer hurtigt p\u00c3\u00a5 de nemmeste emails for at reducere antallet og fokuserer derefter p\u00c3\u00a5 de mere kr\u00c3\u00a6vende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

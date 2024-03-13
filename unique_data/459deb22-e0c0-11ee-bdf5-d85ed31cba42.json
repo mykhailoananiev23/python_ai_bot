@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film for aftenen med venner, men ingen kan blive enige. Hvordan beslutter du?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at stemme for at g\u00c3\u00b8re det sjovt og demokratisk.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer hver vens pr\u00c3\u00a6ferencer for at finde den perfekte film alle vil nyde.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en film, du ved, vil imponere og underholde alle.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r et kompromis, hvor I skiftes til at v\u00c3\u00a6lge filmen hver gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager en gave, du virkelig ikke bryder dig om. Hvordan takker du for gaven?",
+            "options": [
+                {
+                    "answer": "Du udtrykker taknemmelighed for tanken bag gaven og v\u00c3\u00a6rds\u00c3\u00a6tter gestus.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov kommentar om, hvordan gaven passer overraskende godt ind i din samling.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan inkludere gaven i dit liv p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer, hvorfor gaven m\u00c3\u00a5ske ikke var det perfekte valg, og t\u00c3\u00a6nker over, hvordan du bedre kan kommunikere dine pr\u00c3\u00a6ferencer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i en app, du bruger dagligt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du rapporterer fejlen detaljeret for at hj\u00c3\u00a6lpe med at forbedre appen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du griner af det og finder en midlertidig l\u00c3\u00b8sning eller workaround.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, om fejlen kan udnyttes til din fordel, inden du rapporterer den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at dele din opdagelse med venner, s\u00c3\u00a5 de ogs\u00c3\u00a5 er opm\u00c3\u00a6rksomme.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og er nerv\u00c3\u00b8s. Hvad g\u00c3\u00b8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00c3\u00a6rste, der kan ske, er en d\u00c3\u00a5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00c3\u00a5 forh\u00c3\u00a5nd for at sikre, at daten g\u00c3\u00a5r glat.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00c3\u00a6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at ankomme tidligt og tjekker stedet ud, s\u00c3\u00a5 du f\u00c3\u00b8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 ferie. Hvordan planl\u00c3\u00a6gger du turen?",
+            "options": [
+                {
+                    "answer": "Du booker kun den f\u00c3\u00b8rste nat og beslutter resten undervejs.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for hver dag, inklusive backup-planer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter specifikke m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med ferien.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at din rejse har et form\u00c3\u00a5l, fx kulturel l\u00c3\u00a6ring eller frivilligt arbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

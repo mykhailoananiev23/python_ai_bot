@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en gave til en person, der har alt. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "En oplevelsesgave, der skaber minder fremfor at tilf\u00c3\u00b8je flere ting.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjemmelavet gave, der viser personlig omtanke og kreativitet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En n\u00c3\u00b8je udvalgt bog, der passer til personens interesser og smag.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "En h\u00c3\u00b8j kvalitetsvare, som du har forsket i at v\u00c3\u00a6re den bedste indenfor sit omr\u00c3\u00a5de.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 en road trip og farer vild. Hvad er dit n\u00c3\u00a6ste skridt?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og forts\u00c3\u00a6tter udforskningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger kort og GPS til minuti\u00c3\u00b8st at planl\u00c3\u00a6gge din vej tilbage p\u00c3\u00a5 sporet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en ny rekord for at finde tilbage til den rigtige rute.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle i bilen er okay med omvejen og informerer om den nye plan.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team m\u00c3\u00b8der en uventet deadline. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Med en inspirerende tale om teamets styrke og tidligere succeser.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at foresl\u00c3\u00a5 en team-pause med snacks og musik for at h\u00c3\u00b8jne moralen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at uddelegere opgaver baseret p\u00c3\u00a5 hver persons styrker og effektivitetsniveau.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at minde dem om vigtigheden af deres arbejde og det f\u00c3\u00a6lles m\u00c3\u00a5l.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal give en uventet pr\u00c3\u00a6sentation p\u00c3\u00a5 arbejde. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at tale under pres.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger hvert ledigt minut til at forberede og organisere dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de vigtigste pointer for at sikre klarhed og pr\u00c3\u00a6cision.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere information, der er relevant og v\u00c3\u00a6rdifuld for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan forbereder du dig til en vigtig pr\u00c3\u00a6sentation?",
+            "options": [
+                {
+                    "answer": "Ved at \u00c3\u00b8ve dig flere gange og finpudse hver detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en afslappet tilgang, stoler p\u00c3\u00a5 din evne til at formidle budskabet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at s\u00c3\u00a6tte klare m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med pr\u00c3\u00a6sentationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at sikre, at indholdet er relevant og v\u00c3\u00a6rdifuldt for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

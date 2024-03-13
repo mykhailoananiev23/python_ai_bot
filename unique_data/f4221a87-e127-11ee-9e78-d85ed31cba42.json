@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team m\u00c3\u00b8der en uventet deadline. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Med en inspirerende tale om teamets styrke og tidligere succeser.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at foresl\u00c3\u00a5 en team-pause med snacks og musik for at h\u00c3\u00b8jne moralen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at uddelegere opgaver baseret p\u00c3\u00a5 hver persons styrker og effektivitetsniveau.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at minde dem om vigtigheden af deres arbejde og det f\u00c3\u00a6lles m\u00c3\u00a5l.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din nabo starter en meget h\u00c3\u00b8j og st\u00c3\u00b8jende fest midt p\u00c3\u00a5 en hverdagsaften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at join'e festen og have det sjovt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og bruger aftenen p\u00c3\u00a5 at formulere en klagebrev med alle regelbrud.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at arbejde p\u00c3\u00a5 din evne til at koncentrere dig under distraktioner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at g\u00c3\u00a5 over og bede dem om at d\u00c3\u00a6mpe sig af hensyn til nabolaget.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

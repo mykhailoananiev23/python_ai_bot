@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal holde en tale ved en vens bryllup, men mister din noter. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du fort\u00c3\u00a6ller sjove anekdoter og taler fra hjertet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at rekonstruere talen fra hukommelsen, s\u00c3\u00a5 godt du kan.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at levere en mindev\u00c3\u00a6rdig og overbevisende tale uden noter.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder for noternes frav\u00c3\u00a6r og taler \u00c3\u00a6rligt om din vens gode kvaliteter.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din favorit caf\u00c3\u00a9 l\u00c3\u00b8ber t\u00c3\u00b8r for din yndlingskage. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det som en chance for at pr\u00c3\u00b8ve noget nyt og m\u00c3\u00a5ske finde en ny favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r caf\u00c3\u00a9en at give besked, n\u00c3\u00a5r kagen er tilbage, og n\u00c3\u00b8jes med en anden snack.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer de andre muligheder n\u00c3\u00b8je for at finde noget, der kan m\u00c3\u00a5le sig med din favorit.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at udforske og bed\u00c3\u00b8mme caf\u00c3\u00a9ens \u00c3\u00b8vrige udvalg.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du v\u00c3\u00a5gner op og opdager, at du ved et uheld har sovet over dig og er sent p\u00c3\u00a5 den til et vigtigt m\u00c3\u00b8de. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det med ro, kl\u00c3\u00a6der dig hurtigt og laver en sjov bem\u00c3\u00a6rkning om det, n\u00c3\u00a5r du ankommer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver super stresset, kl\u00c3\u00a6der dig i rekordfart og lover dig selv, at det aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skynder dig og fokuserer p\u00c3\u00a5 at minimere forsinkelsen og dens impact p\u00c3\u00a5 m\u00c3\u00b8det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig skyldig, sender en hurtig undskyldning til m\u00c3\u00b8dedeltagerne og ankommer s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder alle om at komme med innovative ideer til n\u00c3\u00a6ste store projekt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan h\u00c3\u00a5ndterer du en uenighed med en n\u00c3\u00a6r ven?",
+            "options": [
+                {
+                    "answer": "Ved at diskutere sagen \u00c3\u00a5bent og \u00c3\u00a6rligt for at finde en f\u00c3\u00a6lles forst\u00c3\u00a5else.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Med en let og humoristisk tilgang for at undg\u00c3\u00a5, at stemningen bliver for alvorlig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at forberede dine argumenter grundigt for at sikre en rationel diskussion.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at vinde diskussionen eller overbevise din ven om dit synspunkt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

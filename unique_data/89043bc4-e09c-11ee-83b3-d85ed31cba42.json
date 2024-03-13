@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er til en konference og bliver spurgt om din mening om et emne, du intet ved om. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer \u00c3\u00a6rligt, at du ikke er bekendt med emnet, men er ivrig efter at l\u00c3\u00a6re.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bruger en generel viden for at formulere et sikkert svar og skifter hurtigt emne.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en vittighed om situationen og siger, du vil se frem til at google det senere.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udtrykker en interesse for at h\u00c3\u00b8re andres meninger, f\u00c3\u00b8r du bidrager med dine egne tanker.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan f\u00c3\u00b8ler du omkring spontane planer?",
+            "options": [
+                {
+                    "answer": "Begejstret for nye oplevelser uden forudg\u00c3\u00a5ende planl\u00c3\u00a6gning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Foretr\u00c3\u00a6kker at have tid til at forberede og planl\u00c3\u00a6gge detaljerne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "\u00c3\u2026ben, hvis det bidrager til personlige eller professionelle m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bekymret for, hvordan det p\u00c3\u00a5virker andre planer eller forpligtelser.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Et nyt projekt er landet p\u00c3\u00a5 dit bord med en meget stram deadline. Hvordan tackler du opgaven?",
+            "options": [
+                {
+                    "answer": "Du uddelegerer opgaver for at sikre, at projektet bliver f\u00c3\u00a6rdigt til tiden, uden at g\u00c3\u00a5 p\u00c3\u00a5 kompromis med kvaliteten.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager et dybt \u00c3\u00a5ndedrag og begynder at planl\u00c3\u00a6gge din tilgang, s\u00c3\u00a5 du kan m\u00c3\u00b8de deadline med det bedst mulige resultat.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at vise din evne til at arbejde under pres og begynder straks at arbejde h\u00c3\u00a5rdt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilpasser dig situationen med en positiv holdning og ser det som en udfordring, der kan overvindes med kreativitet.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r mulighed for at omdesigne dit arbejdsomr\u00c3\u00a5de. Hvordan ser dit nye setup ud?",
+            "options": [
+                {
+                    "answer": "Et \u00c3\u00a5bent og fleksibelt layout, der fremmer kreativitet og samarbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et organiseret og effektivt setup med fokus p\u00c3\u00a5 ergonomi og produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et struktureret og funktionelt rum, hvor alt har sin plads for maksimal effektivitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et roligt og behageligt milj\u00c3\u00b8, der underst\u00c3\u00b8tter koncentration og dedikation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

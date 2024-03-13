@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal v\u00c3\u00a6lge en aktivitet for en teambuilding dag. Hvad foresl\u00c3\u00a5r du?",
+            "options": [
+                {
+                    "answer": "En udend\u00c3\u00b8rs eventyraktivitet, der f\u00c3\u00a5r alle til at grine og arbejde sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En workshop, hvor teamet kan l\u00c3\u00a6re nye f\u00c3\u00a6rdigheder sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En aktivitet, der kr\u00c3\u00a6ver pr\u00c3\u00a6cision og opm\u00c3\u00a6rksomhed p\u00c3\u00a5 detaljer, som et escape room.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En frivillig aktivitet, der hj\u00c3\u00a6lper samfundet og styrker teamets samarbejde.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Det er tid til at s\u00c3\u00a6tte personlige m\u00c3\u00a5l p\u00c3\u00a5 arbejdet for det kommende \u00c3\u00a5r. Hvad fokuserer du p\u00c3\u00a5?",
+            "options": [
+                {
+                    "answer": "Du s\u00c3\u00a6tter m\u00c3\u00a5l, der udfordrer dig til at forbedre dine f\u00c3\u00a6rdigheder og bidrage mere til teamets succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 m\u00c3\u00a5l, der giver dig mulighed for at udforske nye omr\u00c3\u00a5der og v\u00c3\u00a6re kreativ i dit arbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udvikler m\u00c3\u00a5l, der afspejler din ambition om at opn\u00c3\u00a5 perfektion og ekspertise inden for dit felt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger m\u00c3\u00a5l, der styrker dit samarbejde med kollegaer og bidrager til et positivt arbejdsmilj\u00c3\u00b8.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver bedt om at lede et m\u00c3\u00b8de i sidste \u00c3\u00b8jeblik. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at lede m\u00c3\u00b8det uden forberedelse, ser det som en sp\u00c3\u00a6ndende udfordring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger de f\u00c3\u00a5 minutter, du har, p\u00c3\u00a5 hurtigt at skitsere de vigtigste punkter og m\u00c3\u00a5l for m\u00c3\u00b8det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fors\u00c3\u00b8ger at f\u00c3\u00a5 et overblik over dagsordenen og forbereder nogle n\u00c3\u00b8glepunkter for at sikre, at m\u00c3\u00b8det forl\u00c3\u00b8ber glat.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s ved tanken om ikke at v\u00c3\u00a6re forberedt, men fors\u00c3\u00b8ger at samle alle tilg\u00c3\u00a6ngelige informationer for at kunne lede m\u00c3\u00b8det effektivt.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal k\u00c3\u00b8be en gave til en, der ikke \u00c3\u00b8nsker sig noget. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du finder en personlig gave, der afspejler din forst\u00c3\u00a5else og omsorg for personen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du k\u00c3\u00b8ber noget sjovt og unikt, der kan bringe et smil frem.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du investerer tid i at finde en gave, der er b\u00c3\u00a5de praktisk og smuk.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger en gave, der udfordrer eller inspirerer personen til at pr\u00c3\u00b8ve noget nyt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

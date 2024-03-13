@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er i biografen og opdager, at personen foran dig bruger deres telefon med fuld lysstyrke. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du ignorerer det og koncentrerer dig om filmen. Det \u00c3\u00b8del\u00c3\u00a6gger ikke din oplevelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og overvejer at sige noget, men beslutter at det er vigtigere at fokusere p\u00c3\u00a5 filmen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du finder en diskret m\u00c3\u00a5de at f\u00c3\u00a5 dem til at forst\u00c3\u00a5, at de forstyrrer, uden at skabe konflikt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er dit ansvar at sige noget, b\u00c3\u00a5de for din og andres skyld, og g\u00c3\u00b8r det h\u00c3\u00b8fligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 camping og glemmer t\u00c3\u00a6ndstikkerne til at t\u00c3\u00a6nde b\u00c3\u00a5let. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder hum\u00c3\u00b8ret h\u00c3\u00b8jt og finder alternative m\u00c3\u00a5der at holde varmen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger timer p\u00c3\u00a5 at fors\u00c3\u00b8ge at starte et b\u00c3\u00a5l med naturlige metoder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en udfordring og bruger din viden til at l\u00c3\u00b8se problemet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for, at alle er okay og deler ekstra t\u00c3\u00a6pper ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal give en uventet pr\u00c3\u00a6sentation p\u00c3\u00a5 arbejde. Hvordan forbereder du dig?",
+            "options": [
+                {
+                    "answer": "Du improviserer og stoler p\u00c3\u00a5 din evne til at tale under pres.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger hvert ledigt minut til at forberede og organisere dine tanker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 de vigtigste pointer for at sikre klarhed og pr\u00c3\u00a6cision.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at inkludere information, der er relevant og v\u00c3\u00a6rdifuld for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du f\u00c3\u00a5r mulighed for at omdesigne dit arbejdsomr\u00c3\u00a5de. Hvordan ser dit nye setup ud?",
+            "options": [
+                {
+                    "answer": "Et \u00c3\u00a5bent og fleksibelt layout, der fremmer kreativitet og samarbejde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Et organiseret og effektivt setup med fokus p\u00c3\u00a5 ergonomi og produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et struktureret og funktionelt rum, hvor alt har sin plads for maksimal effektivitet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et roligt og behageligt milj\u00c3\u00b8, der underst\u00c3\u00b8tter koncentration og dedikation.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har bagt en kage, men den falder p\u00c3\u00a5 gulvet lige f\u00c3\u00b8r g\u00c3\u00a6sterne ankommer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og serverer kagen alligevel med en historie.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og bruger tid p\u00c3\u00a5 at lave en ny dessert, selvom det bliver sent.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du improviserer hurtigt og laver en simpel dessert med det, du har, for at vise dine evner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du beklager overfor dine g\u00c3\u00a6ster og tilbyder dem noget andet at spise, du f\u00c3\u00b8ler det er dit ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

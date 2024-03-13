@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "Sp\u00c3\u00b8rgsm\u00c3\u00a5l": "Din bedste ven laver en d\u00c3\u00a5rlig joke med dig. Hvordan reagerer du?",
+            "muligheder": [
+                {
+                    "svar": "Du griner og begynder at planl\u00c3\u00a6gge din h\u00c3\u00a6vn.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "svar": "Du analyserer vittigheden for at finde ud af, hvordan du kan forbedre den n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "svar": "Du roser din ven for hans kreativitet, men lover at sl\u00c3\u00a5 dobbelt s\u00c3\u00a5 h\u00c3\u00a5rdt igen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "svar": "Du minder din ven om vigtigheden af at tage hensyn til andres f\u00c3\u00b8lelser, f\u00c3\u00b8r du laver en joke.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en rapport, der allerede er sendt til din chef. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer fejlen over for din chef og foresl\u00c3\u00a5r en l\u00c3\u00b8sning, viser ansvarlighed.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00a6rgerlig over fejlen og bruger ekstra tid p\u00c3\u00a5 at sikre, at det ikke sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en l\u00c3\u00a6ring og er hurtig til at rette fejlen, sikrer at alt er korrekt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at tage det op med chefen, men er ikke alt for bekymret.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager blandet feedback p\u00c3\u00a5 din pr\u00c3\u00a6sentation fra teamet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du kan forbedre dig til n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det ikke personligt og bruger feedbacken som en mulighed for at l\u00c3\u00a6re og vokse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller opf\u00c3\u00b8lgende sp\u00c3\u00b8rgsm\u00c3\u00a5l for at f\u00c3\u00a5 klarhed over feedbacken og lave en handlingsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle stemmer er h\u00c3\u00b8rt og forst\u00c3\u00a5r vigtigheden af teamets input for at forbedre samarbejdet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 en restaurant og din bestilling kommer ud forkert. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du accepterer retten som en ny oplevelse, m\u00c3\u00a5ske ender det med at blive din nye favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beder h\u00c3\u00b8fligt om at f\u00c3\u00a5 den ret, du oprindeligt bestilte, med en undskyldning for forvirringen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer, om det er v\u00c3\u00a6rd at klage, afh\u00c3\u00a6ngigt af rettens kvalitet og din sult.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du insisterer p\u00c3\u00a5 at f\u00c3\u00a5 det, du betalte for, og bruger h\u00c3\u00a6ndelsen som feedback til restauranten.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal planl\u00c3\u00a6gge din n\u00c3\u00a6ste ferie. Hvordan beslutter du, hvor du skal hen?",
+            "options": [
+                {
+                    "answer": "Du laver en liste over steder og v\u00c3\u00a6lger tilf\u00c3\u00a6ldigt for et element af overraskelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver omfattende research for at finde en destination, der tilbyder den bedste oplevelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du kan tage p\u00c3\u00a5 eventyr og m\u00c3\u00a5ske sl\u00c3\u00a5 nogle personlige rekorder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer steder, der giver mening for dig og dine n\u00c3\u00a6rmeste, m\u00c3\u00a5ske med en kulturel eller l\u00c3\u00a6rerig v\u00c3\u00a6rdi.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du tilbydes en mulighed for karriereudvikling, der kr\u00c3\u00a6ver flytning. Hvordan beslutter du dig?",
+            "options": [
+                {
+                    "answer": "Du laver en pro/con liste for at vurdere, om fordelene ved at flytte overstiger ulemperne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en hurtig beslutning baseret p\u00c3\u00a5 din mavefornemmelse \u00e2\u20ac\u201c eventyr venter!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger et m\u00c3\u00b8de med din mentor for at diskutere, hvordan dette skridt vil p\u00c3\u00a5virke din karriere p\u00c3\u00a5 lang sigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan flytningen vil p\u00c3\u00a5virke din familie og kollegaer, f\u00c3\u00b8r du tr\u00c3\u00a6ffer en beslutning.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en rapport, der allerede er sendt til din chef. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du indr\u00c3\u00b8mmer fejlen over for din chef og foresl\u00c3\u00a5r en l\u00c3\u00b8sning, viser ansvarlighed.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00a6rgerlig over fejlen og bruger ekstra tid p\u00c3\u00a5 at sikre, at det ikke sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en l\u00c3\u00a6ring og er hurtig til at rette fejlen, sikrer at alt er korrekt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker 'pyt' og beslutter dig for at tage det op med chefen, men er ikke alt for bekymret.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i en app, du bruger dagligt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du rapporterer fejlen detaljeret for at hj\u00c3\u00a6lpe med at forbedre appen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du griner af det og finder en midlertidig l\u00c3\u00b8sning eller workaround.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, om fejlen kan udnyttes til din fordel, inden du rapporterer den.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at dele din opdagelse med venner, s\u00c3\u00a5 de ogs\u00c3\u00a5 er opm\u00c3\u00a6rksomme.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og kan ikke bestemme dig for, hvor I skal hen. Hvordan v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Du beslutter at lade din date v\u00c3\u00a6lge for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret liste over muligheder og v\u00c3\u00a6lger den med de bedste anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du ved, du kan vise dine bedste sider.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger din date om deres pr\u00c3\u00a6ferencer for at sikre, de f\u00c3\u00a5r en god oplevelse.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

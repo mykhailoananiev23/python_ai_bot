@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder en stor edderkop i dit hus. Hvad er din f\u00c3\u00b8rste reaktion?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og m\u00c3\u00a5ske endda tager et billede, f\u00c3\u00b8r du fjerner den.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver \u00c3\u00b8jeblikkeligt stresset og bruger lang tid p\u00c3\u00a5 at finde den mest humane m\u00c3\u00a5de at fjerne den p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og bruger straks en effektiv metode til at fange og uds\u00c3\u00a6tte edderkoppen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er din pligt at s\u00c3\u00b8rge for, at edderkoppen kommer sikkert ud, selvom det tager tid.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit fly er forsinket med flere timer. Hvordan fordriver du tiden?",
+            "options": [
+                {
+                    "answer": "Du udnytter tiden til at arbejde og v\u00c3\u00a6re produktiv.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du slapper af og ser det som en god mulighed for at observere mennesker eller l\u00c3\u00a6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker l\u00c3\u00b8bende for opdateringer og planl\u00c3\u00a6gger dine n\u00c3\u00a6ste skridt n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tilbyder din hj\u00c3\u00a6lp til andre rejsende, der m\u00c3\u00a5ske er mere p\u00c3\u00a5virket af forsinkelsen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan h\u00c3\u00a5ndterer du feedback p\u00c3\u00a5 dit arbejde?",
+            "options": [
+                {
+                    "answer": "Ser det som en mulighed for at l\u00c3\u00a6re og vokse.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Tager det ikke for personligt og fokuserer p\u00c3\u00a5 det positive.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer det n\u00c3\u00b8je for at forbedre dine fremtidige pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00c3\u00b8rger for at forst\u00c3\u00a5 konteksten for bedre at kunne opfylde forventningerne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal improvisere en middag for uventede g\u00c3\u00a6ster. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder p\u00c3\u00a5 en ny opskrift med det, du har, og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sammens\u00c3\u00a6tter en menu, der maksimerer ingrediensernes potentiale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en tidsgr\u00c3\u00a6nse for at udfordre dig selv til at lave noget imponerende hurtigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en hyggelig og indbydende atmosf\u00c3\u00a6re, uanset maden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 biblioteket for at finde materiale til et projekt, men det virker som om alle b\u00c3\u00b8gerne du skal bruge er udl\u00c3\u00a5nt. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du tager det roligt og ser det som en mulighed for at udforske alternative kilder og nye perspektiver.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tjekker systematisk online databaser og reserverer de n\u00c3\u00b8dvendige b\u00c3\u00b8ger til n\u00c3\u00a5r de bliver tilg\u00c3\u00a6ngelige.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger bibliotekaren om hj\u00c3\u00a6lp og f\u00c3\u00b8lger deres anbefalinger for at finde lignende materiale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret over situationen, men beslutter dig for at lave en detaljeret plan for, hvordan du kan arbejde rundt om problemet.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

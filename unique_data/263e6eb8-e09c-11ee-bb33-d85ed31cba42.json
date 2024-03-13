@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er blevet tildelt et gruppearbejde med nogen, du ikke kommer godt ud af det med. Hvordan n\u00c3\u00a6rmer du dig opgaven?",
+            "options": [
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 opgavens m\u00c3\u00a5l og fors\u00c3\u00b8ger at finde f\u00c3\u00a6lles grund.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring for dine diplomatiske f\u00c3\u00a6rdigheder og arbejder for en harmonisk l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor til at lette stemningen og opbygge en bedre arbejdsrelation.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger m\u00c3\u00b8der n\u00c3\u00b8je for at sikre, at arbejdet bliver gjort effektivt og uden konflikter.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En afdeling, du sj\u00c3\u00a6ldent arbejder med, beder om din hj\u00c3\u00a6lp til et presserende problem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer problemet n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du bedst kan bidrage med din ekspertise.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du hopper ind med et smil, klar til at hj\u00c3\u00a6lpe og l\u00c3\u00a6re noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en chance for at vise dine f\u00c3\u00a6rdigheder og straks begynder at udarbejde en l\u00c3\u00b8sningsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at forst\u00c3\u00a5 deres behov fuldt ud og koordinerer med dit team for at sikre, at hj\u00c3\u00a6lpen er velorganiseret.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsserie slutter med en skuffende finale. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du starter en diskussion p\u00c3\u00a5 sociale medier for at dele din mening og h\u00c3\u00b8re andres perspektiver.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tr\u00c3\u00a6kker p\u00c3\u00a5 skuldrene og beslutter dig for at finde en ny serie at nyde.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du skriver en detaljeret analyse af, hvad du syntes var galt, og hvordan det kunne v\u00c3\u00a6re gjort bedre.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8ger efter fan-teorier og alternative afslutninger online for at finde tr\u00c3\u00b8st.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

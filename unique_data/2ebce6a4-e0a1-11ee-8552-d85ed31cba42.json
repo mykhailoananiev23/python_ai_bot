@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og er nerv\u00c3\u00b8s. Hvad g\u00c3\u00b8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00c3\u00a6rste, der kan ske, er en d\u00c3\u00a5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00c3\u00a5 forh\u00c3\u00a5nd for at sikre, at daten g\u00c3\u00a5r glat.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00c3\u00a6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00b8rger for at ankomme tidligt og tjekker stedet ud, s\u00c3\u00a5 du f\u00c3\u00b8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En kollega sp\u00c3\u00b8rger om din hj\u00c3\u00a6lp til et presserende problem, lige som du skal til at g\u00c3\u00a5 hjem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper gerne, trods det at din aftenplan bliver forsinket.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig, kreativ l\u00c3\u00b8sning, s\u00c3\u00a5 du stadig kan n\u00c3\u00a5 dine egne planer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer problemet og tilbyder den mest effektive l\u00c3\u00b8sning for at spare tid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at demonstrere din ekspertise og engagement.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Midt i en vigtig opgave g\u00c3\u00a5r dit computerprogram ned og taber dit arbejde. Hvad g\u00c3\u00b8r du f\u00c3\u00b8rst?",
+            "options": [
+                {
+                    "answer": "Du tager en pause for at samle dig og undg\u00c3\u00a5r at lade frustrationen tage over.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at lede efter l\u00c3\u00b8sninger for at genskabe eller gendanne dit arbejde.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen for at forst\u00c3\u00a5, hvad der gik galt, og hvordan det kan undg\u00c3\u00a5s i fremtiden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du kontakter IT-support for hj\u00c3\u00a6lp og sikrer, at problemet bliver l\u00c3\u00b8st hurtigt og effektivt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager blandet feedback p\u00c3\u00a5 din pr\u00c3\u00a6sentation fra teamet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken n\u00c3\u00b8je for at forst\u00c3\u00a5, hvordan du kan forbedre dig til n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det ikke personligt og bruger feedbacken som en mulighed for at l\u00c3\u00a6re og vokse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller opf\u00c3\u00b8lgende sp\u00c3\u00b8rgsm\u00c3\u00a5l for at f\u00c3\u00a5 klarhed over feedbacken og lave en handlingsplan.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle stemmer er h\u00c3\u00b8rt og forst\u00c3\u00a5r vigtigheden af teamets input for at forbedre samarbejdet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du finder en fejl i et produkt, du lige har k\u00c3\u00b8bt?",
+            "options": [
+                {
+                    "answer": "Du kontakter straks producenten eller forhandleren for at rapportere fejlen og anmode om en erstatning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det med godt hum\u00c3\u00b8r og ser, om du kan l\u00c3\u00b8se problemet selv.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du unders\u00c3\u00b8ger, hvordan fejlen kunne p\u00c3\u00a5virke produktets ydeevne og overvejer dine muligheder.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du l\u00c3\u00a6ser returpolitikken grundigt for at sikre, at du kan returnere produktet uden problemer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder ud af, at der har v\u00c3\u00a6ret en fejl i en opgave, du har afleveret p\u00c3\u00a5 arbejdet. Din chef har ikke bem\u00c3\u00a6rket det... endnu. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du beder om et m\u00c3\u00b8de med din chef for at forklare fejlen og hvordan du vil rette den.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du krydser fingre og h\u00c3\u00a5ber det bedste, m\u00c3\u00a5ske opdager de det aldrig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at arbejde p\u00c3\u00a5 en l\u00c3\u00b8sning, s\u00c3\u00a5 du er forberedt, hvis nogen bem\u00c3\u00a6rker det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bliver en smule nerv\u00c3\u00b8s og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver spurgt om at deltage i et spontant talentshow. Hvad er din optr\u00c3\u00a6den?",
+            "options": [
+                {
+                    "answer": "En improviseret stand-up rutine, der f\u00c3\u00a5r alle til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En velovervejet recitation af dit yndlingsdigt eller -monolog.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En energisk dans eller sang, som du ved, vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjertevarm fort\u00c3\u00a6lling eller sang, der bringer folk sammen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du v\u00c3\u00a5gner op og opdager, at du ved et uheld har sovet over dig og er sent p\u00c3\u00a5 den til et vigtigt m\u00c3\u00b8de. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det med ro, kl\u00c3\u00a6der dig hurtigt og laver en sjov bem\u00c3\u00a6rkning om det, n\u00c3\u00a5r du ankommer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver super stresset, kl\u00c3\u00a6der dig i rekordfart og lover dig selv, at det aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skynder dig og fokuserer p\u00c3\u00a5 at minimere forsinkelsen og dens impact p\u00c3\u00a5 m\u00c3\u00b8det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig skyldig, sender en hurtig undskyldning til m\u00c3\u00b8dedeltagerne og ankommer s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef annoncerer en overraskende teamudflugt for at booste moralen. Hvad h\u00c3\u00a5ber du, det bliver?",
+            "options": [
+                {
+                    "answer": "En aktivitet, der fremmer teamwork og samarbejde, s\u00c3\u00a5 I kan styrke jeres relationer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "En kreativ og sjov aktivitet, der giver mulighed for at t\u00c3\u00a6nke ud af boksen og slippe dagligdagens stress.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En udfordrende aktivitet, der tester jeres evner og hj\u00c3\u00a6lper med at identificere st\u00c3\u00a6rke sider i teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En velorganiseret og indholdsrig aktivitet, der tilf\u00c3\u00b8jer v\u00c3\u00a6rdi til jeres professionelle udvikling.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

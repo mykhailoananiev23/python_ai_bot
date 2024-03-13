@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er i biografen og opdager, at personen foran dig bruger deres telefon med fuld lysstyrke. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du ignorerer det og koncentrerer dig om filmen. Det \u00c3\u00b8del\u00c3\u00a6gger ikke din oplevelse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret og overvejer at sige noget, men beslutter at det er vigtigere at fokusere p\u00c3\u00a5 filmen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du finder en diskret m\u00c3\u00a5de at f\u00c3\u00a5 dem til at forst\u00c3\u00a5, at de forstyrrer, uden at skabe konflikt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler det er dit ansvar at sige noget, b\u00c3\u00a5de for din og andres skyld, og g\u00c3\u00b8r det h\u00c3\u00b8fligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Til din \u00c3\u00a5rlige evaluering f\u00c3\u00a5r du at vide, at du kan v\u00c3\u00a6lge et omr\u00c3\u00a5de at udvikle. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Et omr\u00c3\u00a5de, hvor du f\u00c3\u00b8ler, at du kan bidrage mere effektivt til teamets succes.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der udfordrer dig og skubber dine gr\u00c3\u00a6nser for personlig og professionel v\u00c3\u00a6kst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der kan forbedre din evne til at udf\u00c3\u00b8re dit arbejde med st\u00c3\u00b8rre pr\u00c3\u00a6cision og detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der giver dig mulighed for at udforske nye ideer og tilgange til dit arbejde.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00c3\u00b8rgsm\u00c3\u00a5lene er et, du ikke kender svaret p\u00c3\u00a5. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00c3\u00a6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00c3\u00b8rgsm\u00c3\u00a5let for senere at s\u00c3\u00b8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00c3\u00b8je de mulige svar og v\u00c3\u00a6lger det, der virker mest sandsynligt baseret p\u00c3\u00a5 din viden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r at arbejde sammen med holdet for at komme med det bedste g\u00c3\u00a6t, v\u00c3\u00a6rds\u00c3\u00a6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din yndlingsrestaurant introducerer en ny menu. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Bestiller noget helt nyt for at pr\u00c3\u00b8ve noget anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer den nye menu n\u00c3\u00b8je for at finde den perfekte ret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Sp\u00c3\u00b8rger tjeneren om anbefalinger for at tr\u00c3\u00a6ffe den bedste beslutning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "V\u00c3\u00a6lger noget, der ser sundt og ern\u00c3\u00a6ringsrigtigt ud.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

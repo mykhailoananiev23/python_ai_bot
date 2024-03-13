@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er blevet tildelt et gruppearbejde med nogen, du ikke kommer godt ud af det med. Hvordan n\u00c3\u00a6rmer du dig opgaven?",
+            "options": [
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 opgavens m\u00c3\u00a5l og fors\u00c3\u00b8ger at finde f\u00c3\u00a6lles grund.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring for dine diplomatiske f\u00c3\u00a6rdigheder og arbejder for en harmonisk l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger humor til at lette stemningen og opbygge en bedre arbejdsrelation.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger m\u00c3\u00b8der n\u00c3\u00b8je for at sikre, at arbejdet bliver gjort effektivt og uden konflikter.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har mulighed for at udvide dit professionelle netv\u00c3\u00a6rk. Hvad er din strategi?",
+            "options": [
+                {
+                    "answer": "Du planl\u00c3\u00a6gger at deltage i brancherelaterede events og seminarer for at m\u00c3\u00b8de nye mennesker.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager en afslappet tilgang og ser hvilke muligheder, der naturligt opst\u00c3\u00a5r gennem eksisterende kontakter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du opretter en detaljeret plan for at forbinde med specifikke personer via LinkedIn og andre professionelle platforme.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at styrke relationerne inden for dit nuv\u00c3\u00a6rende netv\u00c3\u00a6rk for at bygge videre p\u00c3\u00a5 tillid og loyalitet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din indbakke eksploderer med uops\u00c3\u00a6ttelige emails p\u00c3\u00a5 en travl dag. Hvordan prioriterer du?",
+            "options": [
+                {
+                    "answer": "Du sorterer emails efter vigtighed og deadline, s\u00c3\u00a5 du kan h\u00c3\u00a5ndtere dem i en logisk r\u00c3\u00a6kkef\u00c3\u00b8lge.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter fra toppen \u00e2\u20ac\u201c du f\u00c3\u00a5r klaret det, et skridt ad gangen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du identificerer de opgaver, der direkte p\u00c3\u00a5virker dine m\u00c3\u00a5l, og fokuserer p\u00c3\u00a5 dem f\u00c3\u00b8rst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du svarer hurtigt p\u00c3\u00a5 de nemmeste emails for at reducere antallet og fokuserer derefter p\u00c3\u00a5 de mere kr\u00c3\u00a6vende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du har bagt en kage, men den falder p\u00c3\u00a5 gulvet lige f\u00c3\u00b8r g\u00c3\u00a6sterne ankommer. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du griner af situationen og serverer kagen alligevel med en historie.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og bruger tid p\u00c3\u00a5 at lave en ny dessert, selvom det bliver sent.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du improviserer hurtigt og laver en simpel dessert med det, du har, for at vise dine evner.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du beklager overfor dine g\u00c3\u00a6ster og tilbyder dem noget andet at spise, du f\u00c3\u00b8ler det er dit ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

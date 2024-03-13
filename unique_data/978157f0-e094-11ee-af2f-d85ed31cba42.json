@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal planl\u00c3\u00a6gge en vens f\u00c3\u00b8dselsdagsfest, men har et begr\u00c3\u00a6nset budget. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder kreative DIY-dekorationer og planl\u00c3\u00a6gger hjemmelavede snacks.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du prioriterer udgifterne og bruger pengene, hvor de har st\u00c3\u00b8rst effekt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret budgetplan for at sikre, at du f\u00c3\u00a5r mest muligt ud af hvert \u00c3\u00b8re.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en varm og indbydende atmosf\u00c3\u00a6re, der reflekterer f\u00c3\u00b8dselarens personlighed.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 en road trip og farer vild. Hvad er dit n\u00c3\u00a6ste skridt?",
+            "options": [
+                {
+                    "answer": "Du ser det som en del af eventyret og forts\u00c3\u00a6tter udforskningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger kort og GPS til minuti\u00c3\u00b8st at planl\u00c3\u00a6gge din vej tilbage p\u00c3\u00a5 sporet.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en ny rekord for at finde tilbage til den rigtige rute.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle i bilen er okay med omvejen og informerer om den nye plan.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal improvisere en middag for uventede g\u00c3\u00a6ster. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder p\u00c3\u00a5 en ny opskrift med det, du har, og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sammens\u00c3\u00a6tter en menu, der maksimerer ingrediensernes potentiale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en tidsgr\u00c3\u00a6nse for at udfordre dig selv til at lave noget imponerende hurtigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en hyggelig og indbydende atmosf\u00c3\u00a6re, uanset maden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal holde en pr\u00c3\u00a6sentation, men glemmer pludselig dine noter derhjemme. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du improviserer med et smil og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s og bruger hvert et pausemoment til at genkalde din forberedelse.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 din viden om emnet og bruger det som en chance for at skinne igennem.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor dit publikum og g\u00c3\u00b8r dit bedste under omst\u00c3\u00a6ndighederne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00c3\u00a5 en f\u00c3\u00b8rste date og kan ikke bestemme dig for, hvor I skal hen. Hvordan v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Du beslutter at lade din date v\u00c3\u00a6lge for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret liste over muligheder og v\u00c3\u00a6lger den med de bedste anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sted, hvor du ved, du kan vise dine bedste sider.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sp\u00c3\u00b8rger din date om deres pr\u00c3\u00a6ferencer for at sikre, de f\u00c3\u00a5r en god oplevelse.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

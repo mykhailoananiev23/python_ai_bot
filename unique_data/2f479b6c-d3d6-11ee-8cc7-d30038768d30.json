@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din internetforbindelse g\u00e5r ned, lige som du skal til at streame din yndlingsserie. Hvad g\u00f8r du?",
+            "options": [
+                {
+                    "answer": "Du bruger tiden p\u00e5 at genoptage en gammel hobby eller l\u00e6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester forskellige fejlfindingstrin for at genetablere forbindelsen s\u00e5 hurtigt som muligt.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du planl\u00e6gger en alternativ aktivitet, der ikke kr\u00e6ver internet.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ringer til din internetudbyder for at l\u00f8se problemet med det samme.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Det er din tur til at planl\u00e6gge n\u00e6ste team building aktivitet. Hvad kommer du op med?",
+            "options": [
+                {
+                    "answer": "En detaljeret orienteringsl\u00f8b, der kr\u00e6ver teamwork og probleml\u00f8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En afslappet picnic i parken med spil og musik for at fremme god stemning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En konkurrencebaseret aktivitet, hvor teams k\u00e6mper om at vinde pr\u00e6mier.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "En frivillig dag, hvor teamet sammen kan give tilbage til samfundet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du deltager i en quiz, og et af sp\u00f8rgsm\u00e5lene er et, du ikke kender svaret p\u00e5. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du g\u00e6tter med et smil og ser det som en sjov del af spillet, selv hvis du tager fejl.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret over dig selv for ikke at vide svaret, men noterer sp\u00f8rgsm\u00e5let for senere at s\u00f8ge mere information.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer n\u00f8je de mulige svar og v\u00e6lger det, der virker mest sandsynligt baseret p\u00e5 din viden.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00e5r at arbejde sammen med holdet for at komme med det bedste g\u00e6t, v\u00e6rds\u00e6tter samarbejdet over konkurrencen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En kollega beder om din hj\u00e6lp til et projekt i sidste \u00f8jeblik. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja og t\u00e6nker, at det kunne v\u00e6re sjovt at pr\u00f8ve noget nyt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller klare krav til kvaliteten af arbejdet, f\u00f8r du accepterer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at vise dine evner og siger ja.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du accepterer, fordi du f\u00f8ler det er din pligt at hj\u00e6lpe.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en sj\u00e6lden fugl p\u00e5 din g\u00e5tur. Hvordan dokumenterer du \u00f8jeblikket?",
+            "options": [
+                {
+                    "answer": "Du tager en hurtig selfie med fuglen i baggrunden og deler den p\u00e5 sociale medier.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du observerer fuglen n\u00f8je og noterer detaljer for senere at sl\u00e5 den op.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger din viden om fotografering til at tage det perfekte billede.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder \u00f8jeblikket i stilhed og beslutter m\u00e5ske at fort\u00e6lle om det senere.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

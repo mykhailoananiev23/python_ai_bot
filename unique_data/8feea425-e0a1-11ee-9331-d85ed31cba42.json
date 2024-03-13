@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Din indbakke eksploderer med uops\u00c3\u00a6ttelige emails p\u00c3\u00a5 en travl dag. Hvordan prioriterer du?",
+            "options": [
+                {
+                    "answer": "Du sorterer emails efter vigtighed og deadline, s\u00c3\u00a5 du kan h\u00c3\u00a5ndtere dem i en logisk r\u00c3\u00a6kkef\u00c3\u00b8lge.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter fra toppen \u00e2\u20ac\u201c du f\u00c3\u00a5r klaret det, et skridt ad gangen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du identificerer de opgaver, der direkte p\u00c3\u00a5virker dine m\u00c3\u00a5l, og fokuserer p\u00c3\u00a5 dem f\u00c3\u00b8rst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du svarer hurtigt p\u00c3\u00a5 de nemmeste emails for at reducere antallet og fokuserer derefter p\u00c3\u00a5 de mere kr\u00c3\u00a6vende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din kollega spiller h\u00c3\u00b8j musik fra deres kontor. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en f\u00c3\u00a6lles playliste, s\u00c3\u00a5 alle kan bidrage med sange.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du danser vej til deres kontor for at bede dem skrue ned med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en pr\u00c3\u00a6cis e-mail om kontorets lydpolitik.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring og starter en 'musikkrig' ved at spille din egen musik.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din internetforbindelse g\u00c3\u00a5r ned, lige som du skal til at streame din yndlingsserie. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du bruger tiden p\u00c3\u00a5 at genoptage en gammel hobby eller l\u00c3\u00a6se en bog.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tester forskellige fejlfindingstrin for at genetablere forbindelsen s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du planl\u00c3\u00a6gger en alternativ aktivitet, der ikke kr\u00c3\u00a6ver internet.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du ringer til din internetudbyder for at l\u00c3\u00b8se problemet med det samme.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan f\u00c3\u00b8ler du omkring spontane planer?",
+            "options": [
+                {
+                    "answer": "Begejstret for nye oplevelser uden forudg\u00c3\u00a5ende planl\u00c3\u00a6gning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Foretr\u00c3\u00a6kker at have tid til at forberede og planl\u00c3\u00a6gge detaljerne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "\u00c3\u2026ben, hvis det bidrager til personlige eller professionelle m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Bekymret for, hvordan det p\u00c3\u00a5virker andre planer eller forpligtelser.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du modtager konstruktiv kritik p\u00c3\u00a5 dit arbejde. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Tager det med et smil og ser det som en chance for at l\u00c3\u00a6re.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer feedbacken grundigt for at forbedre dig til n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Bruger feedbacken som motivation for at pr\u00c3\u00a6stere bedre.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "T\u00c3\u00a6nker over, hvordan du kan anvende feedbacken til at hj\u00c3\u00a6lpe teamet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

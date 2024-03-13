@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan beslutter du, hvilken bog du skal l\u00c3\u00a6se n\u00c3\u00a6ste gang?",
+            "options": [
+                {
+                    "answer": "Ud fra en anbefaling fra en ven, der kender din smag.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Ved at v\u00c3\u00a6lge noget, der lyder sjovt eller anderledes.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Efter grundig forskning og l\u00c3\u00a6sning af anmeldelser.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Baseret p\u00c3\u00a5 hvad der vil udvide din viden eller f\u00c3\u00a6rdigheder mest.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "Sp\u00c3\u00b8rgsm\u00c3\u00a5l": "Din bedste ven laver en d\u00c3\u00a5rlig joke med dig. Hvordan reagerer du?",
+            "muligheder": [
+                {
+                    "svar": "Du griner og begynder at planl\u00c3\u00a6gge din h\u00c3\u00a6vn.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "svar": "Du analyserer vittigheden for at finde ud af, hvordan du kan forbedre den n\u00c3\u00a6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "svar": "Du roser din ven for hans kreativitet, men lover at sl\u00c3\u00a5 dobbelt s\u00c3\u00a5 h\u00c3\u00a5rdt igen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "svar": "Du minder din ven om vigtigheden af at tage hensyn til andres f\u00c3\u00b8lelser, f\u00c3\u00b8r du laver en joke.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder en fejl i din vens bryllupsinvitationer, som allerede er blevet sendt ud. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du laver sjov med det og foresl\u00c3\u00a5r en kreativ m\u00c3\u00a5de at rette fejlen p\u00c3\u00a5.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig ansvarlig for at hj\u00c3\u00a6lpe med at finde en l\u00c3\u00b8sning og tilbyder din assistance.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger situationen som en \u00c3\u00b8velse i diplomati og kommunikation for at minimere skaden.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer dig, at de ved, du fort\u00c3\u00a6ller dem det af omsorg og tilbyder din hj\u00c3\u00a6lp til at informere g\u00c3\u00a6sterne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven sp\u00c3\u00b8rger dig om at deltage i et karaoke-show. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja med det samme og t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der vil v\u00c3\u00a6re mest sjov at optr\u00c3\u00a6de med.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s ved tanken og bruger tid p\u00c3\u00a5 at \u00c3\u00b8ve dig, s\u00c3\u00a5 du kan pr\u00c3\u00a6stere dit absolut bedste.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at overg\u00c3\u00a5 dig selv og v\u00c3\u00a6lger en sang, der vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du er ikke vild med id\u00c3\u00a9en, men accepterer, fordi du ikke vil skuffe din ven.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En kollega sp\u00c3\u00b8rger om din hj\u00c3\u00a6lp til et presserende problem, lige som du skal til at g\u00c3\u00a5 hjem. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper gerne, trods det at din aftenplan bliver forsinket.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig, kreativ l\u00c3\u00b8sning, s\u00c3\u00a5 du stadig kan n\u00c3\u00a5 dine egne planer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer problemet og tilbyder den mest effektive l\u00c3\u00b8sning for at spare tid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at demonstrere din ekspertise og engagement.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        }
+    ]
+}

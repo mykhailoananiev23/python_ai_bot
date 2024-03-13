@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du finder ud af, at der har v\u00c3\u00a6ret en fejl i en opgave, du har afleveret p\u00c3\u00a5 arbejdet. Din chef har ikke bem\u00c3\u00a6rket det... endnu. Hvordan h\u00c3\u00a5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du beder om et m\u00c3\u00b8de med din chef for at forklare fejlen og hvordan du vil rette den.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du krydser fingre og h\u00c3\u00a5ber det bedste, m\u00c3\u00a5ske opdager de det aldrig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at arbejde p\u00c3\u00a5 en l\u00c3\u00b8sning, s\u00c3\u00a5 du er forberedt, hvis nogen bem\u00c3\u00a6rker det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bliver en smule nerv\u00c3\u00b8s og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 et m\u00c3\u00b8de og har virkelig brug for at nyse. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder det tilbage s\u00c3\u00a5 diskret som muligt for ikke at forstyrre.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du lader naturen g\u00c3\u00a5 sin gang og siger p\u00c3\u00a6nt undskyld bagefter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger en teknik, du har l\u00c3\u00a6rt til at stoppe nysen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring at nyse s\u00c3\u00a5 lydl\u00c3\u00b8st som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en fejl i en vens vigtige dokument, f\u00c3\u00b8r de sender det. Hvordan fort\u00c3\u00a6ller du dem det?",
+            "options": [
+                {
+                    "answer": "Du p\u00c3\u00a5peger fejlen direkte, men med en hj\u00c3\u00a6lpsom og konstruktiv tilgang.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov bem\u00c3\u00a6rkning for at lette stemningen, f\u00c3\u00b8r du hj\u00c3\u00a6lper med at rette fejlen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du gennemg\u00c3\u00a5r dokumentet grundigt for at sikre, at alt andet er i orden.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r en hurtig gennemgang sammen for at optimere indholdet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Til din \u00c3\u00a5rlige evaluering f\u00c3\u00a5r du at vide, at du kan v\u00c3\u00a6lge et omr\u00c3\u00a5de at udvikle. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Et omr\u00c3\u00a5de, hvor du f\u00c3\u00b8ler, at du kan bidrage mere effektivt til teamets succes.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der udfordrer dig og skubber dine gr\u00c3\u00a6nser for personlig og professionel v\u00c3\u00a6kst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der kan forbedre din evne til at udf\u00c3\u00b8re dit arbejde med st\u00c3\u00b8rre pr\u00c3\u00a6cision og detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der giver dig mulighed for at udforske nye ideer og tilgange til dit arbejde.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal pr\u00c3\u00a6sentere et forslag for en ny vigtig klient. Hvordan forbereder du pr\u00c3\u00a6sentationen?",
+            "options": [
+                {
+                    "answer": "Du forbereder dig grundigt ved at forske i klientens behov og tilpasser dit forslag n\u00c3\u00b8je.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at g\u00c3\u00b8re pr\u00c3\u00a6sentationen dynamisk og engagerende for at skabe en god relation til klienten.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter klare m\u00c3\u00a5l for pr\u00c3\u00a6sentationen og \u00c3\u00b8ver flere gange for at sikre, at budskabet er klart og overbevisende.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du involverer teammedlemmer i forberedelsen for at sikre, at alle aspekter er d\u00c3\u00a6kket og pr\u00c3\u00a6sentationen er fejlfri.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

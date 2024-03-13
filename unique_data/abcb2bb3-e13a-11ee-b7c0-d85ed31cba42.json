@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du f\u00c3\u00a5r et sp\u00c3\u00b8rgsm\u00c3\u00a5l, du ikke kender svaret p\u00c3\u00a5, under en quiz aften. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner og g\u00c3\u00a6tter, quizzen er trods alt bare for sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver irriteret p\u00c3\u00a5 dig selv og lover at l\u00c3\u00a6se op p\u00c3\u00a5 emnet senere.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger logik og eliminering for at komme med det bedste g\u00c3\u00a6t.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du foresl\u00c3\u00a5r teamarbejde for at komme frem til et f\u00c3\u00a6lles g\u00c3\u00a6t.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En vigtig deadline n\u00c3\u00a6rmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du organiserer en ekstra indsatsdag med klare m\u00c3\u00a5l og roller for at sikre, at I n\u00c3\u00a5r i m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tter dem i at overkomme eventuelle hindringer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for, hvad der skal g\u00c3\u00b8res, og sikrer, at alle forst\u00c3\u00a5r deres ansvar og deadlines.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film at se. Hvad g\u00c3\u00a5r du efter?",
+            "options": [
+                {
+                    "answer": "Noget let og underholdende, der f\u00c3\u00a5r dig til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En film med h\u00c3\u00b8je anmeldelser og kritikerroste pr\u00c3\u00a6stationer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En inspirerende historie om at overkomme udfordringer.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En dokumentarfilm, der \u00c3\u00b8ger din viden om et vigtigt emne.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at du ved et uheld har sendt en pinlig e-mail til en forkert modtager. Hvordan retter du op p\u00c3\u00a5 fejlen?",
+            "options": [
+                {
+                    "answer": "Du sender en opf\u00c3\u00b8lgende e-mail med en humoristisk undskyldning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer situationen og udarbejder en strategi for at undg\u00c3\u00a5 lignende fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en l\u00c3\u00a6ringsmulighed for at forbedre din e-mail-etikette.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler et dybt ansvar for at forklare og undskylde overfor den forkerte modtager.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

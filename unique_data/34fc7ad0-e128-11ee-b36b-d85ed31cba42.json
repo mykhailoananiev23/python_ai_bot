@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du skal lede et nyt projekt p\u00c3\u00a5 arbejdet. Hvordan griber du opgaven an?",
+            "options": [
+                {
+                    "answer": "Med entusiasme for at pr\u00c3\u00b8ve nye tilgange og ideer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en detaljeret plan og klare kvalitetsstandarder.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med fokus p\u00c3\u00a5 at opn\u00c3\u00a5 synlige resultater og succes.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en ansvarsfuld tilgang, der sikrer alles velbefindende.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Dit team m\u00c3\u00b8der en uventet deadline. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Med en inspirerende tale om teamets styrke og tidligere succeser.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at foresl\u00c3\u00a5 en team-pause med snacks og musik for at h\u00c3\u00b8jne moralen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at uddelegere opgaver baseret p\u00c3\u00a5 hver persons styrker og effektivitetsniveau.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at minde dem om vigtigheden af deres arbejde og det f\u00c3\u00a6lles m\u00c3\u00a5l.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din chef beder alle om at komme med innovative ideer til n\u00c3\u00a6ste store projekt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du brainstormer en masse kreative ideer uden at bekymre dig om, hvor realistiske de er.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du tager initiativ til at organisere en brainstorm-session, hvor alle kan bidrage med og udvikle ideer sammen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du reflekterer over tidligere projekter for at finde ud af, hvad der kunne forbedres og anvendes innovativt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer markedstrends og forskning for at komme med velovervejede og detaljerede forslag.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En vigtig deadline n\u00c3\u00a6rmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du organiserer en ekstra indsatsdag med klare m\u00c3\u00a5l og roller for at sikre, at I n\u00c3\u00a5r i m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tter dem i at overkomme eventuelle hindringer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for, hvad der skal g\u00c3\u00b8res, og sikrer, at alle forst\u00c3\u00a5r deres ansvar og deadlines.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan organiserer du dit skrivebord?",
+            "options": [
+                {
+                    "answer": "Holder det hyggeligt og personligt, med masser af kreative elementer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Alt har sin plads, og du bruger tid p\u00c3\u00a5 at sikre, at alt er perfekt organiseret.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Dit skrivebord er effektivt organiseret for maksimal produktivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Det er vigtigt for dig, at dit skrivebord afspejler dit professionelle ansvar.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

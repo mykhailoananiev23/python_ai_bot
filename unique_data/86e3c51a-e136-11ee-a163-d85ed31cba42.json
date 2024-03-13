@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du opdager, at en kollega tager \u00c3\u00a6ren for dit arbejde. Hvordan konfronterer du dem?",
+            "options": [
+                {
+                    "answer": "Du tager en direkte samtale med kollegaen for at klarl\u00c3\u00a6gge misforst\u00c3\u00a5elser.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en humoristisk bem\u00c3\u00a6rkning n\u00c3\u00a6ste gang I er i gruppe for at lette stemningen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du samler beviser og forbereder en sag, hvis du skal tage det op med ledelsen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at arbejde endnu h\u00c3\u00a5rdere for at sikre, at din indsats bliver anerkendt fremadrettet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal v\u00c3\u00a6lge en film til film aften, men har sv\u00c3\u00a6rt ved at beslutte. Hvordan tr\u00c3\u00a6ffer du dit valg?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger noget, du ved, alle kan lide, selvom det er en film, du har set f\u00c3\u00b8r.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger en film tilf\u00c3\u00a6ldigt for at g\u00c3\u00b8re aftenen mere sp\u00c3\u00a6ndende og uforudsigelig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du foretager en hurtig unders\u00c3\u00b8gelse for at finde en film, der opfylder alle kriterier for en god aften.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger tid p\u00c3\u00a5 at l\u00c3\u00a6se anmeldelser for at v\u00c3\u00a6lge den bedst anmeldte film.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du er den f\u00c3\u00b8rste til at ankomme til en fest?",
+            "options": [
+                {
+                    "answer": "Du hj\u00c3\u00a6lper v\u00c3\u00a6rten med forberedelserne og nyder den rolige tid f\u00c3\u00b8r stormen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du bruger tiden til at tage nogle sjove selfies eller udforske feststedet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan bruge situationen til at netv\u00c3\u00a6rke eller forberede en indgang.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du dobbelttjekker adressen og tiden for at sikre, at du ikke har gjort en fejl.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan forbereder du dig til en vigtig pr\u00c3\u00a6sentation?",
+            "options": [
+                {
+                    "answer": "Ved at \u00c3\u00b8ve dig flere gange og finpudse hver detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en afslappet tilgang, stoler p\u00c3\u00a5 din evne til at formidle budskabet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at s\u00c3\u00a6tte klare m\u00c3\u00a5l for, hvad du vil opn\u00c3\u00a5 med pr\u00c3\u00a6sentationen.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Ved at sikre, at indholdet er relevant og v\u00c3\u00a6rdifuldt for dit publikum.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at kaffemaskinen er i stykker p\u00c3\u00a5 en mandag morgen. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Laver en sjov besked og h\u00c3\u00a6nger den p\u00c3\u00a5 maskinen, mens du finder en l\u00c3\u00b8sning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Starter en omfattende fejls\u00c3\u00b8gning for at rette op p\u00c3\u00a5 problemet hurtigst muligt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Organiserer en hurtig kaffek\u00c3\u00b8rsel til den n\u00c3\u00a6rmeste caf\u00c3\u00a9 for teamet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Informerer om problemet og foresl\u00c3\u00a5r alternative koffeinkilder.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du modtager en gave, du virkelig ikke bryder dig om. Hvordan takker du for gaven?",
+            "options": [
+                {
+                    "answer": "Du udtrykker taknemmelighed for tanken bag gaven og v\u00c3\u00a6rds\u00c3\u00a6tter gestus.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en sjov kommentar om, hvordan gaven passer overraskende godt ind i din samling.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan du kan inkludere gaven i dit liv p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du analyserer, hvorfor gaven m\u00c3\u00a5ske ikke var det perfekte valg, og t\u00c3\u00a6nker over, hvordan du bedre kan kommunikere dine pr\u00c3\u00a6ferencer.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager, at du har haft din tr\u00c3\u00b8je p\u00c3\u00a5 vrangen hele dagen p\u00c3\u00a5 arbejdet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du griner af det og g\u00c3\u00b8r det til dagens joke blandt kollegerne.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig flov og beslutter dig for at tjekke dig selv ekstra grundigt i spejlet fremover.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det som en lektion i at v\u00c3\u00a6re mere opm\u00c3\u00a6rksom og effektiv i din morgenrutine.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor alle, du har m\u00c3\u00b8dt, selvom de sandsynligvis ikke har lagt m\u00c3\u00a6rke til det.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal improvisere en middag for uventede g\u00c3\u00a6ster. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du finder p\u00c3\u00a5 en ny opskrift med det, du har, og h\u00c3\u00a5ber p\u00c3\u00a5 det bedste.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du sammens\u00c3\u00a6tter en menu, der maksimerer ingrediensernes potentiale.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00c3\u00a6tter en tidsgr\u00c3\u00a6nse for at udfordre dig selv til at lave noget imponerende hurtigt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at skabe en hyggelig og indbydende atmosf\u00c3\u00a6re, uanset maden.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du h\u00c3\u00b8rer din yndlingssang spille i supermarkedet?",
+            "options": [
+                {
+                    "answer": "Du nynner med og lader som om, du er i din egen musikvideo.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver diskret glad indeni, men analyserer teksten mere dybdeg\u00c3\u00a5ende, mens du handler.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger sangen som motivation til at gennemf\u00c3\u00b8re din shopping hurtigere og mere effektivt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du overvejer, hvordan sangen p\u00c3\u00a5virker stemningen for de andre kunder i butikken.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Et nyt projekt er landet p\u00c3\u00a5 dit bord med en meget stram deadline. Hvordan tackler du opgaven?",
+            "options": [
+                {
+                    "answer": "Du uddelegerer opgaver for at sikre, at projektet bliver f\u00c3\u00a6rdigt til tiden, uden at g\u00c3\u00a5 p\u00c3\u00a5 kompromis med kvaliteten.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du tager et dybt \u00c3\u00a5ndedrag og begynder at planl\u00c3\u00a6gge din tilgang, s\u00c3\u00a5 du kan m\u00c3\u00b8de deadline med det bedst mulige resultat.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at vise din evne til at arbejde under pres og begynder straks at arbejde h\u00c3\u00a5rdt.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilpasser dig situationen med en positiv holdning og ser det som en udfordring, der kan overvindes med kreativitet.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        }
+    ]
+}

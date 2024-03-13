@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du bliver spurgt om at deltage i et spontant talentshow. Hvad er din optr\u00c3\u00a6den?",
+            "options": [
+                {
+                    "answer": "En improviseret stand-up rutine, der f\u00c3\u00a5r alle til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En velovervejet recitation af dit yndlingsdigt eller -monolog.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En energisk dans eller sang, som du ved, vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjertevarm fort\u00c3\u00a6lling eller sang, der bringer folk sammen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du v\u00c3\u00a5gner op og opdager, at du ved et uheld har sovet over dig og er sent p\u00c3\u00a5 den til et vigtigt m\u00c3\u00b8de. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du tager det med ro, kl\u00c3\u00a6der dig hurtigt og laver en sjov bem\u00c3\u00a6rkning om det, n\u00c3\u00a5r du ankommer.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver super stresset, kl\u00c3\u00a6der dig i rekordfart og lover dig selv, at det aldrig sker igen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du skynder dig og fokuserer p\u00c3\u00a5 at minimere forsinkelsen og dens impact p\u00c3\u00a5 m\u00c3\u00b8det.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig skyldig, sender en hurtig undskyldning til m\u00c3\u00b8dedeltagerne og ankommer s\u00c3\u00a5 hurtigt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "En vigtig deadline n\u00c3\u00a6rmer sig, og dit team halter bagefter. Hvordan motiverer du dem?",
+            "options": [
+                {
+                    "answer": "Du minder teamet om vigtigheden af deadline og opmuntrer dem med positiv feedback.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du organiserer en ekstra indsatsdag med klare m\u00c3\u00a5l og roller for at sikre, at I n\u00c3\u00a5r i m\u00c3\u00a5l.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle har de n\u00c3\u00b8dvendige ressourcer og st\u00c3\u00b8tter dem i at overkomme eventuelle hindringer.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du laver en detaljeret plan for, hvad der skal g\u00c3\u00b8res, og sikrer, at alle forst\u00c3\u00a5r deres ansvar og deadlines.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven sp\u00c3\u00b8rger dig om at deltage i et karaoke-show. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja med det samme og t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der vil v\u00c3\u00a6re mest sjov at optr\u00c3\u00a6de med.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00c3\u00b8s ved tanken og bruger tid p\u00c3\u00a5 at \u00c3\u00b8ve dig, s\u00c3\u00a5 du kan pr\u00c3\u00a6stere dit absolut bedste.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at overg\u00c3\u00a5 dig selv og v\u00c3\u00a6lger en sang, der vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du er ikke vild med id\u00c3\u00a9en, men accepterer, fordi du ikke vil skuffe din ven.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du opdager en sj\u00c3\u00a6lden fugl p\u00c3\u00a5 din g\u00c3\u00a5tur. Hvordan dokumenterer du \u00c3\u00b8jeblikket?",
+            "options": [
+                {
+                    "answer": "Du tager en hurtig selfie med fuglen i baggrunden og deler den p\u00c3\u00a5 sociale medier.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du observerer fuglen n\u00c3\u00b8je og noterer detaljer for senere at sl\u00c3\u00a5 den op.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du bruger din viden om fotografering til at tage det perfekte billede.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du nyder \u00c3\u00b8jeblikket i stilhed og beslutter m\u00c3\u00a5ske at fort\u00c3\u00a6lle om det senere.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

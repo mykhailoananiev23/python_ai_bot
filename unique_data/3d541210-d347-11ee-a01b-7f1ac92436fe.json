@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du modtager blandet feedback p\u00e5 din pr\u00e6sentation fra teamet. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du analyserer feedbacken n\u00f8je for at forst\u00e5, hvordan du kan forbedre dig til n\u00e6ste gang.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det ikke personligt og bruger feedbacken som en mulighed for at l\u00e6re og vokse.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du stiller opf\u00f8lgende sp\u00f8rgsm\u00e5l for at f\u00e5 klarhed over feedbacken og lave en handlingsplan.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle stemmer er h\u00f8rt og forst\u00e5r vigtigheden af teamets input for at forbedre samarbejdet.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven inviterer dig til at deltage i en ny hobby, som du synes lyder kedelig. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du giver det en chance, t\u00e6nk hvis det viser sig at v\u00e6re sjovt!",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du laver research for at finde noget interessant ved hobbyen, f\u00f8r du beslutter dig.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du siger ja med det m\u00e5l at blive god til hobbyen, selvom den ikke umiddelbart tiltaler dig.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du accepterer invitationen, fordi det er vigtigt at tilbringe tid med din ven.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din ven sp\u00f8rger dig om at deltage i et karaoke-show. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du siger ja med det samme og t\u00e6nker p\u00e5, hvilken sang der vil v\u00e6re mest sjov at optr\u00e6de med.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver nerv\u00f8s ved tanken og bruger tid p\u00e5 at \u00f8ve dig, s\u00e5 du kan pr\u00e6stere dit absolut bedste.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en mulighed for at overg\u00e5 dig selv og v\u00e6lger en sang, der vil imponere publikum.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du er ikke vild med id\u00e9en, men accepterer, fordi du ikke vil skuffe din ven.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00e6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00e6nker, at det er fedt, og skriver din yndlingssang ned p\u00e5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00f8kkenet for at undg\u00e5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00f8vet hjemmefra, og du er fast besluttet p\u00e5 at give publikum en top-pr\u00e6station.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00e6nker p\u00e5, hvilken sang der passer bedst til stemningen og v\u00e6lger noget, som alle kan synge med p\u00e5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00e5 arbejde, og der opst\u00e5r en akut krise. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00f8sning p\u00e5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00f8je for at finde den mest effektive l\u00f8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00f8sning.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00f8lger n\u00f8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

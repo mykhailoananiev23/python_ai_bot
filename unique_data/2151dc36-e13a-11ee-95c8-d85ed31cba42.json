@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du, n\u00c3\u00a5r du st\u00c3\u00a5r over for en fejl du har lavet?",
+            "options": [
+                {
+                    "answer": "Med en praktisk tilgang til at rette op p\u00c3\u00a5 fejlen hurtigst muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med en accept af, at fejl er en del af livet, og en l\u00c3\u00a6ringserfaring.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Med en grundig analyse af, hvad der gik galt, for at undg\u00c3\u00a5 fremtidige fejl.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Med en f\u00c3\u00b8lelse af ansvar over for dem, der er ber\u00c3\u00b8rt af fejlen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 et m\u00c3\u00b8de og har virkelig brug for at nyse. Hvad g\u00c3\u00b8r du?",
+            "options": [
+                {
+                    "answer": "Du holder det tilbage s\u00c3\u00a5 diskret som muligt for ikke at forstyrre.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du lader naturen g\u00c3\u00a5 sin gang og siger p\u00c3\u00a6nt undskyld bagefter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bruger en teknik, du har l\u00c3\u00a6rt til at stoppe nysen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du ser det som en udfordring at nyse s\u00c3\u00a5 lydl\u00c3\u00b8st som muligt.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Din computer crasher midt i et vigtigt arbejde. Hvad er din f\u00c3\u00b8rste handling?",
+            "options": [
+                {
+                    "answer": "Du tager en dyb ind\u00c3\u00a5nding og starter en fejlfinding med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du bliver frustreret og bruger tid p\u00c3\u00a5 at gennemg\u00c3\u00a5 alle trin for at undg\u00c3\u00a5 fremtidige crashes.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00c3\u00a5 at l\u00c3\u00b8se problemet hurtigst muligt for at minimere tidstab.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at du har backup af alle filer og l\u00c3\u00a6rer af situationen til n\u00c3\u00a6ste gang.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du bliver spurgt om at deltage i et spontant talentshow. Hvad er din optr\u00c3\u00a6den?",
+            "options": [
+                {
+                    "answer": "En improviseret stand-up rutine, der f\u00c3\u00a5r alle til at grine.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "En velovervejet recitation af dit yndlingsdigt eller -monolog.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "En energisk dans eller sang, som du ved, vil imponere publikum.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "En hjertevarm fort\u00c3\u00a6lling eller sang, der bringer folk sammen.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til fest, og en karaoke-maskine bliver t\u00c3\u00a6ndt. Hvordan reagerer du?",
+            "options": [
+                {
+                    "answer": "Du t\u00c3\u00a6nker, at det er fedt, og skriver din yndlingssang ned p\u00c3\u00a5 listen - det er ikke vigtigt, hvordan man synger, men at man har det sjovt sammen.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du smutter diskret ud i k\u00c3\u00b8kkenet for at undg\u00c3\u00a5 hele karaoke-cirkusset og finder dig en hyggelig samtale.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du tilmelder dig straks med en sang, du har \u00c3\u00b8vet hjemmefra, og du er fast besluttet p\u00c3\u00a5 at give publikum en top-pr\u00c3\u00a6station.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du t\u00c3\u00a6nker p\u00c3\u00a5, hvilken sang der passer bedst til stemningen og v\u00c3\u00a6lger noget, som alle kan synge med p\u00c3\u00a5.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        }
+    ]
+}

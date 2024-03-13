@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du p\u00c3\u00a5 en ny trend?",
+            "options": [
+                {
+                    "answer": "Med nysgerrighed og en vilje til at pr\u00c3\u00b8ve den af, hvis den virker sjov.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Ved at evaluere dens langsigtede v\u00c3\u00a6rdi og effektivitet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Med skepsis, indtil du har analyseret alle fordele og ulemper.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Ved at overveje, hvordan den p\u00c3\u00a5virker andre og om den fremmer f\u00c3\u00a6llesskab.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er p\u00c3\u00a5 arbejde, og der opst\u00c3\u00a5r en akut krise. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Beholder roen og finder en kreativ l\u00c3\u00b8sning p\u00c3\u00a5 problemet.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Analyserer situationen n\u00c3\u00b8je for at finde den mest effektive l\u00c3\u00b8sning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Tager straks kontrol og leder teamet mod en l\u00c3\u00b8sning.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Sikrer, at alle f\u00c3\u00b8lger n\u00c3\u00b8dprocedurer og holder hovedet koldt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Til din \u00c3\u00a5rlige evaluering f\u00c3\u00a5r du at vide, at du kan v\u00c3\u00a6lge et omr\u00c3\u00a5de at udvikle. Hvad v\u00c3\u00a6lger du?",
+            "options": [
+                {
+                    "answer": "Et omr\u00c3\u00a5de, hvor du f\u00c3\u00b8ler, at du kan bidrage mere effektivt til teamets succes.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der udfordrer dig og skubber dine gr\u00c3\u00a6nser for personlig og professionel v\u00c3\u00a6kst.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der kan forbedre din evne til at udf\u00c3\u00b8re dit arbejde med st\u00c3\u00b8rre pr\u00c3\u00a6cision og detalje.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Et omr\u00c3\u00a5de, der giver dig mulighed for at udforske nye ideer og tilgange til dit arbejde.",
+                    "type": "Pyt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal navngive en ny opdagelse eller opfindelse. Hvordan v\u00c3\u00a6lger du navnet?",
+            "options": [
+                {
+                    "answer": "Du v\u00c3\u00a6lger et navn, der reflekterer form\u00c3\u00a5let og betydningen p\u00c3\u00a5 en kreativ m\u00c3\u00a5de.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du v\u00c3\u00a6lger et sjovt og mindev\u00c3\u00a6rdigt navn, der f\u00c3\u00a5r folk til at smile.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du analyserer navnets potentielle indvirkning og v\u00c3\u00a6lger et, der bedst repr\u00c3\u00a6senterer opfindelsens v\u00c3\u00a6rdi.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du overvejer navnets betydning for samfundet og v\u00c3\u00a6lger et, der inspirerer andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en temafest, men opdager ved ankomsten, at du har misforst\u00c3\u00a5et temaet. Hvordan h\u00c3\u00a5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du griner af dig selv og blander dig med g\u00c3\u00a6sterne, tema eller ej.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du f\u00c3\u00b8ler dig utilpas og overvejer, om du kan \u00c3\u00a6ndre dit outfit med det, du har i bilen.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du beslutter at eje dit outfit og laver en historie om, hvordan det passer ind i temaet.",
+                    "type": "Pr\u00c3\u00a6stations-Preben"
+                },
+                {
+                    "answer": "Du undskylder overfor v\u00c3\u00a6rten og fors\u00c3\u00b8ger at blende ind s\u00c3\u00a5 godt som muligt.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

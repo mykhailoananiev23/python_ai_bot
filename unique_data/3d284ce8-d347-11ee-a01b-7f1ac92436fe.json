@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Hvordan reagerer du, n\u00e5r du finder en fejl i et produkt, du lige har k\u00f8bt?",
+            "options": [
+                {
+                    "answer": "Du kontakter straks producenten eller forhandleren for at rapportere fejlen og anmode om en erstatning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det med godt hum\u00f8r og ser, om du kan l\u00f8se problemet selv.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du unders\u00f8ger, hvordan fejlen kunne p\u00e5virke produktets ydeevne og overvejer dine muligheder.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du l\u00e6ser returpolitikken grundigt for at sikre, at du kan returnere produktet uden problemer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00e5 en uventet fridag?",
+            "options": [
+                {
+                    "answer": "Tager ud p\u00e5 et spontant eventyr eller starter et nyt projekt.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Bruger dagen p\u00e5 at organisere eller forbedre noget i dit hjem.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "S\u00e6tter dig et personligt m\u00e5l for dagen og arbejder p\u00e5 at opn\u00e5 det.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Tilbringer dagen med at g\u00f8re noget nyttigt for andre.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan f\u00f8ler du omkring spontane planer?",
+            "options": [
+                {
+                    "answer": "Begejstret for nye oplevelser uden forudg\u00e5ende planl\u00e6gning.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Foretr\u00e6kker at have tid til at forberede og planl\u00e6gge detaljerne.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "\u00c5ben, hvis det bidrager til personlige eller professionelle m\u00e5l.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Bekymret for, hvordan det p\u00e5virker andre planer eller forpligtelser.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal lave en pr\u00e6sentation, men alle dine noter er p\u00e5 en anden computer. Hvordan improviserer du?",
+            "options": [
+                {
+                    "answer": "Du bruger din viden og charme til at levere pr\u00e6sentationen uden noter.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du fokuserer p\u00e5 de n\u00f8glepunkter, du husker, og holder pr\u00e6sentationen struktureret.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du bruger pauserne til hurtigt at rekonstruere dine vigtigste pointer.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du forklarer situationen til dit publikum og bruger det som en mulighed for en mere interaktiv session.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du skal p\u00e5 en f\u00f8rste date og er nerv\u00f8s. Hvad g\u00f8r du for at berolige dig selv?",
+            "options": [
+                {
+                    "answer": "Du minder dig selv om, at det v\u00e6rste, der kan ske, er en d\u00e5rlig date, hvilket ikke er verdens ende.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du forbereder nogle samtaleemner p\u00e5 forh\u00e5nd for at sikre, at daten g\u00e5r glat.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du laver en liste over dine styrker og succeser for at booste dit selvv\u00e6rd.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du s\u00f8rger for at ankomme tidligt og tjekker stedet ud, s\u00e5 du f\u00f8ler dig mere komfortabel.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}

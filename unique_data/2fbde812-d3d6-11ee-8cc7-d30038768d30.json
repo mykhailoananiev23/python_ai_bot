@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "question": "Du er p\u00e5 en restaurant og din bestilling kommer ud forkert. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du accepterer retten som en ny oplevelse, m\u00e5ske ender det med at blive din nye favorit.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du beder h\u00f8fligt om at f\u00e5 den ret, du oprindeligt bestilte, med en undskyldning for forvirringen.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du analyserer, om det er v\u00e6rd at klage, afh\u00e6ngigt af rettens kvalitet og din sult.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du insisterer p\u00e5 at f\u00e5 det, du betalte for, og bruger h\u00e6ndelsen som feedback til restauranten.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du, n\u00e5r du finder en fejl i et produkt, du lige har k\u00f8bt?",
+            "options": [
+                {
+                    "answer": "Du kontakter straks producenten eller forhandleren for at rapportere fejlen og anmode om en erstatning.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du tager det med godt hum\u00f8r og ser, om du kan l\u00f8se problemet selv.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du unders\u00f8ger, hvordan fejlen kunne p\u00e5virke produktets ydeevne og overvejer dine muligheder.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du l\u00e6ser returpolitikken grundigt for at sikre, at du kan returnere produktet uden problemer.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du finder ud af, at der har v\u00e6ret en fejl i en opgave, du har afleveret p\u00e5 arbejdet. Din chef har ikke bem\u00e6rket det... endnu. Hvordan h\u00e5ndterer du situationen?",
+            "options": [
+                {
+                    "answer": "Du beder om et m\u00f8de med din chef for at forklare fejlen og hvordan du vil rette den.",
+                    "type": "Pligt-Preben"
+                },
+                {
+                    "answer": "Du krydser fingre og h\u00e5ber det bedste, m\u00e5ske opdager de det aldrig.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du begynder straks at arbejde p\u00e5 en l\u00f8sning, s\u00e5 du er forberedt, hvis nogen bem\u00e6rker det.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du bliver en smule nerv\u00f8s og overvejer alle mulige scenarier, men ender med at informere chefen.",
+                    "type": "Perfektionist-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Hvordan reagerer du p\u00e5 et nyt, komplekst software, dit team skal bruge?",
+            "options": [
+                {
+                    "answer": "Du tager initiativ til at l\u00e6re det og holder en uformel workshop for teamet.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du griner ved udsigten til at tackle en ny udfordring og dykker lystigt ind.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du udarbejder en trin-for-trin guide for at mestre softwaren effektivt.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du sikrer, at alle i teamet har de n\u00f8dvendige ressourcer og st\u00f8tte til at l\u00e6re softwaren.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        },
+        {
+            "question": "Du er til en middag, og din ret viser sig at v\u00e6re noget helt andet end det, du bestilte. Hvordan h\u00e5ndterer du det?",
+            "options": [
+                {
+                    "answer": "Du ser det som en mulighed for at pr\u00f8ve noget nyt og tager det med et smil.",
+                    "type": "Pyt-Preben"
+                },
+                {
+                    "answer": "Du er irriteret over fejlen og sikrer, at tjeneren forst\u00e5r vigtigheden af at f\u00e5 det rigtige m\u00e5ltid.",
+                    "type": "Perfektionist-Preben"
+                },
+                {
+                    "answer": "Du vurderer situationen og beslutter, om det er v\u00e6rd at n\u00e6vne, alt imens du s\u00f8ger den bedste l\u00f8sning.",
+                    "type": "Pr\u00e6stations-Preben"
+                },
+                {
+                    "answer": "Du f\u00f8ler det er bedre at undg\u00e5 konfrontation og accepterer m\u00e5ltidet, selvom det ikke var, hvad du \u00f8nskede.",
+                    "type": "Pligt-Preben"
+                }
+            ]
+        }
+    ]
+}
